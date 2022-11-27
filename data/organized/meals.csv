@@ -1,0 +1,4110 @@
+food_id,rest_id,food_name,food_price
+607,1008,Tôm Viên Hạnh Nhân,68000.0
+1798,1008,Bánh Cuốn X.O Sò Điệp Khô,86000.0
+1454,1008,Tổ Chim Chiên Xù,60000.0
+1447,1008,Bánh Nướng Phô Mai,48000.0
+110,1008,Há Cảo Hải Sản Dát Vàng,99000.0
+1249,1008,Bông Cải Sốt Dầu Hào,98000.0
+322,1008,Nấm Rang Kiểu Hồng Kông,118000.0
+188,1008,Bông Cải Sò Điệp Sốt Thịt Cua,228000.0
+409,1008,Xíu Mại Gạch Cua,60000.0
+893,1008,Há Cảo Thuỷ Tinh,60000.0
+1095,1151,Bánh Mì Chấm Cà Phê Sữa,30000.0
+849,1151,Bánh Mì Que Truyền Thống,15000.0
+210,1151,Bánh Mì Que Cá Ngừ Sốt Cay,25000.0
+545,1151,Bánh Mì Que Pate Bơ,17000.0
+1510,1151,Bánh Mì Bò Tiêu Đen,35000.0
+1500,1151,Bánh Mì Thập Cẩm,35000.0
+1019,1151,Bánh Mì Gà Nướng Mật Ong,35000.0
+527,1151,Bánh Mì Truyền thống,25000.0
+1800,1151,Bánh Mì Heo Quay,35000.0
+801,1151,Bánh Mì Trứng,25000.0
+1253,874,BÁNH MÌ CHẤM CÀ PHÊ SỮA,30000.0
+849,874,Bánh Mì Que Truyền Thống,15000.0
+545,874,Bánh Mì Que Pate Bơ,17000.0
+210,874,Bánh Mì Que Cá Ngừ Sốt Cay,25000.0
+1500,874,Bánh Mì Thập Cẩm,35000.0
+1019,874,Bánh Mì Gà Nướng Mật Ong,35000.0
+1510,874,Bánh Mì Bò Tiêu Đen,35000.0
+359,874,Bánh Mì Truyền Thống,25000.0
+1800,874,Bánh Mì Heo Quay,35000.0
+801,874,Bánh Mì Trứng,25000.0
+850,743,Há Cảo Sò Điệp,62000.0
+409,743,Xíu Mại Gạch Cua,60000.0
+893,743,Há Cảo Thuỷ Tinh,60000.0
+1629,743,Chân Gà Hấp Tàu Xì,60000.0
+1622,743,Cơm Chiên Hải Sản Sò Điệp,128000.0
+1443,743,Tàu Hủ Ki Tôm Chiên,60000.0
+641,743,Bánh Bao Kim Sa,60000.0
+1846,743,Bánh Bao Xá Xíu Nướng,60000.0
+980,743,Bánh Xếp Tôm Chiên,60000.0
+81,743,Xôi Gà Trân Châu Trứng Muối,60000.0
+584,973,COMBO 2,494640.0
+1353,973,COMBO 1,430920.0
+564,973,CHICKEN BBQ PIZZA,204120.0
+404,973,Seafoof Platter,430920.0
+317,973,1 QUATTRO FORMAGGI PIZZA,204120.0
+606,973,Hawaiian Pizza 0Đ,204120.0
+1121,973,Green salad,74520.0
+1545,973,Chicken salad,106920.0
+1370,973,Beef salad,171720.0
+1779,973,Buzza salad,128520.0
+607,110,Tôm Viên Hạnh Nhân,68000.0
+1798,110,Bánh Cuốn X.O Sò Điệp Khô,86000.0
+1454,110,Tổ Chim Chiên Xù,60000.0
+110,110,Há Cảo Hải Sản Dát Vàng,99000.0
+1447,110,Bánh Nướng Phô Mai,48000.0
+1249,110,Bông Cải Sốt Dầu Hào,98000.0
+322,110,Nấm Rang Kiểu Hồng Kông,118000.0
+188,110,Bông Cải Sò Điệp Sốt Thịt Cua,228000.0
+893,110,Há Cảo Thuỷ Tinh,60000.0
+850,110,Há Cảo Sò Điệp,62000.0
+190,289,Thịt bò nướng,14000.0
+1737,289,Bánh mì bơ,8000.0
+461,289,Thịt Heo Nướng,14000.0
+116,289,Bánh Mì Bơ Patê,13000.0
+547,289,1 Phần Đu Đủ,10000.0
+909,289,1 Phần Bơ A Tùng,15000.0
+930,289,Bánh Mì Không,4500.0
+584,672,COMBO 2,494640.0
+1353,672,COMBO 1,430920.0
+564,672,CHICKEN BBQ PIZZA,204120.0
+404,672,Seafoof Platter,430920.0
+317,672,1 QUATTRO FORMAGGI PIZZA,204120.0
+606,672,Hawaiian Pizza 0Đ,204120.0
+1121,672,Green salad,74520.0
+1545,672,Chicken salad,106920.0
+1779,672,Buzza salad,128520.0
+1370,672,Beef salad,171720.0
+1870,9,Pepsi lẻ,15000.0
+190,9,Thịt bò nướng,14000.0
+1737,9,Bánh mì bơ,8000.0
+101,9,Thịt Heo Nướng Xiên,14000.0
+1712,9,Bánh Mì Bơ Pate,13000.0
+991,9,1phần đồ chua đu đủ 2g,10000.0
+930,9,Bánh Mì Không,4000.0
+460,9,BOKLOHONG Gỏi Ba Khía,42000.0
+1279,9,Bơ A Tùng /1hủ,15000.0
+642,827,Hoành thánh chiên giòn với giấm chua ngọt,95040.0
+1559,827,Tai heo sốt trứ danh San Fu Lou,95040.0
+1189,827,Đậu hũ hoàng kim,95040.0
+1138,827,Súp hải sản chua cay,95040.0
+248,827,"Gà tiềm trúc xanh, nấm đông cô",105840.0
+1576,827,Xá xíu San Fu Lou,181440.0
+92,827,Há cảo tôm bó xôi 6 pcs,138240.0
+619,827,Há cảo thịt vịt gói kiểu trái lựu 6 pcs,138240.0
+1219,827,Bánh bao phong sa,73440.0
+326,827,Bánh bao xá xíu,62640.0
+795,875,Cháo ếch (nhỏ),105840.0
+1639,875,Cháo ếch (lớn),213840.0
+612,875,Cháo ếch (vừa),181440.0
+851,875,Cháo trắng thêm,32400.0
+1361,875,Đậu bắp rang muối ớt,74520.0
+1462,875,Nấm kim châm rang muối ớt,85320.0
+929,875,Rau nấm thập cẩm rang muối ớt,106920.0
+1337,875,Nấm bào ngư rang muối ớt,85320.0
+637,875,Cà tím rang muối ớt,74520.0
+1379,875,Nấm tay cầm,106920.0
+636,613,Tàu hủ tả pí lù,32000.0
+224,613,Tàu hủ truyền thống,17000.0
+626,613,Tàu hủ thập cẩm,25000.0
+178,613,Tàu hủ bánh flan,27000.0
+1479,613,Tàu hủ thập cẩm mít,27000.0
+1413,613,Tàu hủ ngũ sắc mít,25000.0
+120,613,Tàu hủ phô mai,27000.0
+1882,613,Tàu hũ ngũ sắc,22000.0
+1843,613,TÀU DƯỠNG NHÃN,37000.0
+1228,613,Tàu Hủ Xôi dừa,30000.0
+642,550,Hoành thánh chiên giòn với giấm chua ngọt,95040.0
+1189,550,Đậu hũ hoàng kim,95040.0
+1559,550,Tai heo sốt trứ danh San Fu Lou,95040.0
+1856,550,Bắp bò kiểu Quảng Đông,116640.0
+316,550,Chả giò Quảng Đông,105840.0
+1377,550,"Sườn heo hầm táo đỏ, xà lách xoong",105840.0
+1138,550,Súp hải sản chua cay,95040.0
+248,550,"Gà tiềm trúc xanh, nấm đông cô",105840.0
+1664,550,Súp vi cá tiềm hải vị,419040.0
+1238,550,Súp hải sản ngọc bích,95040.0
+795,207,Cháo ếch (nhỏ),105840.0
+1639,207,Cháo ếch (lớn),213840.0
+612,207,Cháo ếch (vừa),181440.0
+851,207,Cháo trắng thêm,32400.0
+1361,207,Đậu bắp rang muối ớt,74520.0
+1462,207,Nấm kim châm rang muối ớt,85320.0
+1337,207,Nấm bào ngư rang muối ớt,85320.0
+929,207,Rau nấm thập cẩm rang muối ớt,106920.0
+637,207,Cà tím rang muối ớt,74520.0
+1379,207,Nấm tay cầm,106920.0
+690,614,Combo D,80000.0
+626,614,Tàu hủ thập cẩm,22000.0
+100,614,Tàu hủ bánh Flan,25000.0
+1479,614,Tàu hủ thập cẩm mít,25000.0
+159,614,Tàu Hủ Tả Pí Lù,30000.0
+120,614,Tàu hủ phô mai,27000.0
+1213,614,Tàu hủ phô mai đào,27000.0
+1882,614,Tàu hũ ngũ sắc,22000.0
+694,614,Tàu Hũ Truyền Thống,15000.0
+1413,614,Tàu hủ ngũ sắc mít,25000.0
+795,683,Cháo ếch (nhỏ),105840.0
+612,683,Cháo ếch (vừa),181440.0
+1639,683,Cháo ếch (lớn),213840.0
+851,683,Cháo trắng thêm,32400.0
+1361,683,Đậu bắp rang muối ớt,74520.0
+1462,683,Nấm kim châm rang muối ớt,85320.0
+1337,683,Nấm bào ngư rang muối ớt,85320.0
+929,683,Rau nấm thập cẩm rang muối ớt,106920.0
+1379,683,Nấm tay cầm,106920.0
+637,683,Cà tím rang muối ớt,74520.0
+642,475,Hoành thánh chiên giòn với giấm chua ngọt,95040.0
+1189,475,Đậu hũ hoàng kim,95040.0
+1559,475,Tai heo sốt trứ danh San Fu Lou,95040.0
+886,475,Cà tím gà xé sốt giấm ớt,95040.0
+1138,475,Súp hải sản chua cay,95040.0
+1377,475,"Sườn heo hầm táo đỏ, xà lách xoong",105840.0
+248,475,"Gà tiềm trúc xanh, nấm đông cô",105840.0
+1580,475,Vịt quay kiểu Hong Kong,203040.0
+664,475,"Món quay tổng hợp San Fu Lou (gà quay, vịt quay, xá xíu)",289440.0
+1576,475,Xá xíu San Fu Lou,181440.0
+367,322,YOGGURT DẺO TRUYỀN THỐNG,35000.0
+517,322,YOGURT DẺO HẠT ĐÁC CHANH DÂY (hủ),47000.0
+1280,322,YOGURT DẺO HẠT ĐÁC HOA HỒNG (Hủ),47000.0
+1017,322,BÁNH FLAN CARAMEN,35000.0
+1807,322,SỮA CHUA (chai),40000.0
+932,322,BÁNH PLAN LÁ DỨA,35000.0
+636,322,Tàu hủ tả pí lù,32000.0
+224,322,Tàu hủ truyền thống,17000.0
+626,322,Tàu hủ thập cẩm,25000.0
+178,322,Tàu hủ bánh flan,27000.0
+642,568,Hoành thánh chiên giòn với giấm chua ngọt,95040.0
+1189,568,Đậu hũ hoàng kim,95040.0
+1559,568,Tai heo sốt trứ danh San Fu Lou,95040.0
+1856,568,Bắp bò kiểu Quảng Đông,138240.0
+886,568,Cà tím gà xé sốt giấm ớt,95040.0
+1138,568,Súp hải sản chua cay,95040.0
+245,568,"Sườn heo hầm táo đỏ, củ sen",105840.0
+1580,568,Vịt quay kiểu Hong Kong,246240.0
+664,568,"Món quay tổng hợp San Fu Lou (gà quay, vịt quay, xá xíu)",343440.0
+1576,568,Xá xíu San Fu Lou,181440.0
+636,985,Tàu hủ tả pí lù,34000.0
+224,985,Tàu hủ truyền thống,20000.0
+626,985,Tàu hủ thập cẩm,27000.0
+178,985,Tàu hủ bánh flan,27000.0
+1479,985,Tàu hủ thập cẩm mít,29000.0
+120,985,Tàu hủ phô mai,27000.0
+1413,985,Tàu hủ ngũ sắc mít,27000.0
+1882,985,Tàu hũ ngũ sắc,25000.0
+1488,985,Tàu Hủ Xôi Dừa,32000.0
+1843,985,TÀU DƯỠNG NHÃN,37000.0
+1559,917,Tai heo sốt trứ danh San Fu Lou,95040.0
+1856,917,Bắp bò kiểu Quảng Đông,116640.0
+664,917,"Món quay tổng hợp San Fu Lou (gà quay, vịt quay, xá xíu)",289440.0
+1580,917,Vịt quay kiểu Hong Kong,203040.0
+1576,917,Xá xíu San Fu Lou,181440.0
+1700,917,Gà quay sả sốt mè,181440.0
+1152,917,Chân gà hấp tàu xì,64800.0
+53,917,Há cảo tôm sò điệp 3 pcs,73440.0
+1834,917,"Xíu mại nấm hương thịt cua, trứng cá 3 pcs",62640.0
+1672,917,"Xíu mại nấm hương thịt cua, trứng cá 6 pcs",105840.0
+389,946,Bánh tráng nướng thập cẩm,16000.0
+85,946,Nem chua nướng,13000.0
+112,946,Bánh tráng nướng trứng,9000.0
+947,946,Bánh tráng nướng trứng + ruốc,12000.0
+135,946,Bánh tráng nướng trứng + tóp mỡ,15000.0
+1492,946,Cút lộn xào me,22000.0
+1437,946,Bánh tráng nướng trứng + nem,14000.0
+1869,946,Chả cuốn,16000.0
+1717,946,Bánh tráng nướng không trứng,8000.0
+622,946,Bánh mỡ hành,12000.0
+642,565,Hoành thánh chiên giòn với giấm chua ngọt,95040.0
+1559,565,Tai heo sốt trứ danh San Fu Lou,95040.0
+1856,565,Bắp bò kiểu Quảng Đông,138240.0
+666,565,Chả Giò Quảng Đông,95040.0
+1580,565,Vịt quay kiểu Hong Kong,246240.0
+664,565,"Món quay tổng hợp San Fu Lou (gà quay, vịt quay, xá xíu)",343440.0
+1576,565,Xá xíu San Fu Lou,181440.0
+506,565,Ba rọi quay da giòn,203040.0
+1700,565,Gà quay sả sốt mè,213840.0
+1152,565,Chân gà hấp tàu xì,73440.0
+228,1134,Caesar salad - salad sốt kem phô mai thịt xông khói,95000.0
+132,1134,Súp kem nấm,80000.0
+725,1134,Salad cá tầm sốt Fumo đặc biệt,109000.0
+525,1134,Chicken nuggets salad - salad gà giòn sốt kem tỏi,95000.0
+1848,1134,Apple salad - Salad Táo,95000.0
+129,1134,Homemade Salted Salmon Salad - Salad cá hồi muối nhà làm,119000.0
+347,1134,Classic Beef Burger - Burger Bò,125000.0
+561,1134,Mexican flavored burger - Burger kiểu Mexico,135000.0
+1431,1134,Chicken Burger - Burger fillet gà giòn,125000.0
+922,1134,Four Cheese Pizza - Pizza Bốn Loại Phô Mai Ý,99000.0
+1515,328,Kaju Katli (250g),148500.0
+1607,328,Rasgulla (250g),88000.0
+1223,328,Kesar Peda (250g),203500.0
+1385,328,Besan Ladoo (250g),126500.0
+912,328,Rasmalai (250g),148500.0
+651,328,Besan Barfi (250g),132000.0
+743,328,Balu Shahi (250g),203500.0
+46,328,Chickpea sticks (100g),22000.0
+105,328,Chickpea sticks (200g),44000.0
+241,328,Veg Samosa,66000.0
+1684,15,Bánh mì thịt nướng,32000.0
+477,15,Bánh mì gà rim xé,29000.0
+1076,15,Bánh mì thịt nướng + Nước sâm hạt é nha đam,52000.0
+1029,15,Bánh Mì Gà Rim Xé + Nước sâm hạt é nha đam,49000.0
+1216,15,Bánh Mì Thịt nướng + 2 Nước sâm hạt é nha đam,72000.0
+1574,15,Bánh Mì Gà Rim Xé + 2 Nước sâm hạt é nha đam,69000.0
+494,15,Nước sâm hạt é nha đam,20000.0
+660,1197,Sốt San Fu Lou trứ danh,16200.0
+927,1197,Sốt xanh chua cay,16200.0
+1676,1197,Sốt tương đậu cay,16200.0
+286,1197,Bắp bò Mỹ,73440.0
+884,1197,Ba chỉ bò Mỹ,105840.0
+1735,1197,Thịt chóp vai bò Mỹ,105840.0
+1620,1197,Combo thượng hạng,213840.0
+1394,1197,Gầu hoa bò Úc,105840.0
+728,1197,Cổ bò Mỹ,170640.0
+1438,1197,Ba chỉ heo,95040.0
+1515,326,Kaju Katli (250g),148500.0
+1223,326,Kesar Peda (250g),203500.0
+1607,326,Rasgulla (250g),88000.0
+651,326,Besan Barfi (250g),132000.0
+1385,326,Besan Ladoo (250g),126500.0
+743,326,Balu Shahi (250g),203500.0
+241,326,Veg Samosa,66000.0
+1633,326,Papadam (fried),24200.0
+255,326,Masala Papad,44000.0
+1753,326,Paneer Chilli,132000.0
+1684,54,Bánh mì thịt nướng,32000.0
+477,54,Bánh mì gà rim xé,29000.0
+1076,54,Bánh mì thịt nướng + Nước sâm hạt é nha đam,52000.0
+1029,54,Bánh Mì Gà Rim Xé + Nước sâm hạt é nha đam,49000.0
+1216,54,Bánh Mì Thịt nướng + 2 Nước sâm hạt é nha đam,72000.0
+1574,54,Bánh Mì Gà Rim Xé + 2 Nước sâm hạt é nha đam,69000.0
+494,54,Nước sâm hạt é nha đam,20000.0
+1282,880,Bông cải sốt nấm hương,95040.0
+1270,880,Cải xào sốt bào ngư,95040.0
+185,880,Cải bó xôi xào 3 loại trứng,95040.0
+1150,880,Đậu que xào sốt tôm khô,95040.0
+1559,880,Tai heo sốt trứ danh San Fu Lou,95040.0
+1856,880,Bắp bò kiểu Quảng Đông,116640.0
+1580,880,Vịt quay kiểu Hong Kong,203040.0
+664,880,"Món quay tổng hợp San Fu Lou (gà quay, vịt quay, xá xíu)",289440.0
+1576,880,Xá xíu San Fu Lou,181440.0
+506,880,Ba rọi quay da giòn,203040.0
+330,392,Bánh cuốn cuộn tôm,84240.0
+1219,392,Bánh bao phong sa,73440.0
+326,392,Bánh bao xá xíu,62640.0
+1865,392,Đậu hủ ki cuộn tôm thịt chiên,84240.0
+1086,392,Sườn non hấp tàu xì,73440.0
+1530,392,Bánh cuốn sốt tương X.O,84240.0
+631,392,Mì khô xá xíu tương đen,95040.0
+1272,392,Mì khô vịt quay sốt X.O,95040.0
+1301,392,Mì khô sủi cảo tôm thịt sốt sa tế,95040.0
+558,392,"Hoành thánh tôm thịt, giấm đen, dầu ớt",105840.0
+1741,736,Bắp Xào,17000.0
+1319,736,Cuốn chả cá,19000.0
+85,736,Nem chua nướng,19000.0
+914,736,Bắp xào,17000.0
+787,736,YAOURT PHÔ MAI,15000.0
+1634,736,Bánh Tráng Nướng Mắm Ruốc,17000.0
+1396,736,Thịt Heo Xiên Que,20000.0
+1345,736,Bò Cuộn Sả Cây,35000.0
+308,736,Combo 5 Chén Trứng Nướng Pong Đặc Biệt,55000.0
+149,736,Combo 5 Chén Mix ( 3 Chén Pong + 2 Chén Không),50000.0
+546,1198,Đùi gà gạo lức sốt cari cay,385000.0
+1391,1198,Đùi gà nướng bánh gạo cay với phô mai,315000.0
+1411,1198,Đùi gà gạo lức sốt kem,175000.0
+1137,1198,Đùi gà gạo lức sốt Tứ xuyên với rau củ,175000.0
+348,1198,ĐÙI GÀ GẠO LỨC BỘT PHÔ MAI,185000.0
+609,1198,Đùi gà nướng salad + khoai tây miếng,345000.0
+1028,1198,Đùi gà gạo lức salad & khoai tây,355000.0
+945,1198,Gà nướng phô mai tương ớt,175000.0
+718,1198,Gà nướng sốt BBQ,170000.0
+596,1198,Gà nướng truyền thống,155000.0
+1489,746,Spaghetti gà nướng sốt kem,99000.0
+67,746,Cơm đùi gà không xương,75000.0
+1561,746,Cơm đùi gà không xương sốt Hàn Quốc,75000.0
+880,746,Cơm đùi gà không xương sốt kem,75000.0
+493,746,TOKGALBI CHICKEN,90000.0
+1578,746,TOKBOKKI TRUYỀN THỐNG,65000.0
+737,746,Mỳ gói Hàn Quốc,75000.0
+1471,746,Khoai tây chiên,55000.0
+232,746,Cơm Rong Biển,35000.0
+1278,746,Salad,40000.0
+1611,975,Beefsteak with pepper sauce,108000.0
+1031,975,Beefsteak sốt bbq,108000.0
+426,975,Lamb with bbq sauce,115000.0
+356,975,Spaghetti bolognaise,87000.0
+1792,975,Shaky beef,108000.0
+998,975,Beefsteak with cheese slices,135000.0
+268,975,Beefsteak sốt phô mai,108000.0
+856,975,Spaghetti carbonara,90000.0
+1891,975,Shaky ostrich with bbq sauce,108000.0
+1840,975,Striploin steak( có gân và mỡ),160000.0
+1319,442,Cuốn chả cá,17000.0
+1719,442,Bánh tráng nướng Pong,15000.0
+1565,1086,Sườn rang tỏi oliu + 01 Sapporo,227700.0
+1795,1086,Há cảo tôm tươi,84240.0
+1103,1086,Xíu mại,84240.0
+1152,1086,Chân gà hấp tàu xì,73440.0
+380,1086,Đậu hủ ky chiên cuốn tôm tươi,94380.0
+810,1086,Bánh bao xá xíu hấp,64129.99999999999
+574,1086,Bánh bao Thượng Hải,62640.0
+1463,1086,Tôm chiên hoành thánh,74800.0
+475,1086,Nếp gà trân châu gói lá sen,64129.99999999999
+1367,1086,Bánh bao nhân trứng,57240.0
+1687,745,0.5kg Chân Gà Rút Xương Sả Tắc,100000.0
+720,745,0.5kg Chân Gà Rút Xương Sốt Thái,110000.0
+1736,745,Chân Gà Hấp,75000.0
+78,745,Chân Gà Rút Xương Sốt Thái,70000.0
+1730,745,Chân Gà Rút Xương Sả Tắc,70000.0
+1309,745,Yaourt Phô Mai,14000.0
+983,745,Milo Dầm Trân Châu,25000.0
+1007,745,Milo Dầm Trân Châu + Bánh Flan,40000.0
+16,745,Milo Dầm Trân Châu + Bánh Gấu,30000.0
+615,745,Trà Dâu Truyền Thống,30000.0
+1376,317,Bò steak sốt tiêu,108000.0
+291,317,Bò lúc lắc,108000.0
+1760,317,Bò steak phô mai lát,135000.0
+1692,317,Cừu sốt bbq,113000.0
+915,317,Mì Ý thịt nguội cream béo,90000.0
+1836,317,Mì Ý xào bò và rau củ,87000.0
+1560,317,Bò Mỹ phô mai lát,158000.0
+484,317,Cá hồi sốt phô mai,158000.0
+1313,317,Lúc lắc đà điểu sốt bbq,108000.0
+729,317,Steak nai sốt tiêu,108000.0
+1162,722,Cá viên,4000.0
+1490,722,Hoành thánh,5000.0
+979,722,Combo cá viên,20000.0
+568,722,Combo hoành thánh,25000.0
+304,722,Sò Điệp,12000.0
+992,722,Chả cá bọc trứng,10000.0
+276,722,Xúc xích hồ lô,12000.0
+533,722,Xúc xích đại,15000.0
+1100,722,Tàu hủ hải sản,10000.0
+2,722,Combo 5 đậu bắp,27000.0
+1101,404,LƯỠI HEO RIM,75000.0
+1822,404,GÀ NƯỚNG HƯƠNG THẢO,75000.0
+1616,404,DẺ SƯỜN NƯỚNG YAKINIKU,109000.0
+287,404,CÁ NGÂN NƯỚNG MUỐI,109000.0
+40,404,CÁ HỒI SỐT TIÊU CHANH,109000.0
+320,404,Bento cơm nạc vai bò nướng,68855.0
+250,404,Bento cơm cá trứng chiên tempura,56700.0
+1801,404,Bento cơm chiên hải sản,64260.00000000001
+1562,404,Súp cay sụn heo,59675.0
+816,404,Bento cơm ba rọi bò nướng,84672.0
+1611,951,Beefsteak with pepper sauce,108000.0
+1031,951,Beefsteak sốt bbq,108000.0
+268,951,Beefsteak sốt phô mai,108000.0
+356,951,Spaghetti bolognaise,87000.0
+1840,951,Striploin steak( có gân và mỡ),160000.0
+1089,951,Beefsteak sốt dâu tằm,108000.0
+1792,951,Shaky beef,108000.0
+426,951,Lamb with bbq sauce,115000.0
+998,951,Beefsteak with cheese slices,135000.0
+1891,951,Shaky ostrich with bbq sauce,108000.0
+276,499,Xúc xích hồ lô,12000.0
+992,499,Chả cá bọc trứng,10000.0
+304,499,Sò Điệp,12000.0
+533,499,Xúc xích đại,14000.0
+1100,499,Tàu hủ hải sản,10000.0
+979,499,Combo cá viên,30000.0
+700,499,Combo Tôm Viên,35000.0
+394,499,Combo đậu bắp,30000.0
+693,499,Combo Trứng Cút,35000.0
+700,499,Combo Tôm Viên,30000.0
+40,1128,CÁ HỒI SỐT TIÊU CHANH,109000.0
+1822,1128,GÀ NƯỚNG HƯƠNG THẢO,75000.0
+1616,1128,DẺ SƯỜN NƯỚNG YAKINIKU,109000.0
+1101,1128,LƯỠI HEO RIM,75000.0
+287,1128,CÁ NGÂN NƯỚNG MUỐI,109000.0
+320,1128,Bento cơm nạc vai bò nướng,68855.0
+816,1128,Bento cơm ba rọi bò nướng,84672.0
+924,1128,BENTO CƠM CÁNH GÀ NƯỚNG,81000.0
+1801,1128,Bento cơm chiên hải sản,64260.00000000001
+1292,1128,Sườn sụn heo hầm,55463.0
+1031,1142,Beefsteak sốt bbq,108000.0
+1611,1142,Beefsteak with pepper sauce,108000.0
+268,1142,Beefsteak sốt phô mai,108000.0
+426,1142,Lamb with bbq sauce,115000.0
+356,1142,Spaghetti bolognaise,87000.0
+1792,1142,Shaky beef,108000.0
+856,1142,Spaghetti carbonara,90000.0
+1089,1142,Beefsteak sốt dâu tằm,108000.0
+1891,1142,Shaky ostrich with bbq sauce,108000.0
+1840,1142,Striploin steak( có gân và mỡ),160000.0
+1255,122,Combo nhỏ chiên nước mắm,70000.0
+821,122,Combo vừa chiên nước mắm,130000.0
+1242,122,Combo lớn 4-5 ng ăn,200000.0
+276,122,Xúc xích hồ lô,11000.0
+304,122,Sò Điệp,11000.0
+533,122,Xúc xích đại,14000.0
+1162,122,Cá viên,6000.0
+895,122,Cá sốt mayonnaise,6000.0
+704,122,Đậu bắp chiên,4000.0
+953,122,Bò viên,7000.0
+1616,567,DẺ SƯỜN NƯỚNG YAKINIKU,109000.0
+40,567,CÁ HỒI SỐT TIÊU CHANH,109000.0
+1822,567,GÀ NƯỚNG HƯƠNG THẢO,75000.0
+287,567,CÁ NGÂN NƯỚNG MUỐI,109000.0
+1101,567,LƯỠI HEO RIM,75000.0
+320,567,Bento cơm nạc vai bò nướng,68855.0
+250,567,Bento cơm cá trứng chiên tempura,56700.0
+816,567,Bento cơm ba rọi bò nướng,84672.0
+1801,567,Bento cơm chiên hải sản,64260.00000000001
+513,567,Cơm thố thịt bò,56356.0
+1665,1137,Tokyo Course (4-5 khách),754920.0
+1252,1137,Sumo Special Course,862920.0
+211,1137,Combo ba chỉ bò Mỹ,160920.0
+544,1137,Combo thăn vai bò Mỹ,193320.0
+275,1137,Thăn ngoại Bò Mỹ Steak cắt lát sốt BBQ,194400.0
+842,1137,Thăn ngoại bò Mỹ Steak cắt tảng sốt BBQ,194400.0
+711,1137,Sốt chấm chua cay Sumo,10800.0
+1835,1137,Sốt chấm chua ngọt Sumo,10800.0
+765,1137,Dẻ sườn bò Tsubo sốt miso cay,86400.0
+1599,1137,Dẻ Sườn Bò Mỹ sốt Tare,108000.0
+276,1076,Xúc xích hồ lô,11000.0
+304,1076,Sò Điệp,11000.0
+533,1076,Xúc xích đại,15000.0
+1100,1076,Tàu hủ hải sản,9000.0
+992,1076,Chả cá bọc trứng,9000.0
+979,1076,Combo cá viên,25000.0
+847,1076,Combo 5 hoành thánh,30000.0
+2,1076,Combo 5 đậu bắp,25000.0
+700,1076,Combo Tôm Viên,30000.0
+1896,1076,Đậu hũ phô mai,15000.0
+40,27,CÁ HỒI SỐT TIÊU CHANH,109000.0
+1822,27,GÀ NƯỚNG HƯƠNG THẢO,75000.0
+1616,27,DẺ SƯỜN NƯỚNG YAKINIKU,109000.0
+287,27,CÁ NGÂN NƯỚNG MUỐI,109000.0
+1101,27,LƯỠI HEO RIM,75000.0
+320,27,Bento cơm nạc vai bò nướng,68855.0
+816,27,Bento cơm ba rọi bò nướng,84672.0
+250,27,Bento cơm cá trứng chiên tempura,56700.0
+1801,27,Bento cơm chiên hải sản,64260.00000000001
+513,27,Cơm thố thịt bò,56356.0
+56,273,Bánh tráng trứng muối thịt + Nước Sâm,30000.0
+1522,273,Bánh tráng cuốn sốt me bơ,20000.0
+457,273,Bánh tráng trộn tỏi,20000.0
+630,273,Nước sâm,10000.0
+157,273,Bánh tráng cuốn sốt me bơ+Nước sâm,30000.0
+236,273,Trà Tắc,10000.0
+863,273,Trà Chanh,10000.0
+436,273,Bánh tráng chiên phô mai+Nước sâm,30000.0
+273,273,Trà Đào,20000.0
+1167,273,Bánh tráng trộn tỏi+Bánh tráng cuốn sốt bơ tắc+Nước sâm,50000.0
+40,825,CÁ HỒI SỐT TIÊU CHANH,109000.0
+1822,825,GÀ NƯỚNG HƯƠNG THẢO,75000.0
+1616,825,DẺ SƯỜN NƯỚNG YAKINIKU,109000.0
+287,825,CÁ NGÂN NƯỚNG MUỐI,109000.0
+1101,825,LƯỠI HEO RIM,75000.0
+320,825,Bento cơm nạc vai bò nướng,68855.0
+1801,825,Bento cơm chiên hải sản,64260.00000000001
+816,825,Bento cơm ba rọi bò nướng,84672.0
+250,825,Bento cơm cá trứng chiên tempura,56700.0
+526,825,Bento miến xào bò,74913.0
+1660,1048,Bánh tráng trứng muối thịt + Trà Tắc,30000.0
+785,1048,Bánh tráng cuốn bơ muối,20000.0
+1826,1048,Bánh tráng trộn tỏi satế,25000.0
+1522,1048,Bánh tráng cuốn sốt me bơ,20000.0
+219,1048,Bánh tráng cuốn trứng bơ muối,20000.0
+1538,1048,Bánh tráng chiên phô mai,20000.0
+1341,1048,Bánh tráng cuốn sốt bơ tắc,20000.0
+1750,1048,Bánh tráng trộn patê thịt bằm,20000.0
+407,1048,Bánh tráng trộn bơ tỏi,20000.0
+1528,1048,Bánh tráng chấm muối tắc xanh,20000.0
+1264,752,Combo 1K,42000.0
+254,752,Phô mai que (Que),13000.0
+855,752,Xúc xích Esan,15000.0
+1732,752,Xúc Xích Phô Mai - 3 Que,28000.0
+1118,752,Gà truyền thống - 1/2 con,99000.0
+115,752,Combo Xiên Que Best Seller,57000.0
+1534,752,Xúc Xích Sumo - 3 Que,42000.0
+1564,752,Cơm gà giòn giòn (miền Nam),40000.0
+1180,752,Cơm Trắng,8000.0
+1260,752,Cơm gà xốt mơ cay,45000.0
+1433,1053,Cơm gà BangKok,63720.0
+1899,1053,Gỏi cá trê chiên xù với xoài xanh,160920.0
+223,1053,Gỏi đu đủ trứng muối,96120.0
+539,1053,Gỏi miến hải sản,182520.0
+1286,1053,Gỏi đu đủ,85320.0
+41,1053,Gà chiên cuộn lá dứa,150120.0
+9,1053,Thịt heo xiên nướng,150120.0
+575,1053,Heo 01 nắng chao dầu,160920.0
+1501,1053,Heo satay,150120.0
+479,1053,Chả cá chiên đặc biệt,160920.0
+1252,910,Sumo Special Course,862920.0
+1665,910,Tokyo Course (4-5 khách),754920.0
+544,910,Combo thăn vai bò Mỹ,193320.0
+211,910,Combo ba chỉ bò Mỹ,160920.0
+275,910,Thăn ngoại Bò Mỹ Steak cắt lát sốt BBQ,194400.0
+842,910,Thăn ngoại bò Mỹ Steak cắt tảng sốt BBQ,194400.0
+1835,910,Sốt chấm chua ngọt Sumo,10800.0
+711,910,Sốt chấm chua cay Sumo,10800.0
+1599,910,Dẻ Sườn Bò Mỹ sốt Tare,108000.0
+765,910,Dẻ sườn bò Tsubo sốt miso cay,86400.0
+1729,423,Khoai lang chiên (Phần),16000.0
+959,423,Khoai lang chiên (Phần lớn),29000.0
+254,423,Phô mai que (Que),13000.0
+1534,423,Xúc Xích Sumo - 3 Que,42000.0
+1732,423,Xúc Xích Phô Mai - 3 Que,28000.0
+115,423,Combo Xiên Que Best Seller,57000.0
+855,423,Xúc xích Esan,15000.0
+1118,423,Gà truyền thống - 1/2 con,99000.0
+1118,295,Gà truyền thống - 1/2 con,99000.0
+254,295,Phô mai que (Que),13000.0
+855,295,Xúc xích Esan,15000.0
+115,295,Combo Xiên Que Best Seller,57000.0
+1534,295,Xúc Xích Sumo - 3 Que,42000.0
+1732,295,Xúc Xích Phô Mai - 3 Que,28000.0
+1180,295,Cơm Trắng,8000.0
+733,295,Burger chả tôm chiên xù (Mới),35000.0
+1564,295,Cơm gà giòn giòn (miền Nam),40000.0
+165,295,Cơm gà Zo Zo chiên,35000.0
+1433,589,Cơm gà BangKok,63720.0
+1899,589,Gỏi cá trê chiên xù với xoài xanh,160920.0
+223,589,Gỏi đu đủ trứng muối,96120.0
+1286,589,Gỏi đu đủ,85320.0
+539,589,Gỏi miến hải sản,182520.0
+9,589,Thịt heo xiên nướng,150120.0
+41,589,Gà chiên cuộn lá dứa,150120.0
+575,589,Heo 01 nắng chao dầu,160920.0
+1501,589,Heo satay,150120.0
+479,589,Chả cá chiên đặc biệt,160920.0
+959,44,Khoai lang chiên (Phần lớn),29000.0
+1729,44,Khoai lang chiên (Phần),16000.0
+254,44,Phô mai que (Que),13000.0
+1732,44,Xúc Xích Phô Mai - 3 Que,28000.0
+855,44,Xúc xích Esan,15000.0
+115,44,Combo Xiên Que Best Seller,57000.0
+1534,44,Xúc Xích Sumo - 3 Que,42000.0
+808,44,"Combo (2 gà, 1 Khoai)",87000.0
+1433,544,Cơm gà BangKok,63720.0
+9,544,Thịt heo xiên nướng,150120.0
+41,544,Gà chiên cuộn lá dứa,150120.0
+575,544,Heo 01 nắng chao dầu,160920.0
+1501,544,Heo satay,150120.0
+479,544,Chả cá chiên đặc biệt,160920.0
+1899,544,Gỏi cá trê chiên xù với xoài xanh,160920.0
+1286,544,Gỏi đu đủ,85320.0
+223,544,Gỏi đu đủ trứng muối,96120.0
+539,544,Gỏi miến hải sản,182520.0
+1729,751,Khoai lang chiên (Phần),16000.0
+959,751,Khoai lang chiên (Phần lớn),29000.0
+254,751,Phô mai que (Que),13000.0
+115,751,Combo Xiên Que Best Seller,57000.0
+1118,751,Gà truyền thống - 1/2 con,99000.0
+855,751,Xúc xích Esan,15000.0
+1534,751,Xúc Xích Sumo - 3 Que,42000.0
+1732,751,Xúc Xích Phô Mai - 3 Que,28000.0
+1665,254,Tokyo Course (4-5 khách),754920.0
+1252,254,Sumo Special Course,862920.0
+544,254,Combo thăn vai bò Mỹ,193320.0
+211,254,Combo ba chỉ bò Mỹ,160920.0
+275,254,Thăn ngoại Bò Mỹ Steak cắt lát sốt BBQ,194400.0
+842,254,Thăn ngoại bò Mỹ Steak cắt tảng sốt BBQ,194400.0
+1835,254,Sốt chấm chua ngọt Sumo,10800.0
+711,254,Sốt chấm chua cay Sumo,10800.0
+765,254,Dẻ sườn bò Tsubo sốt miso cay,86400.0
+1557,254,Thăn vai bò Mỹ steak,97200.0
+1729,428,Khoai lang chiên (Phần),16000.0
+959,428,Khoai lang chiên (Phần lớn),29000.0
+1732,428,Xúc Xích Phô Mai - 3 Que,28000.0
+1534,428,Xúc Xích Sumo - 3 Que,42000.0
+254,428,Phô mai que (Que),13000.0
+855,428,Xúc xích Esan,15000.0
+115,428,Combo Xiên Que Best Seller,57000.0
+1118,428,Gà truyền thống - 1/2 con,99000.0
+1665,241,Tokyo Course (4-5 khách),754920.0
+1252,241,Sumo Special Course,862920.0
+211,241,Combo ba chỉ bò Mỹ,160920.0
+544,241,Combo thăn vai bò Mỹ,193320.0
+275,241,Thăn ngoại Bò Mỹ Steak cắt lát sốt BBQ,194400.0
+842,241,Thăn ngoại bò Mỹ Steak cắt tảng sốt BBQ,194400.0
+1835,241,Sốt chấm chua ngọt Sumo,10800.0
+711,241,Sốt chấm chua cay Sumo,10800.0
+1599,241,Dẻ Sườn Bò Mỹ sốt Tare,108000.0
+1845,241,Sườn bò Mỹ không xương sốt BBQ,216000.0
+1433,6,Cơm gà BangKok,63720.0
+223,6,Gỏi đu đủ trứng muối,96120.0
+1899,6,Gỏi cá trê chiên xù với xoài xanh,160920.0
+1286,6,Gỏi đu đủ,85320.0
+539,6,Gỏi miến hải sản,182520.0
+9,6,Thịt heo xiên nướng,150120.0
+575,6,Heo 01 nắng chao dầu,160920.0
+41,6,Gà chiên cuộn lá dứa,150120.0
+479,6,Chả cá chiên đặc biệt,160920.0
+1501,6,Heo satay,150120.0
+1433,455,Cơm gà BangKok,63720.0
+1899,455,Gỏi cá trê chiên xù với xoài xanh,160920.0
+1286,455,Gỏi đu đủ,85320.0
+223,455,Gỏi đu đủ trứng muối,96120.0
+539,455,Gỏi miến hải sản,182520.0
+9,455,Thịt heo xiên nướng,150120.0
+575,455,Heo 01 nắng chao dầu,160920.0
+41,455,Gà chiên cuộn lá dứa,150120.0
+479,455,Chả cá chiên đặc biệt,160920.0
+1501,455,Heo satay,150120.0
+211,238,Combo ba chỉ bò Mỹ,160920.0
+544,238,Combo thăn vai bò Mỹ,193320.0
+1665,238,Tokyo Course (4-5 khách),754920.0
+1252,238,Sumo Special Course,862920.0
+275,238,Thăn ngoại Bò Mỹ Steak cắt lát sốt BBQ,194400.0
+842,238,Thăn ngoại bò Mỹ Steak cắt tảng sốt BBQ,194400.0
+711,238,Sốt chấm chua cay Sumo,10800.0
+1835,238,Sốt chấm chua ngọt Sumo,10800.0
+1599,238,Dẻ Sườn Bò Mỹ sốt Tare,108000.0
+1845,238,Sườn bò Mỹ không xương sốt BBQ,216000.0
+959,1185,Khoai lang chiên (Phần lớn),29000.0
+1729,1185,Khoai lang chiên (Phần),16000.0
+115,1185,Combo Xiên Que Best Seller,57000.0
+254,1185,Phô mai que (Que),13000.0
+855,1185,Xúc xích Esan,15000.0
+1732,1185,Xúc Xích Phô Mai - 3 Que,28000.0
+1118,1185,Gà truyền thống - 1/2 con,99000.0
+1534,1185,Xúc Xích Sumo - 3 Que,42000.0
+1433,309,Cơm gà BangKok,63720.0
+41,309,Gà chiên cuộn lá dứa,150120.0
+1501,309,Heo satay,150120.0
+9,309,Thịt heo xiên nướng,150120.0
+479,309,Chả cá chiên đặc biệt,160920.0
+575,309,Heo 01 nắng chao dầu,160920.0
+1899,309,Gỏi cá trê chiên xù với xoài xanh,160920.0
+1286,309,Gỏi đu đủ,85320.0
+539,309,Gỏi miến hải sản,182520.0
+223,309,Gỏi đu đủ trứng muối,96120.0
+959,250,Khoai lang chiên (Phần lớn),29000.0
+1729,250,Khoai lang chiên (Phần),16000.0
+254,250,Phô mai que (Que),13000.0
+1732,250,Xúc Xích Phô Mai - 3 Que,28000.0
+1534,250,Xúc Xích Sumo - 3 Que,42000.0
+855,250,Xúc xích Esan,15000.0
+115,250,Combo Xiên Que Best Seller,57000.0
+1118,250,Gà truyền thống - 1/2 con,99000.0
+684,296,cơm cuộn cá hồi bơ,45000.0
+438,296,cuộn cá hồi tẩm bột chiên,45000.0
+1428,296,cơm cuộn cá hồi,39000.0
+459,277,Mỳ Ý Tomyum,75000.0
+94,277,Mỳ ý gà sốt kem phô mai đút lò,87000.0
+1893,277,Mỳ ý xúc xích kem phô mai đút lò,87000.0
+949,277,Mỳ Ý Gà Giòn,59000.0
+1471,277,Khoai tây chiên,30000.0
+1548,277,Hello Pasta mời bạn,150000.0
+476,277,Món ngon giá tốt,30000.0
+1704,277,Mỳ ý gà sốt teriyaki,63000.0
+670,277,Mỳ ý phô mai kem heo xông khói,60000.0
+769,277,Mỳ ý bò HP - cay,66000.0
+332,1117,Bánh thập cẩm,45000.0
+289,1117,Bánh bèo chén (10 cái),30000.0
+832,1117,Bánh ram ít,10000.0
+1678,1117,Bánh bột lọc (10 cái),45000.0
+625,1117,Bánh nậm,45000.0
+960,1117,Bánh bèo khay,55000.0
+1875,1117,Bánh bèo - bánh lọc (có chả),45000.0
+45,1117,Bánh bèo chén (có chả),45000.0
+133,1117,Bánh bèo - bột lọc - bánh lá (có chả),45000.0
+1052,1117,Bánh bèo - bánh lọc,40000.0
+949,760,Mỳ Ý Gà Giòn,59000.0
+94,760,Mỳ ý gà sốt kem phô mai đút lò,75000.0
+1893,760,Mỳ ý xúc xích kem phô mai đút lò,75000.0
+1471,760,Khoai tây chiên,25000.0
+476,760,Món ngon giá tốt,25000.0
+1704,760,Mỳ ý gà sốt teriyaki,63000.0
+331,760,Mỳ ý bò bằm thảo mộc,56000.0
+670,760,Mỳ ý phô mai kem heo xông khói,60000.0
+769,760,Mỳ ý bò HP - cay,66000.0
+1770,760,Mỳ ý xúc xích sốt HP,59000.0
+648,1024,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,1024,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+1761,1024,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+675,1024,Combo Salad Dzui Dzẻ (7578),99000.0
+521,1024,Combo Nghỉ Giải Lao (7588),109000.0
+1783,1024,Couple Combo B (7576),139000.0
+1135,1024,Couple Combo A (7575),139000.0
+1179,1024,Xà Lách Lắc,37000.0
+1424,1024,Cơm gà tắm mắm tỏi (1662),59000.0
+1016,1024,6 Miếng Gà McNuggets,55000.0
+3,717,Đặc sản bánh bèo Huế gia truyền,45000.0
+1287,717,Bánh lọc đặc biệt Thanh Nga,45000.0
+1707,717,Chả ram tôm đất,50000.0
+111,717,Bún mắm nêm,50000.0
+514,717,Chả Lụa,150000.0
+1905,717,Thập cẩm Đặc biệt Thanh Nga,50000.0
+1496,717,Bánh bèo + Bánh Lọc Thanh Nga,45000.0
+952,717,Bánh ram ít trần đặc sản Thanh Nga,48000.0
+1650,717,Bánh Nậm đặc sản Thanh Nga,45000.0
+1555,717,Bánh bèo + bánh Nậm,45000.0
+445,226,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,226,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,226,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+707,226,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1082,226,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+962,226,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,226,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,226,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,226,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,226,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+42,903,Bánh bèo,45000.0
+832,903,Bánh ram ít,45000.0
+1755,903,Combo tiết kiệm bèo + nậm (lá) + lọc (lá) (Không chả),120000.0
+721,903,Bánh bèo chén,55000.0
+309,903,Bánh ướt nhân tôm khô chấy,50000.0
+1642,903,"Bánh thập cẩm 6 món ( NẬM ,LỌC để lá , chưa có chả )",55000.0
+259,903,Bánh lọc ( 7c để lá ),45000.0
+1514,903,Bánh nậm (7c để lá),45000.0
+582,903,"Bánh Thập cẩm 2 món nậm,lọc (7c để lá)",45000.0
+840,903,Bánh đúc dừa,43000.0
+648,829,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,829,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+1761,829,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+675,829,Combo Salad Dzui Dzẻ (7578),99000.0
+521,829,Combo Nghỉ Giải Lao (7588),109000.0
+1783,829,Couple Combo B (7576),139000.0
+1135,829,Couple Combo A (7575),139000.0
+1424,829,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,829,Xà Lách Lắc,37000.0
+1016,829,6 Miếng Gà McNuggets,55000.0
+445,756,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,756,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,756,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1450,756,2 Gà Giòn Vui Vẻ + 1 Gà Sốt Cay + 1 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây…,139000.0
+707,756,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1082,756,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+1039,756,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+962,756,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1802,756,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,756,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+445,522,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,522,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,522,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,522,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,522,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,522,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,522,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,522,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,522,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,522,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+648,813,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,813,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,813,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,813,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+1135,813,Couple Combo A (7575),139000.0
+1783,813,Couple Combo B (7576),139000.0
+1424,813,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,813,Xà Lách Lắc,37000.0
+1016,813,6 Miếng Gà McNuggets,55000.0
+1146,813,1 Miếng Gà Rán,38000.0
+445,1112,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,1112,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,1112,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,1112,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,1112,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1039,1112,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+962,1112,1 Miếng Gà Giòn Vui Vẻ,30000.0
+982,1112,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+1802,1112,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+576,1112,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+445,1065,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,1065,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,1065,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,1065,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,1065,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,1065,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,1065,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,1065,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,1065,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,1065,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+648,111,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,111,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,111,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,111,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,111,Combo Nghỉ Giải Lao (7588),109000.0
+1135,111,Couple Combo A (7575),139000.0
+1783,111,Couple Combo B (7576),139000.0
+1424,111,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,111,Xà Lách Lắc,37000.0
+1016,111,6 Miếng Gà McNuggets,55000.0
+445,643,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,643,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,643,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,643,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,643,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1039,643,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+962,643,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1802,643,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,643,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,643,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+445,791,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,791,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,791,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+707,791,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,791,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,791,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,791,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,791,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,791,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+1448,791,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên lớn + 1 Nước ngọt lớn,95000.0
+648,916,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,916,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,916,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,916,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,916,Combo Nghỉ Giải Lao (7588),109000.0
+1783,916,Couple Combo B (7576),139000.0
+1135,916,Couple Combo A (7575),139000.0
+1424,916,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,916,Xà Lách Lắc,37000.0
+1146,916,1 Miếng Gà Rán,38000.0
+445,367,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,367,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,367,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,367,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,367,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,367,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,367,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,367,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,367,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,367,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+400,978,Ss ViênTôm phô mai,6000.0
+706,978,Sushi Viên thanh cua,7000.0
+928,978,Sushi Viên thập cẩm,8000.0
+1586,978,Sushi cơm cuộn Cali,7000.0
+726,978,Sushi trứng cuộn đắp trứng tôm,7000.0
+1401,978,Sushi trứng tôm cam,9000.0
+734,978,Cơm cuộn chà bông,3000.0
+38,978,Sushi Viên Trứng,6000.0
+1778,978,cơm cuộn thanh cua Nhỏ,4000.0
+302,978,Sushi cơm cuộn futo,6000.0
+857,1204,Sushi thanh cua đắp mặt,8000.0
+1401,1204,Sushi trứng tôm cam,11000.0
+169,1204,Sushi trứng đắp mặt,8000.0
+871,1204,Cơm cuộn chà bông (viên),3000.0
+557,1204,Cơm cuộn tôm chiên xù đắp phô mai (viên),7000.0
+1866,1204,Sushi cá hồi mayonnaise,9000.0
+217,1204,Cơm cuộn thanh cua (viên),4000.0
+726,1204,Sushi trứng cuộn đắp trứng tôm,7000.0
+788,1204,Sushi xúc xích đắp mặt,8000.0
+1117,1204,Sushi cá ngừ mayonnaise,8000.0
+445,274,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,274,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,274,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+707,274,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1039,274,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+962,274,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1802,274,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,274,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,274,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+1448,274,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên lớn + 1 Nước ngọt lớn,95000.0
+648,761,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+1609,761,Mua 1 tặng 1 Miếng Gà McDonald's kèm nước (4032),58000.0
+655,761,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,761,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,761,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,761,Combo Nghỉ Giải Lao (7588),109000.0
+1783,761,Couple Combo B (7576),139000.0
+1135,761,Couple Combo A (7575),139000.0
+1424,761,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,761,Xà Lách Lắc,37000.0
+1165,569,Coca-Cola không đường 1Đ,12000.0
+1690,569,COMBO 30 viên Dimsum ngẫu nhiên,112500.0
+824,569,COMBO ĐẠI GIA ĐÌNH: 70 VIÊN DIMSUM NGẪU NHIÊN,227500.0
+1536,569,Combo Đại Gia Đình: 50 Viên Dimsum Ngẫu Nhiên,162500.0
+1241,569,Combo Gia Đình 42 Viên Dimsum Ngẫu Nhiên,136500.0
+920,569,Combo 12 Viên GÌ CŨNG ĐƯỢC,45000.0
+883,569,Combo 9 Viên GÌ CŨNG ĐƯỢC,33750.0
+972,569,DIMSUM 4 Viên GÌ CŨNG ĐƯỢC,15000.0
+781,569,Combo 10 Viên GÌ CŨNG ĐƯỢC,37500.0
+329,569,Combo 8 Viên GÌ CŨNG ĐƯỢC,30000.0
+445,952,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,952,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,952,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1450,952,2 Gà Giòn Vui Vẻ + 1 Gà Sốt Cay + 1 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây…,139000.0
+1082,952,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,952,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,952,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,952,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+982,952,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,952,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+648,867,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,867,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,867,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,867,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,867,Combo Nghỉ Giải Lao (7588),109000.0
+1424,867,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,867,Xà Lách Lắc,37000.0
+1016,867,6 Miếng Gà McNuggets,55000.0
+1146,867,1 Miếng Gà Rán,38000.0
+1165,673,Coca-Cola không đường 1Đ,12000.0
+941,673,Combo 20 viên Dimsum Ngẫu Nhiên - Tặng 1 Coca,56000.0
+466,673,"COMBO: Bánh Canh Xương Nạc, Giò Heo + 10 viên Dimsum - Tặng 1 Coca",69600.0
+96,673,Tặng 1 Súp Thịt Bằm - Khi mua 28 Viên Dimsum,78400.0
+532,673,COMBO 1 Súp thịt bằm + 28 Viên DIMSUM Gì Cũng Được,96000.0
+1536,673,Combo Đại Gia Đình: 50 Viên Dimsum Ngẫu Nhiên,140000.0
+1430,673,COMBO ĐẠI GIA ĐÌNH: 100 Viên Dimsum quán chọn ngẫu nhiên,280000.0
+28,673,"COMBO: Bánh Canh Xương Nạc, Giò Heo + Súp thịt bằm + 25 viên…",124400.0
+824,673,COMBO ĐẠI GIA ĐÌNH: 70 VIÊN DIMSUM NGẪU NHIÊN,196000.0
+973,673,Combo 8 viên Dimsum ngẫu nhiên,22400.0
+445,1047,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,1047,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,1047,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+1082,1047,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+707,1047,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+962,1047,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,1047,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+1802,1047,1 Cơm Gà Giòn Vui Vẻ + 1 Súp bí đỏ + 1 Nước ngọt,55000.0
+982,1047,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,1047,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+648,576,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,576,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+1761,576,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+675,576,Combo Salad Dzui Dzẻ (7578),99000.0
+521,576,Combo Nghỉ Giải Lao (7588),109000.0
+1783,576,Couple Combo B (7576),139000.0
+1135,576,Couple Combo A (7575),139000.0
+1424,576,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,576,Xà Lách Lắc,37000.0
+1146,576,1 Miếng Gà Rán,38000.0
+674,1179,Combo Đại Gia Đình: 30 Viên Dimsum Ngẫu Nhiên,96000.0
+543,1179,Tặng Chai Tùy Chọn : Coca/Pepsi/ Ô Long/ Sting Khi Mua 40 Viên Há…,128000.0
+1018,1179,COMBO ĐẠI GIA ĐÌNH: 35 Viên Dimsum Ngẫu Nhiên,112000.0
+1536,1179,Combo Đại Gia Đình: 50 Viên Dimsum Ngẫu Nhiên,160000.0
+72,1179,Combo 32 Viên GÌ CŨNG ĐƯỢC,102400.0
+824,1179,COMBO ĐẠI GIA ĐÌNH: 70 VIÊN DIMSUM NGẪU NHIÊN,224000.0
+926,1179,COMBO ĐẠI GIA ĐÌNH: 40 Viên DIMSUM Gì Cũng Được,128000.0
+182,1179,Combo 8 Viên Dimsum Ngẫu Nhiên,25600.0
+13,1179,Combo 7 Viên Dimsum ngẫu nhiên,22400.0
+1907,1179,Combo 10 Viên Dimsum Ngẫu Nhiên,32000.0
+445,831,2 Mỳ ý vừa + 1 Miếng gà giòn vui vẻ + 2 Miếng gà không xương + 1 Bánh…,145000.0
+1455,831,2 Gà Sốt Cay + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2 …,149000.0
+1157,831,2 Gà Giòn Vui Vẻ + 2 Mì Ý Sốt Bò Bằm vừa + 1 Khoai tây chiên vừa + 2…,139000.0
+707,831,02 Gà giòn + 02 Mì Ý + 2 Cơm Gà giòn + 02 Khoai vừa + 2 Bánh xoài đào +…,295000.0
+1082,831,02 Gà giòn + 02 Mì Ý+ 1 Sandwich thịt nướng + 02 Khoai vừa + 03 Nước…,215000.0
+962,831,1 Miếng Gà Giòn Vui Vẻ,30000.0
+1039,831,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,85000.0
+982,831,1 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên vừa + 1 Nước ngọt lớn,55000.0
+576,831,2 Miếng Gà Giòn Vui Vẻ + 1 Nước ngọt lớn,75000.0
+1448,831,2 Miếng Gà Giòn Vui Vẻ + 1 Khoai tây chiên lớn + 1 Nước ngọt lớn,95000.0
+1217,152,COMBO 30 Viên Dimsum Ngẫu Nhiên,112500.0
+1536,152,Combo Đại Gia Đình: 50 Viên Dimsum Ngẫu Nhiên,162500.0
+824,152,COMBO ĐẠI GIA ĐÌNH: 70 VIÊN DIMSUM NGẪU NHIÊN,227500.0
+214,152,Combo 6 viên Dimsum ngẫu nhiên,22500.0
+676,152,Combo 7 viên Dimsum ngẫu nhiên,26250.0
+973,152,Combo 8 viên Dimsum ngẫu nhiên,30000.0
+1236,152,Combo 10 viên Dimsum ngẫu nhiên,37500.0
+1686,152,DIMSUM 4 viên ngẫu nhiên,15000.0
+22,152,Combo 16 Viên Há Cảo Ngẫu Nhiên,60000.0
+1608,152,Combo: 36 VIÊN DIMSUM NGẪU NHIÊN,135000.0
+1529,1062,Lẩu Thái - 1200ml,70200.0
+1407,1062,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,1062,Lẩu nấm - 1200ml,70200.0
+269,1062,Lẩu Đài Bắc - 1200ml,70200.0
+1781,1062,Lẩu cà chua - 1200ml,70200.0
+1441,1062,Gầu hoa bò Úc - 100gr,63720.0
+209,1062,Ba chỉ bò Mỹ - 100gr,52920.0
+410,1062,Bắp bò Úc - 100gr,63720.0
+682,1062,Gầu bò Mỹ - 100gr,63720.0
+779,1062,Thịt bò mỹ vị - 100gr,52920.0
+419,1029,Combo 30 Viên Dimsum Ngẫu Nhiên,112500.0
+1536,1029,Combo Đại Gia Đình: 50 Viên Dimsum Ngẫu Nhiên,162500.0
+1241,1029,Combo Gia Đình 42 Viên Dimsum Ngẫu Nhiên,136500.0
+824,1029,COMBO ĐẠI GIA ĐÌNH: 70 VIÊN DIMSUM NGẪU NHIÊN,227500.0
+972,1029,DIMSUM 4 Viên GÌ CŨNG ĐƯỢC,15000.0
+911,1029,Combo 3 Viên GÌ CŨNG ĐƯỢC,11250.0
+966,1029,Combo 6 Viên GÌ CŨNG ĐƯỢC,22500.0
+781,1029,Combo 10 Viên GÌ CŨNG ĐƯỢC,37500.0
+154,1029,Combo 17 Viên Há Cảo GÌ CŨNG ĐƯỢC,63750.0
+883,1029,Combo 9 Viên GÌ CŨNG ĐƯỢC,33750.0
+648,516,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,516,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,516,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,516,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,516,Combo Nghỉ Giải Lao (7588),109000.0
+1783,516,Couple Combo B (7576),139000.0
+1135,516,Couple Combo A (7575),139000.0
+1424,516,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,516,Xà Lách Lắc,37000.0
+1016,516,6 Miếng Gà McNuggets,55000.0
+269,724,Lẩu Đài Bắc - 1200ml,70200.0
+1407,724,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,724,Lẩu nấm - 1200ml,70200.0
+1529,724,Lẩu Thái - 1200ml,70200.0
+1781,724,Lẩu cà chua - 1200ml,70200.0
+1441,724,Gầu hoa bò Úc - 100gr,63720.0
+209,724,Ba chỉ bò Mỹ - 100gr,52920.0
+682,724,Gầu bò Mỹ - 100gr,63720.0
+410,724,Bắp bò Úc - 100gr,63720.0
+553,724,Ba chỉ Cừu - 100gr,63720.0
+1355,830,Há Cảo Tôm - Dim Sum (6 viên),26000.0
+1145,830,Xíu Mại - Dimsum (6 viên),26000.0
+454,830,Há Cảo Thịt - Dimsum (6 viên),26000.0
+312,830,Há Cảo Bắp (6 viên),26000.0
+1898,830,Bánh Xếp (6 viên),26000.0
+1273,830,Há Cảo Hẹ - Dim Sum (6 viên),26000.0
+811,830,Phần 6 Viên Thập Cẩm,26000.0
+1383,830,Phần 9 Viên Thập Cẩm,39000.0
+1889,830,"Phần 6 Viên Há Cảo Tôm-Thịt, Xíu Mại",26000.0
+80,830,"Phần 9 Viên Há Cảo Tôm-Thịt, Xíu Mại",39000.0
+1355,1175,Há Cảo Tôm - Dim Sum (6 viên),26000.0
+1145,1175,Xíu Mại - Dimsum (6 viên),26000.0
+1898,1175,Bánh Xếp (6 viên),26000.0
+454,1175,Há Cảo Thịt - Dimsum (6 viên),26000.0
+312,1175,Há Cảo Bắp (6 viên),26000.0
+1273,1175,Há Cảo Hẹ - Dim Sum (6 viên),26000.0
+811,1175,Phần 6 Viên Thập Cẩm,26000.0
+1383,1175,Phần 9 Viên Thập Cẩm,39000.0
+1889,1175,"Phần 6 Viên Há Cảo Tôm-Thịt, Xíu Mại",26000.0
+80,1175,"Phần 9 Viên Há Cảo Tôm-Thịt, Xíu Mại",39000.0
+648,1113,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,1113,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,1113,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,1113,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+521,1113,Combo Nghỉ Giải Lao (7588),109000.0
+1783,1113,Couple Combo B (7576),139000.0
+1135,1113,Couple Combo A (7575),139000.0
+1424,1113,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,1113,Xà Lách Lắc,37000.0
+1016,1113,6 Miếng Gà McNuggets,55000.0
+1529,139,Lẩu Thái - 1200ml,70200.0
+1407,139,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,139,Lẩu nấm - 1200ml,70200.0
+269,139,Lẩu Đài Bắc - 1200ml,70200.0
+1781,139,Lẩu cà chua - 1200ml,70200.0
+1441,139,Gầu hoa bò Úc - 100gr,63720.0
+209,139,Ba chỉ bò Mỹ - 100gr,52920.0
+410,139,Bắp bò Úc - 100gr,63720.0
+682,139,Gầu bò Mỹ - 100gr,63720.0
+779,139,Thịt bò mỹ vị - 100gr,52920.0
+967,299,Súp cua,30000.0
+740,299,Súp cua Óc Heo,45000.0
+1008,299,Súp cua Đặc Biệt,50000.0
+491,299,Súp cua Bắc Thảo,40000.0
+757,299,Súp cua Óc Bắc Thảo,50000.0
+747,299,Súp cua Óc Tủy,50000.0
+411,299,Súp cua nhỏ,20000.0
+340,299,Súp cua Tủy,45000.0
+437,299,Súp cua Tủy Bắc thảo,50000.0
+1196,299,Đặc Biệt Chả Cua,60000.0
+648,518,Phần Ăn Cỡ Lớn 2 Miếng Gà Rán,108000.0
+655,518,Phần Ăn Cỡ Vừa 2 Miếng Gà Rán,99000.0
+675,518,Combo Salad Dzui Dzẻ (7578),99000.0
+1761,518,Combo Nghiện Gà-Mua 2 tặng 2 kèm khoai nước (7587),139000.0
+1783,518,Couple Combo B (7576),139000.0
+1135,518,Couple Combo A (7575),139000.0
+1424,518,Cơm gà tắm mắm tỏi (1662),59000.0
+1179,518,Xà Lách Lắc,37000.0
+1016,518,6 Miếng Gà McNuggets,55000.0
+1146,518,1 Miếng Gà Rán,38000.0
+967,135,Súp cua,30000.0
+740,135,Súp cua Óc Heo,45000.0
+1008,135,Súp cua Đặc Biệt,50000.0
+747,135,Súp cua Óc Tủy,50000.0
+978,135,Súp cua bắc thảo,40000.0
+757,135,Súp cua Óc Bắc Thảo,50000.0
+411,135,Súp cua nhỏ,20000.0
+340,135,Súp cua Tủy,45000.0
+1803,135,Súp Cua Chả Cua,35000.0
+1901,135,Súp Cua Đặc Biệt 2,60000.0
+1491,462,Súp Kimchi,57000.0
+290,462,Trứng cuộn,48000.0
+1171,462,Cơm bokkum thịt bò,53000.0
+230,462,Kimbab thịt bò,45000.0
+1023,462,Topokki,35000.0
+667,462,Mì jajang,45000.0
+1652,462,Cơm bulgogi (Bulgogi Bibimbap),53000.0
+288,462,Miến Japchae cay,64000.0
+396,462,Miến Japchae (không cay),59000.0
+1434,462,Súp bulgogi,57000.0
+1529,762,Lẩu Thái - 1200ml,70200.0
+1570,762,Lẩu nấm - 1200ml,70200.0
+1407,762,Lẩu Mala Đài Loan - 1200ml,81000.0
+1781,762,Lẩu cà chua - 1200ml,70200.0
+269,762,Lẩu Đài Bắc - 1200ml,70200.0
+1441,762,Gầu hoa bò Úc - 100gr,63720.0
+410,762,Bắp bò Úc - 100gr,63720.0
+209,762,Ba chỉ bò Mỹ - 100gr,52920.0
+779,762,Thịt bò mỹ vị - 100gr,52920.0
+682,762,Gầu bò Mỹ - 100gr,63720.0
+1027,213,Combo 1: 2 cá viên + 2 đậu bắp,22000.0
+63,213,Combo 4: 2 cá viên + 1 đậu bắp,17000.0
+343,213,Combo 5: 2 cá viên + 1 khoai tây chiên + 2 đậu bắp,42000.0
+33,213,Khoai Tây Lắc Phô Mai,20000.0
+107,213,Tokbokki Lắc Phô Mai,20000.0
+925,213,Khoai Tây Chiên,20000.0
+1524,213,Da gà lắc phô mai,25000.0
+1839,213,Sụm Gà Lắc Phô Mai,27000.0
+1804,213,Cá Viên Chiên,6000.0
+845,213,Bò Viên,6000.0
+1205,496,Combo 4: 1 cá viên + 1 đậu bắp,11000.0
+1372,496,Combo 2: 1 xúc xích heo + 1 đậu bắp,21000.0
+1027,496,Combo 1: 2 cá viên + 2 đậu bắp,22000.0
+343,496,Combo 5: 2 cá viên + 1 khoai tây chiên + 2 đậu bắp,37000.0
+1202,496,Combo 3: 1 chả cốm+1 đậu bắp,20000.0
+1524,496,Da gà lắc phô mai,20000.0
+1471,496,Khoai tây chiên,15000.0
+324,496,Khoai tây lắc phô mai,15000.0
+1518,496,Tokbokki lắc phô mai,15000.0
+841,496,Takoyaki,30000.0
+1491,1033,Súp Kimchi,57000.0
+1171,1033,Cơm bokkum thịt bò,53000.0
+230,1033,Kimbab thịt bò,45000.0
+667,1033,Mì jajang,45000.0
+1023,1033,Topokki,35000.0
+744,1033,Trứng Cuộn,48000.0
+1829,1033,Cơm trộn kim chi (Kimchi Bibimbap),53000.0
+288,1033,Miến Japchae cay,64000.0
+1652,1033,Cơm bulgogi (Bulgogi Bibimbap),53000.0
+1852,1033,Topokki ramen,38000.0
+1529,365,Lẩu Thái - 1200ml,70200.0
+1407,365,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,365,Lẩu nấm - 1200ml,70200.0
+269,365,Lẩu Đài Bắc - 1200ml,70200.0
+1781,365,Lẩu cà chua - 1200ml,70200.0
+209,365,Ba chỉ bò Mỹ - 100gr,52920.0
+1441,365,Gầu hoa bò Úc - 100gr,63720.0
+410,365,Bắp bò Úc - 100gr,63720.0
+682,365,Gầu bò Mỹ - 100gr,63720.0
+779,365,Thịt bò mỹ vị - 100gr,52920.0
+719,177,Bánh Xèo Tôm Nhảy,30000.0
+1077,177,Bánh Tráng,5000.0
+354,177,Bánh Xèo Thịt Bò,30000.0
+1335,177,"Bánh Xèo Đặc Biệt 3 Nhân (Tôm, Mực, Bò)",40000.0
+1508,177,Bánh Xèo Mực Tươi Phan Thiết,30000.0
+279,177,Bò Nứớng,45000.0
+730,177,Gỏi Đu Đủ Tôm Thit,45000.0
+1491,1201,Súp Kimchi,57000.0
+290,1201,Trứng cuộn,48000.0
+1171,1201,Cơm bokkum thịt bò,53000.0
+230,1201,Kimbab thịt bò,45000.0
+1434,1201,Súp bulgogi,57000.0
+1023,1201,Topokki,35000.0
+396,1201,Miến Japchae (không cay),59000.0
+667,1201,Mì jajang,45000.0
+1652,1201,Cơm bulgogi (Bulgogi Bibimbap),53000.0
+288,1201,Miến Japchae cay,64000.0
+1529,89,Lẩu Thái - 1200ml,70200.0
+1407,89,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,89,Lẩu nấm - 1200ml,70200.0
+1781,89,Lẩu cà chua - 1200ml,70200.0
+269,89,Lẩu Đài Bắc - 1200ml,70200.0
+1441,89,Gầu hoa bò Úc - 100gr,63720.0
+209,89,Ba chỉ bò Mỹ - 100gr,52920.0
+410,89,Bắp bò Úc - 100gr,63720.0
+779,89,Thịt bò mỹ vị - 100gr,52920.0
+682,89,Gầu bò Mỹ - 100gr,63720.0
+719,464,Bánh Xèo Tôm Nhảy,30000.0
+412,464,Bánh Tráng 1 Phần,5000.0
+354,464,Bánh Xèo Thịt Bò,30000.0
+1508,464,Bánh Xèo Mực Tươi Phan Thiết,30000.0
+1335,464,"Bánh Xèo Đặc Biệt 3 Nhân (Tôm, Mực, Bò)",40000.0
+279,464,Bò Nứớng,45000.0
+730,464,Gỏi Đu Đủ Tôm Thit,45000.0
+1491,157,Súp Kimchi,57000.0
+290,157,Trứng cuộn,48000.0
+1171,157,Cơm bokkum thịt bò,53000.0
+1434,157,Súp bulgogi,57000.0
+230,157,Kimbab thịt bò,45000.0
+667,157,Mì jajang,45000.0
+1652,157,Cơm bulgogi (Bulgogi Bibimbap),53000.0
+931,157,Tokbokki phô mai,45000.0
+1023,157,Topokki,35000.0
+396,157,Miến Japchae (không cay),59000.0
+134,178,BÁnh xèo tôm nhảy,30000.0
+1556,178,Bánh xèo thịt bò,30000.0
+1572,178,"Bánh xèo đặc biệt 3 nhân (tôm, mực, bò)",40000.0
+799,178,Bánh xèo mực tươi Phan Thiết,30000.0
+1283,178,Gỏi đu đủ tôm thịt,45000.0
+755,178,Bánh tráng,5000.0
+32,178,Bò nướng,45000.0
+1529,821,Lẩu Thái - 1200ml,70200.0
+1407,821,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,821,Lẩu nấm - 1200ml,70200.0
+269,821,Lẩu Đài Bắc - 1200ml,70200.0
+1781,821,Lẩu cà chua - 1200ml,70200.0
+1441,821,Gầu hoa bò Úc - 100gr,63720.0
+209,821,Ba chỉ bò Mỹ - 100gr,52920.0
+410,821,Bắp bò Úc - 100gr,63720.0
+779,821,Thịt bò mỹ vị - 100gr,52920.0
+553,821,Ba chỉ Cừu - 100gr,63720.0
+1529,645,Lẩu Thái - 1200ml,70200.0
+269,645,Lẩu Đài Bắc - 1200ml,70200.0
+1407,645,Lẩu Mala Đài Loan - 1200ml,81000.0
+1570,645,Lẩu nấm - 1200ml,70200.0
+1781,645,Lẩu cà chua - 1200ml,70200.0
+209,645,Ba chỉ bò Mỹ - 100gr,52920.0
+410,645,Bắp bò Úc - 100gr,63720.0
+1441,645,Gầu hoa bò Úc - 100gr,63720.0
+682,645,Gầu bò Mỹ - 100gr,63720.0
+553,645,Ba chỉ Cừu - 100gr,63720.0
+1855,1004,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+1445,1004,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+351,1041,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+908,1041,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+337,1041,COMBO NUI BỎ LÒ 69K,69000.0
+1718,1041,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,1041,Gà Giòn Xốt Hàn - Cay,99000.0
+406,1041,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,1041,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,1041,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,1041,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1338,1098,Nem chua rán lớn,69000.0
+1883,1098,Nem chua rán nhỏ,39000.0
+349,1098,50v Nem tươi (5 phần nhỏ),169000.0
+1259,1098,100v Nem tươi (5 phần lớn),299000.0
+1445,526,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+1855,526,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+349,281,50v Nem tươi (5 phần nhỏ),169000.0
+1259,281,100v Nem tươi (5 phần lớn),299000.0
+1165,281,Coca-Cola không đường 1Đ,12000.0
+1855,281,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+485,281,Combo 1 người,94000.0
+1635,281,Combo 2 lớn,138000.0
+1445,281,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+196,281,Combo 2 người,179000.0
+713,281,Combo văn phòng,345000.0
+1338,281,Nem chua rán lớn,69000.0
+351,161,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,161,COMBO NUI BỎ LÒ 69K,69000.0
+908,161,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,161,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,161,Gà Giòn Xốt Hàn - Cay,99000.0
+406,161,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,161,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,161,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,161,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+741,1184,Há cảo (3 pcs),82000.0
+439,1184,Xíu mại tôm thịt với nấm hương (3 pcs),70000.0
+368,1184,Sò điệp & nấm cảo (3 pcs),106000.0
+828,1184,Bánh cuốn tôm tươi (3 pcs),90000.0
+1484,1184,Bánh cuốn sò điệp tươi (3 pcs),90000.0
+253,1184,Chân gà hấp tương quế lâm,84000.0
+487,1184,Bánh bao kim sa (3 pcs),75000.0
+1256,1184,Đậu hủ hầm hải sản tay cầm,226000.0
+282,1184,Hoành thánh tôm chiên (3 pcs),70000.0
+1346,1184,Chạo tôm chiên giòn nhân phô mai (3 pcs),100000.0
+351,934,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,934,COMBO NUI BỎ LÒ 69K,69000.0
+908,934,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,934,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+406,934,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+758,934,Gà Giòn Xốt Hàn - Cay,99000.0
+1771,934,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,934,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,934,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+349,28,50v Nem tươi (5 phần nhỏ),169000.0
+1259,28,100v Nem tươi (5 phần lớn),299000.0
+1165,28,Coca-Cola không đường 1Đ,12000.0
+1635,28,Combo 2 lớn,138000.0
+485,28,Combo 1 người,94000.0
+196,28,Combo 2 người,179000.0
+713,28,Combo văn phòng,345000.0
+1338,28,Nem chua rán lớn,69000.0
+839,28,Bánh giò Đông Các,45000.0
+1883,28,Nem chua rán nhỏ,39000.0
+1186,953,Cơm tấm sườn chả,45000.0
+1709,953,Cơm tấm sườn trứng,45000.0
+1494,953,Cơm tấm sườn bì,45000.0
+902,953,Cơm tấm sườn cốt lết nướng,77760.0
+381,953,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,953,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1169,953,Cơm tấm sườn cốt lết + trứng gà,83160.0
+351,357,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+908,357,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+337,357,COMBO NUI BỎ LÒ 69K,69000.0
+758,357,Gà Giòn Xốt Hàn - Cay,99000.0
+406,357,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1718,357,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+1771,357,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,357,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,357,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+349,251,50v Nem tươi (5 phần nhỏ),169000.0
+1259,251,100v Nem tươi (5 phần lớn),299000.0
+1165,251,Coca-Cola không đường 1Đ,12000.0
+1445,251,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+1855,251,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+1334,251,Combo 2 Nem Lớn,138000.0
+713,251,Combo văn phòng,345000.0
+1338,251,Nem chua rán lớn,69000.0
+1883,251,Nem chua rán nhỏ,39000.0
+1617,251,Bánh mì nem khoai Lớn,33000.0
+1048,422,Bánh mì nem khoai nhỏ + trà chanh,40000.0
+1163,422,Trà chanh,15000.0
+1445,422,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+1635,422,Combo 2 lớn,138000.0
+713,422,Combo văn phòng,345000.0
+1338,422,Nem chua rán lớn,69000.0
+1883,422,Nem chua rán nhỏ,39000.0
+629,422,Bánh mì nem khoai lớn,33000.0
+1010,422,Bánh mì nem khoai nhỏ,25000.0
+349,422,50v Nem tươi (5 phần nhỏ),195000.0
+351,102,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+908,102,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+337,102,COMBO NUI BỎ LÒ 69K,69000.0
+406,102,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1718,102,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,102,Gà Giòn Xốt Hàn - Cay,99000.0
+1771,102,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,102,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,102,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1186,1114,Cơm tấm sườn chả,45000.0
+1709,1114,Cơm tấm sườn trứng,45000.0
+1494,1114,Cơm tấm sườn bì,45000.0
+902,1114,Cơm tấm sườn cốt lết nướng,77760.0
+381,1114,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,1114,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+127,1114,Cơm tấm sườn cốt lết 5 món,95040.0
+349,391,50v Nem tươi (5 phần nhỏ),169000.0
+1259,391,100v Nem tươi (5 phần lớn),299000.0
+1165,391,Coca-Cola không đường 1Đ,12000.0
+1635,391,Combo 2 lớn,138000.0
+161,391,Combo Bánh Mì Lớn + Nước,43000.0
+225,391,Combo Bánh Mì Nhỏ + Nước,35000.0
+713,391,Combo văn phòng,345000.0
+1338,391,Nem chua rán lớn,69000.0
+1883,391,Nem chua rán nhỏ,39000.0
+629,391,Bánh mì nem khoai lớn,33000.0
+351,1135,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,1135,COMBO NUI BỎ LÒ 69K,69000.0
+908,1135,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,1135,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,1135,Gà Giòn Xốt Hàn - Cay,99000.0
+406,1135,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,1135,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,1135,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,1135,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+902,203,Cơm tấm sườn cốt lết nướng,77760.0
+381,203,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+1169,203,Cơm tấm sườn cốt lết + trứng gà,83160.0
+683,203,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+127,203,Cơm tấm sườn cốt lết 5 món,95040.0
+1229,203,Cơm tấm sườn cốt lết + chả,83160.0
+1221,203,Cơm tấm sườn cốt lết + bì,83160.0
+742,203,Cơm tấm sườn cốt lết + trứng cút opla,83160.0
+292,203,Cơm tấm sườn non nướng,89640.0
+888,203,Cơm tấm sườn non 7 món,113400.0
+1635,872,Combo 2 lớn,138000.0
+713,872,Combo văn phòng,345000.0
+1338,872,Nem chua rán lớn,69000.0
+1883,872,Nem chua rán nhỏ,39000.0
+629,872,Bánh mì nem khoai lớn,33000.0
+1010,872,Bánh mì nem khoai nhỏ,25000.0
+1048,872,Bánh mì nem khoai nhỏ + trà chanh,40000.0
+1163,872,Trà chanh,15000.0
+1445,872,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+349,872,50v Nem tươi (5 phần nhỏ),195000.0
+351,1007,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,1007,COMBO NUI BỎ LÒ 69K,69000.0
+908,1007,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+406,1007,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1718,1007,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,1007,Gà Giòn Xốt Hàn - Cay,99000.0
+1771,1007,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,1007,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,1007,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1855,708,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+1445,708,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+1635,708,Combo 2 lớn,138000.0
+196,708,Combo 2 người,179000.0
+485,708,Combo 1 người,94000.0
+713,708,Combo văn phòng,345000.0
+1338,708,Nem chua rán lớn,69000.0
+1883,708,Nem chua rán nhỏ,39000.0
+839,708,Bánh giò Đông Các,45000.0
+1469,708,Combo bánh giò,55000.0
+1186,735,Cơm tấm sườn chả,45000.0
+1709,735,Cơm tấm sườn trứng,45000.0
+1494,735,Cơm tấm sườn bì,45000.0
+902,735,Cơm tấm sườn cốt lết nướng,77760.0
+381,735,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,735,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1229,735,Cơm tấm sườn cốt lết + chả,83160.0
+1338,487,Nem chua rán lớn,69000.0
+1883,487,Nem chua rán nhỏ,39000.0
+839,487,Bánh giò Đông Các,45000.0
+11,487,Bánh mì nem khoai Nhỏ,25000.0
+629,487,Bánh mì nem khoai lớn,33000.0
+1469,487,Combo bánh giò,55000.0
+1855,487,Bánh Mì Nem Khoai Nhỏ + Trà Chanh,40000.0
+1445,487,Combo 5 viên Nem chua rán + 1 Trà Chanh Lài,35000.0
+1635,487,Combo 2 lớn,138000.0
+485,487,Combo 1 người,94000.0
+351,1075,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,1075,COMBO NUI BỎ LÒ 69K,69000.0
+908,1075,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+758,1075,Gà Giòn Xốt Hàn - Cay,99000.0
+1718,1075,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+406,1075,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,1075,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,1075,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,1075,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1186,540,Cơm tấm sườn chả,45000.0
+1709,540,Cơm tấm sườn trứng,45000.0
+1494,540,Cơm tấm sườn bì,45000.0
+902,540,Cơm tấm sườn cốt lết nướng,77760.0
+1169,540,Cơm tấm sườn cốt lết + trứng gà,83160.0
+683,540,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1229,540,Cơm tấm sườn cốt lết + chả,83160.0
+1004,950,Bánh mì cóc,24000.0
+1186,8,Cơm tấm sườn chả,45000.0
+1709,8,Cơm tấm sườn trứng,45000.0
+1494,8,Cơm tấm sườn bì,45000.0
+902,8,Cơm tấm sườn cốt lết nướng,77760.0
+381,8,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,8,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+127,8,Cơm tấm sườn cốt lết 5 món,95040.0
+351,300,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,300,COMBO NUI BỎ LÒ 69K,69000.0
+908,300,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,300,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+406,300,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,300,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,300,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,300,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1378,300,Pizza Hải Sản Cao Cấp / Seafood Deluxe,139000.0
+1004,1058,Bánh mì cóc,24000.0
+1381,555,Trà Dâu Con Sói (Size M),30000.0
+1006,555,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+1330,555,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+751,555,Trà Dâu Con Sói (Size L),40000.0
+267,555,Lục trà mật ong (size M),34000.0
+1793,555,Lục trà mật ong (size L),44000.0
+1813,555,Trà Đác Thơm (Size L),34000.0
+1773,555,Trà Đen Machiato (Size M),35000.0
+556,555,Trà Đen Machiato (Size L),44000.0
+1186,108,Cơm tấm sườn chả,45000.0
+1709,108,Cơm tấm sườn trứng,45000.0
+1494,108,Cơm tấm sườn bì,45000.0
+381,108,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+902,108,Cơm tấm sườn cốt lết nướng,77760.0
+683,108,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1229,108,Cơm tấm sườn cốt lết + chả,83160.0
+351,557,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,557,COMBO NUI BỎ LÒ 69K,69000.0
+908,557,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,557,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+406,557,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+758,557,Gà Giòn Xốt Hàn - Cay,99000.0
+1771,557,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,557,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,557,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1381,86,Trà Dâu Con Sói (Size M),30000.0
+1744,86,Sữa Tươi Trân Châu Đường Đen (L),35000.0
+1788,86,Sữa Tươi Trân Châu Đường Đen (M),25000.0
+751,86,Trà Dâu Con Sói (Size L),40000.0
+1813,86,Trà Đác Thơm (Size L),34000.0
+267,86,Lục trà mật ong (size M),34000.0
+1793,86,Lục trà mật ong (size L),44000.0
+815,86,Trà Ổi Hồng (Size L),34000.0
+523,86,Trà Sen (Size L),40000.0
+351,1148,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,1148,COMBO NUI BỎ LÒ 69K,69000.0
+908,1148,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+1718,1148,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+758,1148,Gà Giòn Xốt Hàn - Cay,99000.0
+406,1148,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,1148,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,1148,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,1148,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1381,336,Trà Dâu Con Sói (Size M),30000.0
+1006,336,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+1330,336,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+751,336,Trà Dâu Con Sói (Size L),40000.0
+267,336,Lục trà mật ong (size M),34000.0
+1793,336,Lục trà mật ong (size L),44000.0
+1813,336,Trà Đác Thơm (Size L),34000.0
+1773,336,Trà Đen Machiato (Size M),35000.0
+523,336,Trà Sen (Size L),40000.0
+1186,594,Cơm tấm sườn chả,45000.0
+1709,594,Cơm tấm sườn trứng,45000.0
+1494,594,Cơm tấm sườn bì,45000.0
+902,594,Cơm tấm sườn cốt lết nướng,77760.0
+127,594,Cơm tấm sườn cốt lết 5 món,95040.0
+381,594,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+742,594,Cơm tấm sườn cốt lết + trứng cút opla,83160.0
+351,545,Combo 1 Pizza size S + 1 Soft Drink,111000.0
+337,545,COMBO NUI BỎ LÒ 69K,69000.0
+908,545,PIZZA 1K CHỈ KHI ĂN GÀ,1000.0
+758,545,Gà Giòn Xốt Hàn - Cay,99000.0
+1718,545,Gà Giòn Xốt Hàn - Truyền Thống,99000.0
+406,545,Gà Giòn Xốt Tương Tỏi Hàn Quốc,99000.0
+1771,545,Pizza Hải Sản Pesto Xanh / Secret Recipe Seafood Pesto,169000.0
+597,545,Pizza Hải Sản Đào - Seafood & Peach,169000.0
+1708,545,Pizza Hải Sản Nhiệt Đới / Tropical Seafood,139000.0
+1186,1121,Cơm tấm sườn chả,45000.0
+1709,1121,Cơm tấm sườn trứng,45000.0
+1494,1121,Cơm tấm sườn bì,45000.0
+902,1121,Cơm tấm sườn cốt lết nướng,77760.0
+381,1121,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,1121,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+127,1121,Cơm tấm sườn cốt lết 5 món,95040.0
+1381,478,Trà Dâu Con Sói (Size M),30000.0
+1330,478,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+1006,478,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+751,478,Trà Dâu Con Sói (Size L),40000.0
+1793,478,Lục trà mật ong (size L),44000.0
+1813,478,Trà Đác Thơm (Size L),34000.0
+267,478,Lục trà mật ong (size M),34000.0
+815,478,Trà Ổi Hồng (Size L),34000.0
+1773,478,Trà Đen Machiato (Size M),35000.0
+1186,10,Cơm tấm sườn chả,45000.0
+1709,10,Cơm tấm sườn trứng,45000.0
+1494,10,Cơm tấm sườn bì,45000.0
+902,10,Cơm tấm sườn cốt lết nướng,77760.0
+381,10,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,10,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1169,10,Cơm tấm sườn cốt lết + trứng gà,83160.0
+1381,390,Trà Dâu Con Sói (Size M),30000.0
+1006,390,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+1330,390,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+751,390,Trà Dâu Con Sói (Size L),40000.0
+267,390,Lục trà mật ong (size M),34000.0
+1793,390,Lục trà mật ong (size L),44000.0
+1813,390,Trà Đác Thơm (Size L),34000.0
+815,390,Trà Ổi Hồng (Size L),34000.0
+1890,390,Trà Xanh Đào (Size L),34000.0
+1381,543,Trà Dâu Con Sói (Size M),30000.0
+1330,543,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+1006,543,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+751,543,Trà Dâu Con Sói (Size L),40000.0
+1793,543,Lục trà mật ong (size L),44000.0
+267,543,Lục trà mật ong (size M),34000.0
+1813,543,Trà Đác Thơm (Size L),34000.0
+815,543,Trà Ổi Hồng (Size L),34000.0
+1890,543,Trà Xanh Đào (Size L),34000.0
+1186,1031,Cơm tấm sườn chả,45000.0
+1709,1031,Cơm tấm sườn trứng,45000.0
+1494,1031,Cơm tấm sườn bì,45000.0
+902,1031,Cơm tấm sườn cốt lết nướng,77760.0
+127,1031,Cơm tấm sườn cốt lết 5 món,95040.0
+381,1031,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+1169,1031,Cơm tấm sườn cốt lết + trứng gà,83160.0
+683,1031,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1229,1031,Cơm tấm sườn cốt lết + chả,83160.0
+1221,1031,Cơm tấm sườn cốt lết + bì,83160.0
+1381,91,Trà Dâu Con Sói (Size M),30000.0
+1006,91,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+1330,91,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+751,91,Trà Dâu Con Sói (Size L),40000.0
+267,91,Lục trà mật ong (size M),34000.0
+1793,91,Lục trà mật ong (size L),44000.0
+1813,91,Trà Đác Thơm (Size L),34000.0
+523,91,Trà Sen (Size L),40000.0
+815,91,Trà Ổi Hồng (Size L),34000.0
+1186,425,Cơm tấm sườn chả,45000.0
+1709,425,Cơm tấm sườn trứng,45000.0
+1494,425,Cơm tấm sườn bì,45000.0
+902,425,Cơm tấm sườn cốt lết nướng,77760.0
+127,425,Cơm tấm sườn cốt lết 5 món,95040.0
+381,425,Cơm Tấm Sườn Cốt Lết Bì Chả,89640.0
+683,425,Cơm Tấm Sườn Cốt Lết 7 Món,101520.0
+1381,551,Trà Dâu Con Sói (Size M),30000.0
+1330,551,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+1006,551,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+751,551,Trà Dâu Con Sói (Size L),40000.0
+267,551,Lục trà mật ong (size M),34000.0
+1793,551,Lục trà mật ong (size L),44000.0
+556,551,Trà Đen Machiato (Size L),44000.0
+1773,551,Trà Đen Machiato (Size M),35000.0
+523,551,Trà Sen (Size L),40000.0
+205,1200,Bì cuốn,48000.0
+1369,1200,Gỏi cuốn,48000.0
+1604,1200,Diếp cuốn Rou,48000.0
+104,1200,Nấm cuộn lá lốt,95000.0
+1724,1200,Gỏi nấm bào ngư rau răm,95000.0
+31,1200,Gỏi củ hủ dừa,95000.0
+671,1200,Gỏi ngó sen,95000.0
+341,1200,Gỏi đu đủ Thái,95000.0
+374,1200,Gỏi khoai môn,95000.0
+948,1200,Gỏi Rou,95000.0
+1381,798,Trà Dâu Con Sói (Size M),30000.0
+1330,798,Sữa Tươi Trân Châu Đường Đen (Size L),35000.0
+1006,798,Sữa Tươi Trân Châu Đường Đen (Size M),30000.0
+751,798,Trà Dâu Con Sói (Size L),40000.0
+267,798,Lục trà mật ong (size M),34000.0
+1793,798,Lục trà mật ong (size L),44000.0
+556,798,Trà Đen Machiato (Size L),44000.0
+523,798,Trà Sen (Size L),40000.0
+1890,798,Trà Xanh Đào (Size L),34000.0
+1636,1130,Bún Cay Thập Cẩm (Giảm 30%),39000.0
+1074,1130,Trà Dứa Nhãn (Giảm 11.000đ),19000.0
+197,1130,Mì Trộn Phô Mai Bò (Giảm 30%),39000.0
+775,1130,Bún Trộn Mắm Me - Thịt Xào (Giảm 30%),39000.0
+1699,1130,Bún Cay Thập Cẩm,55000.0
+853,1130,Bún cay hải sản,57000.0
+1636,898,Bún Cay Thập Cẩm (Giảm 30%),39000.0
+197,898,Mì Trộn Phô Mai Bò (Giảm 30%),39000.0
+1074,898,Trà Dứa Nhãn (Giảm 11.000đ),19000.0
+775,898,Bún Trộn Mắm Me - Thịt Xào (Giảm 30%),39000.0
+505,898,Bún cay thập cẩm,55000.0
+853,898,Bún cay hải sản,57000.0
+1699,473,Bún Cay Thập Cẩm,55000.0
+853,473,Bún cay hải sản,57000.0
+1388,473,Bún Trộn Mắm Me - Thịt Xào,55000.0
+1123,473,Mì Trộn Phô Mai Bò,55000.0
+1307,473,Mì Cay Thái Thập Cẩm,55000.0
+937,473,Mì Cay Thái Hải Sản,57000.0
+516,473,Trà Tắc Ủ Lạnh - Lài Đào,22000.0
+876,473,Trà Tắc Ủ Lạnh - Lài Vải,22000.0
+898,473,Trà Tắc Ủ Lạnh - Lài Dâu,22000.0
+1636,237,Bún Cay Thập Cẩm (Giảm 30%),39000.0
+1331,237,2 Bún Cay Thập Cẩm + 2 Trà tắc ủ lạnh lài đào,129000.0
+342,237,Combo Bún Cay Thập Cẩm + Trà Ủ Lạnh Bất Kỳ,66900.0
+505,237,Bún cay thập cẩm,49500.0
+1032,237,Bún Cay Hải Sản,57000.0
+516,237,Trà Tắc Ủ Lạnh - Lài Đào,22000.0
+898,237,Trà Tắc Ủ Lạnh - Lài Dâu,22000.0
+876,237,Trà Tắc Ủ Lạnh - Lài Vải,22000.0
+1636,424,Bún Cay Thập Cẩm (Giảm 30%),39000.0
+1074,424,Trà Dứa Nhãn (Giảm 11.000đ),1000.0
+197,424,Mì Trộn Phô Mai Bò (Giảm 30%),39000.0
+775,424,Bún Trộn Mắm Me - Thịt Xào (Giảm 30%),39000.0
+505,424,Bún cay thập cẩm,55000.0
+853,424,Bún cay hải sản,57000.0
+1333,926,Trà Lá Dứa Thạch Dẻo,20000.0
+1230,926,Trà Xí Muội Trân Châu,25000.0
+1097,926,Trà Lài Nhãn,45000.0
+1191,926,Trà Lài Vải,45000.0
+1050,926,Trà Lài Đào,45000.0
+1668,926,Trà Lài Sữa TFood,37000.0
+936,926,Trà Lài Sữa Matcha,35000.0
+265,926,Trà Lài Dâu (Chai),25000.0
+1343,926,Trà Lài Đào (Chai),25000.0
+1774,926,Trà Lài Vải (Chai),25000.0
+1113,688,HOT COMBO,111000.0
+60,688,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,688,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,688,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,688,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,688,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,688,Combo A – Gà Sốt Cay Ramyeon,119000.0
+938,983,Tàu Hủ Nóng Truyền Thống Size XL,30400.0
+1087,983,Tàu Hủ Nóng Truyền Thống size M,22400.0
+125,983,Tàu Hủ Lạnh Hoa Nhài Nha Đam Size XL,30400.0
+1743,983,Set Tàu Hủ Truyền Thống Trữ Lạnh 1L (4-5 Phần),95200.0
+1849,983,Tàu Hủ Lạnh Hoa Nhài Nha Đam Size M,22400.0
+152,983,Đậu xanh nha đam đường thốt nốt,23200.0
+1060,983,Cà Phê Sữa Đậu Nành Vườn Kohchin,25600.0
+907,983,Cacao Lạnh Vườn Kohchin,24000.0
+1549,983,Cacao Nóng Vườn Kohchin,24000.0
+761,983,Cà Phê Đen Đá Vườn Kohchin,17600.0
+1113,792,HOT COMBO,111000.0
+1173,792,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+60,792,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,792,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+904,792,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,792,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,792,Combo A – Gà Sốt Cay Ramyeon,119000.0
+1084,792,01 Coca-Cola chai,25000.0
+386,144,Tàu hủ nóng truyền thống,34000.0
+497,144,Tàu hủ nóng truyền thống size M,28000.0
+392,302,Tàu Hủ Ky Cuộn Nấm,107000.0
+1349,302,Nấm Xào Bơ Cay,87000.0
+451,302,Gỏi Nấm Đùi Gà Xé Phay,97000.0
+1747,302,Cà Ri Nấu Nấm Thập Cẩm,97000.0
+1036,302,Bò Bía,11000.0
+463,302,Chả Giò Buddha,87000.0
+310,302,Cải cuốn,17000.0
+1550,302,Chả Giò Trái Cây,87000.0
+1009,302,Hoành Thánh Phô Mai,97000.0
+567,302,Sake Chiên Mè,92000.0
+278,895,Olong LÀI sữa,25000.0
+1589,895,Trà sữa Olong Naocha,25000.0
+1085,895,Hồng trà sữa Naocha,25000.0
+1398,895,Trà sữa NƯỚNG Naocha,38000.0
+552,895,Olong sữa Mochi,35000.0
+748,895,Hồng trà sữa Kem trứng dừa nướng,35000.0
+969,895,Olong sữa kem trứng dừa nướng,35000.0
+1234,895,Hồng trà sữa Naocha 9 topping,48000.0
+256,895,Olong lài sữa Naocha 9 topping,48000.0
+643,895,Hồng trà sữa Mochi,35000.0
+1113,323,HOT COMBO,111000.0
+60,323,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,323,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,323,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+554,323,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,323,Combo A – Gà Sốt Cay Ramyeon,119000.0
+904,323,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+193,217,Cải Cuốn Nấm,11000.0
+1747,217,Cà Ri Nấu Nấm Thập Cẩm,97000.0
+451,217,Gỏi Nấm Đùi Gà Xé Phay,97000.0
+897,217,Mỳ Sợi Salad Sốt Kiểu Buddha,97000.0
+1011,217,Nấm Mèo Xào Chua Cay,97000.0
+1860,217,Tứ Xuyên Sốt Đậu,97000.0
+1511,217,Cải Thìa Sốt Nấm Đông Cô Tươi,97000.0
+1274,217,Sườn Xào Lá Móc Mật,97000.0
+109,217,Bí Nụ Xào Cay,97000.0
+1036,217,Bò Bía,11000.0
+703,489,Dừa dầm Hải Phòng,29000.0
+805,489,Dừa Dầm Hải Phòng Lớn,39000.0
+34,489,Dừa dầm khoai dẻo nhỏ,35000.0
+180,489,Dừa dầm sầu riêng thơm béo,39000.0
+1879,489,Dừa dầm milo,35000.0
+1495,489,Dừa dầm đác nhỏ,35000.0
+710,489,Dừa dầm cà phê,31000.0
+1868,489,Chè bi sữa dừa Nao,29000.0
+1417,489,Chè khoai dẻo Flan nhỏ,29000.0
+198,489,Thạch lá nếp sữa dừa,25000.0
+1113,991,HOT COMBO,111000.0
+60,991,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,991,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,991,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,991,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+1874,991,Combo A – Gà Sốt Cay Ramyeon,119000.0
+554,991,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1902,852,Bánh tráng lụi hộp 5 cuốn,27000.0
+1768,852,Hibiscus MƠ,37000.0
+705,852,Cheese ball 4 viên,37000.0
+830,852,Hibiscus truyền thống,29000.0
+1811,852,Bánh mì cay HP 5 cây,36000.0
+588,852,Cheese ball 8 viên,70000.0
+1520,852,Hibiscus  mận,37000.0
+1284,852,Hibiscus VẢI,37000.0
+687,852,Trà Dâu,27000.0
+1439,852,Trà mơ Hà Nội,27000.0
+1113,215,HOT COMBO,111000.0
+60,215,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,215,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,215,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,215,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,215,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,215,Combo A – Gà Sốt Cay Ramyeon,119000.0
+240,445,Bánh tráng lụi 5 cuốn,28000.0
+577,445,Trà sữa Olong NaoCha,25000.0
+88,445,Trà sữa Olong LÀI,25000.0
+1645,445,Dừa dầm Dark Lava,39000.0
+1468,445,Dừa dầm Dark Lava LỚN,49000.0
+643,445,Hồng trà sữa Mochi,35000.0
+1234,445,Hồng trà sữa Naocha 9 topping,48000.0
+1503,445,Dark Lava Olong,35000.0
+778,445,Olong Sữa Mochi,35000.0
+1289,445,Olong sữa Naocha 9 topping,48000.0
+1113,976,HOT COMBO,111000.0
+60,976,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,976,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,976,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,976,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,976,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,976,Combo A – Gà Sốt Cay Ramyeon,119000.0
+1481,1023,Xúc xích bò Krakauer - 500gram,187000.0
+1436,1023,Xúc xích phô mai (500gr),210000.0
+1240,1023,Xúc xích heo (500g),165000.0
+35,1023,Xúc xích Frankfurtur (500gr),155000.0
+1269,1023,Xúc xích Heo xông khói (500gr),179000.0
+1597,1023,Xúc xích gà 500g,148000.0
+1459,1023,Cheddar Cheese Sausage 500gram,225000.0
+1595,1023,Thüringer Bratwurst (500gram chưa Nướng ),203000.0
+1248,1023,Xúc Xích Đức Mix 5 Vị (500gram),228000.0
+398,1023,Thai Sausage 500gram,197000.0
+1505,353,Đậu hủ chiên sả,86900.0
+736,353,Đậu hủ sốt trứng muối,86900.0
+501,353,Đậu hủ lướt ván mỡ hành Quán Bụi,86900.0
+306,353,Canh ngót cà chua trứng,97900.0
+668,353,Canh chua chay,97900.0
+649,353,Nấm thập cẩm kho đậu hủ,97900.0
+879,353,"Cơm chiên gạo lức, đậu hủ, nấm,bắp và hạt điều",86900.0
+628,353,Canh rau thập cẩm chay,86900.0
+858,353,Đậu hủ sốt nấm cà chua,86900.0
+147,353,Cải thìa xào nấm đông cô,97900.0
+925,384,Khoai Tây Chiên,30000.0
+892,384,Hotdog Xúc Xích Frankfurter (X16),45000.0
+357,384,Hotdog Xúc Xích Phô Mai Mozarella(X11),65000.0
+1024,384,Hot dog xúc xích bò phủ phô mai(X8),65000.0
+350,384,Hotdog Xúc Xích Heo Cay Ý (X7),55000.0
+1224,384,Hot dog xúc xích heo phủ phô mai(X12),55000.0
+1626,384,Hotdog Thüringer Bratwurst(X10),55000.0
+1584,384,Xúc Xích Càri Đức + Khoai Tây + Coca(X9),75000.0
+17,384,Hotdog Xúc Xích Cheddar Cheese(X13),69000.0
+503,384,Hotdog Xúc Xích Heo (X6),50000.0
+1113,832,HOT COMBO,111000.0
+1173,832,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+60,832,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,832,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+904,832,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+1874,832,Combo A – Gà Sốt Cay Ramyeon,119000.0
+554,832,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1084,832,01 Coca-Cola chai,25000.0
+124,860,Bún thịt nướng,149000.0
+986,860,"Bún thịt bò xào, cuốn ram",149000.0
+229,860,Bún đậu hũ nước tương,107000.0
+1892,860,Mâm nem Quán Bụi,302000.0
+1470,860,Chả giò quán bụi (6),129000.0
+1552,860,Cuốn khai vị quán bụi quán bụi,269000.0
+455,860,Bánh xèo hải sản,189000.0
+672,860,Cuốn ram miền trung (8),129000.0
+158,860,Gỏi cuốn tôm thịt,97000.0
+1188,860,Trứng cút bách hoa (6),107000.0
+1113,90,HOT COMBO,111000.0
+60,90,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,90,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,90,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+554,90,Combo B – Gà Sốt Cay Ramyeon,199000.0
+904,90,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+1874,90,Combo A – Gà Sốt Cay Ramyeon,119000.0
+864,531,Pepsi,10000.0
+403,531,Coca Cola,10000.0
+1657,531,Nugget gà,30000.0
+357,531,Hotdog Xúc Xích Phô Mai Mozarella(X11),65000.0
+1024,531,Hot dog xúc xích bò phủ phô mai(X8),65000.0
+1224,531,Hot dog xúc xích heo phủ phô mai(X12),55000.0
+975,531,Xúc Xích Càri Đức ( X9 ) + Khoai Tây,75000.0
+1626,531,Hotdog Thüringer Bratwurst(X10),55000.0
+350,531,Hotdog Xúc Xích Heo Cay Ý (X7),55000.0
+17,531,Hotdog Xúc Xích Cheddar Cheese(X13),69000.0
+1257,375,Bông bí xào tỏi,86900.0
+621,375,Ức gà sốt mật ong,108900.0
+987,375,Nộm bò cà pháo,152900.0
+1745,375,Canh chua tôm,163900.0
+58,375,Heo quay Quán Bụi,141900.0
+1598,375,Canh riêu tôm thì là,163900.0
+62,375,Gỏi xoài tôm tươi,163900.0
+327,375,Cá fillet kho tiêu,141900.0
+1178,375,Thịt kho cơm dừa,130900.0
+1078,375,Canh hoa Thiên Lý nấu tôm,163900.0
+1113,1150,HOT COMBO,111000.0
+60,1150,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,1150,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,1150,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+554,1150,Combo B – Gà Sốt Cay Ramyeon,199000.0
+904,1150,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+1874,1150,Combo A – Gà Sốt Cay Ramyeon,119000.0
+1796,794,Combo : 2 Bánh cuốn Tây Sơn lụi heo + Trà tắc mật ong,80000.0
+434,794,Combo : Mẹt Nhỏ Heo Vs Trà Tắc Mật Ong,90000.0
+4,794,Combo Mẹt lớn heo Vs Trà trắc mật ong,160000.0
+1164,794,Mẹt nhỏ lụi bò + Trà tắc mật ong,125000.0
+151,794,Combo: Mẹt nhỏ BCTS lụi bò lá lốt + Tré trộn xoài Tây Sơn,140000.0
+450,794,"2 Cuốn Sẵn BCTS Lụi Heo, Loại Đặc Biệt",60000.0
+71,794,Combo : 2 F.cuốn sẵn lụi bò BÁNH CUỐN TÂY SƠN,80000.0
+772,794,Bánh Hỏi Nem Nướng Lụi Heo,45000.0
+467,794,F.Mẹt lớn lụi bò Bánh cuốn Tây Sơn,200000.0
+1532,794,Bánh Hỏi Thịt Lụi Bò Cuốn Lá Lốt,60000.0
+1181,878,Bún Riêu Cua Ốc,128520.0
+1261,878,Bún Thịt Nướng,160920.0
+1291,878,Bún Mọc,128520.0
+807,878,"Bún Thịt Bò Xào, Cuốn Ram",128520.0
+1002,878,Bún Bắp Bò,160920.0
+919,878,Bún Mắm Nêm Tôm Thịt,139320.0
+1265,878,Gỏi cuốn tôm thịt (4),96120.0
+620,878,Cuốn diếp tôm thịt (4),139320.0
+1790,878,Bò cuộn lá lốt nướng (8),193320.0
+455,878,Bánh xèo hải sản,182520.0
+60,293,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,293,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,293,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,293,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,293,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1874,293,Combo A – Gà Sốt Cay Ramyeon,119000.0
+1596,293,02 Coca-Cola chai,50000.0
+990,293,STAR BOX COMBO A,99000.0
+1610,588,Combo: 1 Cuốn sẵn lụi bò + Pepsi,60000.0
+1625,588,Combo: Mẹt nhỏ tự cuốn lụi bò + Pepsi,120000.0
+1049,588,Combo: Bánh hỏi lụi bò + Pepsi,80000.0
+864,588,Pepsi,20000.0
+943,588,F.Bánh hỏi lá hẹ,15000.0
+1675,588,F.Bánh tráng 3k/cái,3000.0
+1199,588,F.Chả ram chiên giòn,15000.0
+1827,588,F.Trứng vịt luộc,5000.0
+1859,588,F.Thịt heo nướng (60g),25000.0
+1244,588,F. Mẹt lớn Bánh Cuốn Tây Sơn lụi heo,145000.0
+1480,1066,Bún thịt nướng,139320.0
+1374,1066,Bánh đa cua,150120.0
+1605,1066,Bún đậu hũ nước tương,117720.0
+862,1066,Bò kho bánh mì,150120.0
+645,1066,Bún bò Huế,150120.0
+1316,1066,Bún Cá Miền Trung,139320.0
+1351,1066,Cơm Tấm lá dứa Sườn cốt lết nướng,171720.0
+385,1066,Bún thịt bò xào,150120.0
+1305,1066,Bò kho hủ tíu,150120.0
+1304,1066,Xíu mại kiểu Laang,150120.0
+1113,1056,HOT COMBO,111000.0
+1173,1056,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+60,1056,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,1056,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1874,1056,Combo A – Gà Sốt Cay Ramyeon,119000.0
+904,1056,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+554,1056,Combo B – Gà Sốt Cay Ramyeon,199000.0
+1084,1056,01 Coca-Cola chai,25000.0
+1005,488,Bánh hỏi nem nướng lụi heo,45000.0
+416,488,Trứng vịt luộc,5000.0
+669,488,Chả ram (5 miếng),15000.0
+755,488,Bánh tráng,3000.0
+468,488,Chả ram tôm đất (phần nhỏ),50000.0
+602,488,Thịt heo nướng (60gr),25000.0
+442,488,Bánh Hỏi Lá Hẹ,15000.0
+1754,488,Chân gà sốt Thái (phần nhỏ),70000.0
+1415,488,Thịt bò nướng (30gr),25000.0
+1458,488,Chả ram tôm đất (phần lớn),100000.0
+1113,75,HOT COMBO,111000.0
+60,75,Combo 6 miếng gà: 3 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,169000.0
+280,75,Combo 10 miếng gà: -5 Miếng gà rán có xương (lựa chọn vị cay/ không…,279000.0
+1173,75,Combo 4 miếng gà: 2 Miếng gà rán có xương (lựa chọn vị cay/ không cay)…,109000.0
+904,75,1 Miếng Gà Sốt Cay Ramyeon,49000.0
+1874,75,Combo A – Gà Sốt Cay Ramyeon,119000.0
+554,75,Combo B – Gà Sốt Cay Ramyeon,199000.0
+481,605,Lẩu Tokbokki Hàn Quốc (tự chọn nguyên liệu),260000.0
+1300,605,Bánh Gạo Xào Thịt Bò,130000.0
+1646,605,Lẩu Tokbokki Hàn Quốc,260000.0
+1271,605,Nước Suối,15000.0
+86,605,Bia,35000.0
+1638,605,Sữa Đào,25000.0
+1610,963,Combo: 1 Cuốn sẵn lụi bò + Pepsi,60000.0
+1625,963,Combo: Mẹt nhỏ tự cuốn lụi bò + Pepsi,120000.0
+1049,963,Combo: Bánh hỏi lụi bò + Pepsi,80000.0
+864,963,Pepsi,20000.0
+61,963,Mẹt Nhỏ Tự Cuốn Lụi Bò Bánh Cuốn Tây Sơn,95000.0
+446,963,Combo Mẹt Nhỏ Heo Vs Trà Tắc Mật Ong,85000.0
+151,963,Combo: Mẹt nhỏ BCTS lụi bò lá lốt + Tré trộn xoài Tây Sơn,140000.0
+1164,963,Mẹt nhỏ lụi bò + Trà tắc mật ong,125000.0
+1726,963,Special.Mẹt Lớn lụi Heo BÁNH CUỐN TÂY SƠN,150000.0
+1303,963,Special.Mẹt Nhỏ lụi Heo BÁNH CUỐN TÂY SƠN,75000.0
+128,493,Khoai lang mật nướng,59000.0
+285,493,Khoai lang mật nướng 350g,46000.0
+510,493,Khoai lang mật ủ lạnh (kem),59000.0
+510,493,Khoai lang mật ủ lạnh (kem),99000.0
+1182,493,Bánh Cookies - Nho Khô - Việt Quất 130g,115000.0
+1643,493,Granola Mixed Nuts-180g,145000.0
+608,493,Bánh Ngói Hạnh Nhân - Nho Khô - Việt Quất 130g,149000.0
+1587,493,Hạt điều vỏ lụa 500g,160000.0
+1020,1005,US Top Blade Black Angus 150g,232200.0
+1864,1005,Hokubee Rib Eye 200g,426600.0
+216,1005,Hokubee Striploin 200g,405000.0
+206,1005,Hokubee Rib Eye 300g,621000.0
+1904,1005,Hokubee Striploin 300g,588600.0
+1192,1005,US Top Blade Black Angus 300g,448200.0
+481,896,Lẩu Tokbokki Hàn Quốc (tự chọn nguyên liệu),260000.0
+1631,896,Lẩu Tokbokki Hàn Quốc (đóng gói),260000.0
+1300,896,Bánh Gạo Xào Thịt Bò,130000.0
+1638,896,Sữa Đào,25000.0
+86,896,Bia,35000.0
+1271,896,Nước Suối,15000.0
+796,1073,Nước Suối Aquafina,10000.0
+510,1035,Khoai lang mật ủ lạnh (kem),59000.0
+510,1035,Khoai lang mật ủ lạnh (kem),99000.0
+796,1035,Nước Suối Aquafina,10000.0
+944,169,Lẩu Tokbokki Hàn Quốc (Tự chọn nguyên liệu),260000.0
+1300,169,Bánh Gạo Xào Thịt Bò,130000.0
+1098,169,Lẩu Tokbokki Hàn Quốc (Đóng gói),260000.0
+86,169,Bia,35000.0
+1271,169,Nước Suối,15000.0
+1638,169,Sữa Đào,25000.0
+1711,69,Chuối bí ngô mật ong chiên,10000.0
+1365,69,Combo 1,50000.0
+1624,69,Combo 2,100000.0
+1681,69,Combo 3,200000.0
+1758,69,3 Trái Chuối bí ngô mật ong chiên,30000.0
+89,69,Chè Chuối Nước Cốt Dừa,20000.0
+249,69,Chè Chuối Bưởi,25000.0
+1640,69,Chè Chuối Bưởi Hạnh Nhân,30000.0
+1183,69,Chè Chuối Hạnh Nhân,25000.0
+1072,929,Combo 5 Sauces in 1,185900.0
+866,929,Combo Give A Try,89000.0
+498,929,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,929,Mix ricebox (combo 3 người),262900.0
+1336,929,Happy burger set (combo 3 người),262900.0
+1486,929,Sụn Gà,46000.0
+220,929,Mỳ Trộn,56000.0
+297,929,Miếng Gà Phủ Sốt Cay,42900.0
+1063,929,Miếng Gà Phủ Sốt Phô Mai,42900.0
+813,929,Đùi gà rán phủ sốt,42900.0
+1711,876,Chuối bí ngô mật ong chiên,10000.0
+1365,876,Combo 1,50000.0
+1624,876,Combo 2,100000.0
+1681,876,Combo 3,200000.0
+1758,876,3 Trái Chuối bí ngô mật ong chiên,30000.0
+249,876,Chè Chuối Bưởi,25000.0
+89,876,Chè Chuối Nước Cốt Dừa,20000.0
+1640,876,Chè Chuối Bưởi Hạnh Nhân,30000.0
+1183,876,Chè Chuối Hạnh Nhân,25000.0
+1711,659,Chuối bí ngô mật ong chiên,10000.0
+1365,659,Combo 1,50000.0
+1624,659,Combo 2,100000.0
+1681,659,Combo 3,200000.0
+1758,659,3 Trái Chuối bí ngô mật ong chiên,30000.0
+249,659,Chè Chuối Bưởi,25000.0
+89,659,Chè Chuối Nước Cốt Dừa,20000.0
+1640,659,Chè Chuối Bưởi Hạnh Nhân,30000.0
+1183,659,Chè Chuối Hạnh Nhân,25000.0
+1072,987,Combo 5 Sauces in 1,185900.0
+866,987,Combo Give A Try,89000.0
+498,987,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,987,Mix ricebox (combo 3 người),262900.0
+1486,987,Sụn Gà,46000.0
+220,987,Mỳ Trộn,56000.0
+1063,987,Miếng Gà Phủ Sốt Phô Mai,42900.0
+813,987,Đùi gà rán phủ sốt,42900.0
+361,987,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+297,987,Miếng Gà Phủ Sốt Cay,42900.0
+1711,564,Chuối bí ngô mật ong chiên,10000.0
+1365,564,Combo 1,50000.0
+1624,564,Combo 2,100000.0
+1681,564,Combo 3,200000.0
+1758,564,3 Trái Chuối bí ngô mật ong chiên,30000.0
+1711,964,Chuối bí ngô mật ong chiên,10000.0
+1365,964,Combo 1,50000.0
+1624,964,Combo 2,100000.0
+1681,964,Combo 3,200000.0
+1758,964,3 Trái Chuối bí ngô mật ong chiên,30000.0
+872,964,KHOAI TÂY LẮC PHÔ MAI,15000.0
+482,964,TRÀ BÍ ĐAO HẠT CHIA,15000.0
+1537,964,Chả Giò Hải Sản Sốt MAYONAISE,10000.0
+762,964,Phô Mai Que Cốm Xanh,11000.0
+113,964,NƯỚC MÍA,18000.0
+1072,2,Combo 5 Sauces in 1,185900.0
+866,2,Combo Give A Try,89000.0
+498,2,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,2,Mix ricebox (combo 3 người),262900.0
+1336,2,Happy burger set (combo 3 người),262900.0
+1486,2,Sụn Gà,46000.0
+478,2,Tobbokki,46000.0
+220,2,Mỳ Trộn,56000.0
+1063,2,Miếng Gà Phủ Sốt Phô Mai,42900.0
+813,2,Đùi gà rán phủ sốt,42900.0
+464,481,Bánh gà Hà Nội combo 3 cái,29000.0
+166,481,Bánh gà Hà Nội Combo 5 cái,47000.0
+1711,481,Chuối bí ngô mật ong chiên,10000.0
+1365,481,Combo 1,50000.0
+1624,481,Combo 2,100000.0
+1681,481,Combo 3,200000.0
+1758,481,3 Trái Chuối bí ngô mật ong chiên,30000.0
+984,481,Sữa Gạo Lứt - Đậu Phộng - Hạt Bí (Size Vừa 330ml),35000.0
+130,481,Sữa Hạt Điều - Bí Đỏ - Quinoa (Size Lớn 500ml),45000.0
+617,481,Sữa Hạt Điều - Bí Đỏ - Quinoa (Size Vừa 330ml),35000.0
+1072,955,Combo 5 Sauces in 1,185900.0
+866,955,Combo Give A Try,89000.0
+498,955,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,955,Mix ricebox (combo 3 người),262900.0
+1336,955,Happy burger set (combo 3 người),262900.0
+220,955,Mỳ Trộn,56000.0
+478,955,Tobbokki,46000.0
+1486,955,Sụn Gà,46000.0
+1063,955,Miếng Gà Phủ Sốt Phô Mai,42900.0
+361,955,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+1711,689,Chuối bí ngô mật ong chiên,10000.0
+1624,689,Combo 2,100000.0
+1365,689,Combo 1,50000.0
+1681,689,Combo 3,200000.0
+1758,689,3 Trái Chuối bí ngô mật ong chiên,30000.0
+249,689,Chè Chuối Bưởi,25000.0
+89,689,Chè Chuối Nước Cốt Dừa,20000.0
+1640,689,Chè Chuối Bưởi Hạnh Nhân,30000.0
+1183,689,Chè Chuối Hạnh Nhân,25000.0
+1072,181,Combo 5 Sauces in 1,185900.0
+866,181,Combo Give A Try,89000.0
+498,181,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,181,Mix ricebox (combo 3 người),262900.0
+1486,181,Sụn Gà,46000.0
+220,181,Mỳ Trộn,56000.0
+478,181,Tobbokki,46000.0
+1063,181,Miếng Gà Phủ Sốt Phô Mai,42900.0
+361,181,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+813,181,Đùi gà rán phủ sốt,42900.0
+1250,986,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,986,Trái cây dầm sữa chua - 350ml,36000.0
+822,986,Xoài lắc - 350gr,31200.0
+1266,986,Cóc non mắm ruốc - 350gr,36000.0
+1158,986,Nước Ép Dưa Hấu,31200.0
+1114,986,Bánh tráng cuộn bơ - full topping,31200.0
+346,986,Xoài - 350gr,42300.0
+122,986,Mận - 350gr,44100.0
+139,986,Sắn - 350gr,31500.0
+344,986,Xoài non mắm ruốc - 350gr,49500.0
+1072,622,Combo 5 Sauces in 1,185900.0
+866,622,Combo Give A Try,89000.0
+498,622,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,622,Mix ricebox (combo 3 người),262900.0
+1336,622,Happy burger set (combo 3 người),262900.0
+1486,622,Sụn Gà,46000.0
+813,622,Đùi gà rán phủ sốt,42900.0
+297,622,Miếng Gà Phủ Sốt Cay,42900.0
+1063,622,Miếng Gà Phủ Sốt Phô Mai,42900.0
+361,622,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+1453,270,Dâu Tây Lắc,79000.0
+77,270,Trái cây dầm sữa chua - 350ml,36000.0
+1250,270,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+822,270,Xoài lắc - 350gr,31200.0
+1266,270,Cóc non mắm ruốc - 350gr,36000.0
+759,270,Rong biển cháy tỏi - Hũ Pet,55200.0
+346,270,Xoài - 350gr,42300.0
+122,270,Mận - 350gr,44100.0
+344,270,Xoài non mắm ruốc - 350gr,49500.0
+633,270,Dưa Hấu Long An - 350gr,35100.0
+1072,653,Combo 5 Sauces in 1,185900.0
+866,653,Combo Give A Try,89000.0
+498,653,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,653,Mix ricebox (combo 3 người),262900.0
+1486,653,Sụn Gà,46000.0
+361,653,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+1063,653,Miếng Gà Phủ Sốt Phô Mai,42900.0
+297,653,Miếng Gà Phủ Sốt Cay,42900.0
+813,653,Đùi gà rán phủ sốt,42900.0
+1262,653,Miếng Gà Phủ Sốt Tiêu Đen,42900.0
+1250,276,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,276,Trái cây dầm sữa chua - 350ml,36000.0
+822,276,Xoài lắc - 350gr,31200.0
+1266,276,Cóc non mắm ruốc - 350gr,36000.0
+346,276,Xoài - 350gr,42300.0
+633,276,Dưa Hấu Long An - 350gr,35100.0
+344,276,Xoài non mắm ruốc - 350gr,49500.0
+122,276,Mận - 350gr,44100.0
+139,276,Sắn - 350gr,31500.0
+95,276,Thơm - 350gr,37800.0
+1072,1067,Combo 5 Sauces in 1,185900.0
+866,1067,Combo Give A Try,89000.0
+498,1067,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,1067,Mix ricebox (combo 3 người),262900.0
+220,1067,Mỳ Trộn,56000.0
+478,1067,Tobbokki,46000.0
+1486,1067,Sụn Gà,46000.0
+813,1067,Đùi gà rán phủ sốt,42900.0
+1063,1067,Miếng Gà Phủ Sốt Phô Mai,42900.0
+297,1067,Miếng Gà Phủ Sốt Cay,42900.0
+1250,196,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,196,Trái cây dầm sữa chua - 350ml,36000.0
+822,196,Xoài lắc - 350gr,31200.0
+1266,196,Cóc non mắm ruốc - 350gr,36000.0
+633,196,Dưa Hấu Long An - 350gr,35100.0
+122,196,Mận - 350gr,44100.0
+346,196,Xoài - 350gr,42300.0
+344,196,Xoài non mắm ruốc - 350gr,49500.0
+95,196,Thơm - 350gr,37800.0
+139,196,Sắn - 350gr,31500.0
+1072,818,Combo 5 Sauces in 1,185900.0
+866,818,Combo Give A Try,89000.0
+498,818,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,818,Mix ricebox (combo 3 người),262900.0
+1336,818,Happy burger set (combo 3 người),262900.0
+1486,818,Sụn Gà,46000.0
+220,818,Mỳ Trộn,56000.0
+478,818,Tobbokki,46000.0
+1063,818,Miếng Gà Phủ Sốt Phô Mai,42900.0
+813,818,Đùi gà rán phủ sốt,42900.0
+77,644,Trái cây dầm sữa chua - 350ml,36000.0
+1250,644,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+822,644,Xoài lắc - 350gr,31200.0
+1266,644,Cóc non mắm ruốc - 350gr,36000.0
+1295,644,Trái cây dầm Yogurt - 1 lít,79200.0
+860,644,Dưa Gang Dầm Sữa Chua,31200.0
+1065,644,Dâu Tây Dầm Sữa Chua,63200.0
+701,644,Xoài Dầm Sữa chua,37600.0
+530,644,Mít Dầm Sữa Chua,44000.0
+346,644,Xoài - 350gr,42300.0
+1072,1042,Combo 5 Sauces in 1,185900.0
+866,1042,Combo Give A Try,89000.0
+498,1042,"COMBO T (Gà, Khoai tây, Salad, Pepsi)",145200.0
+108,1042,Mix ricebox (combo 3 người),262900.0
+478,1042,Tobbokki,46000.0
+220,1042,Mỳ Trộn,56000.0
+1486,1042,Sụn Gà,46000.0
+1063,1042,Miếng Gà Phủ Sốt Phô Mai,42900.0
+813,1042,Đùi gà rán phủ sốt,42900.0
+361,1042,Miếng Gà Phủ Sốt Tỏi Đậu,42900.0
+1250,1173,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,1173,Trái cây dầm sữa chua - 350ml,36000.0
+822,1173,Xoài lắc - 350gr,31200.0
+448,1173,Bánh Tráng Cuộn Bơ - Khô Bò,28000.0
+390,1173,Bánh Tráng Trộn - full Topping,31200.0
+1266,1173,Cóc non mắm ruốc - 350gr,36000.0
+1502,1173,Gỏi Xoài - full topping,36000.0
+633,1173,Dưa Hấu Long An - 350gr,35100.0
+122,1173,Mận - 350gr,44100.0
+346,1173,Xoài - 350gr,42300.0
+1250,173,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,173,Trái cây dầm sữa chua - 350ml,36000.0
+822,173,Xoài lắc - 350gr,31200.0
+1266,173,Cóc non mắm ruốc - 350gr,36000.0
+1881,173,Sinh Tố Nho Đen xịn xịn,36000.0
+780,173,Ép Ổi,28000.0
+957,173,Nước ép Thơm,31200.0
+1158,173,Nước Ép Dưa Hấu,31200.0
+1342,173,Nước ép Táo,31200.0
+792,173,Nước ép Cóc,31200.0
+1207,509,Lẩu Thái Huyền Thoại,299000.0
+18,509,Lẩu Thái Huyền Thoại 4-5 Người,549000.0
+1046,509,Nước Lẩu Thái,99000.0
+235,509,Lẩu Thái Huyền Thoại 2-3 người,349000.0
+1225,509,Sốt Chao,10000.0
+1393,509,Lẩu Thái Hoàng Đế,199000.0
+1432,509,Lẩu Thái Huyền Thoại 6-7 Người,699000.0
+1429,509,Gỏi Chân Gà,69000.0
+835,509,Salad Dưa Chuột Cà Rốt,35000.0
+925,509,Khoai Tây Chiên,39000.0
+1250,579,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+77,579,Trái cây dầm sữa chua - 350ml,36000.0
+1266,579,Cóc non mắm ruốc - 350gr,36000.0
+822,579,Xoài lắc - 350gr,31200.0
+1114,579,Bánh tráng cuộn bơ - full topping,31200.0
+344,579,Xoài non mắm ruốc - 350gr,49500.0
+346,579,Xoài - 350gr,42300.0
+122,579,Mận - 350gr,44100.0
+633,579,Dưa Hấu Long An - 350gr,35100.0
+95,579,Thơm - 350gr,37800.0
+119,162,Hokkaido Miso Ramen 3,139320.0
+492,162,Tonkotsu Ramen 2,128520.0
+1655,162,Tonkostu Ramen 5,171720.0
+1239,162,Kohaku Ramen Đặc Biệt,214920.0
+784,162,Tonkotsu Ramen 3,150120.0
+1601,162,Shoyu Ramen 3,117720.0
+1058,162,Shoyu Ramen 5,150120.0
+1697,162,Shoyu Ramen 2,106920.0
+14,162,Hokkaido Miso Ramen 2,106920.0
+1414,162,Hokkaido Miso Ramen Đặt Biệt,171720.0
+1250,728,Hộp Trái Cây Thập Cẩm Fruit Crush,55200.0
+822,728,Xoài lắc - 350gr,31200.0
+77,728,Trái cây dầm sữa chua - 350ml,36000.0
+1266,728,Cóc non mắm ruốc - 350gr,36000.0
+122,728,Mận - 350gr,44100.0
+346,728,Xoài - 350gr,42300.0
+95,728,Thơm - 350gr,37800.0
+344,728,Xoài non mắm ruốc - 350gr,49500.0
+633,728,Dưa Hấu Long An - 350gr,35100.0
+731,728,Ổi - 350gr,31500.0
+7,1104,Sukiyaki Gyu,463320.0
+677,1104,Kaisen Udon,128520.0
+1404,1104,Saba Shioyaki,139320.0
+578,1104,Ebi Salad,160920.0
+1844,1104,Ebi To Avo Salad,106920.0
+388,1104,Soft Shell Crab Salad,199800.0
+19,1104,Yaki Udon,106920.0
+191,1104,Sake Kama Nabe,268920.0
+976,1104,Asama Sashimi,279720.0
+201,1104,Komochi Nishin No Sashimi,145800.0
+121,130,BÁNH TAM GIÁC KEBAB 🌮,35000.0
+1067,130,BÁNH CUỘN KEBAB 🌯,40000.0
+1390,130,BÁNH MÌ QUE TAKKI 🥖,25000.0
+776,130,BÁNH GIÒ NHÂN THỊT,19000.0
+458,130,BÁNH BAO BÍ NGÔ,11000.0
+1371,130,BÁNH BAO THẬP CẨM ĂN SIÊU CUỐN,42000.0
+963,130,BÁNH BAO TRỨNG MUỐI,32000.0
+1206,707,Bánh Mì Kebab,30000.0
+854,707,Cuộn Kebab,35000.0
+634,713,Bánh TAM GIÁC KEBAB,25000.0
+383,713,Bánh CUỘN KEBAB,30000.0
+1080,713,COMBO A (2 Tam Giác),50000.0
+1782,713,COMBO C (Giảm 14%),32000.0
+989,713,COMBO B (2 Bánh Cuộn),60000.0
+1673,154,CK1 - GÀ NƯỚNG ỐNG TRE,549000.0
+366,154,CK1 - GÀ NƯỚNG ỐNG TRE (HALF),388000.0
+97,154,CK2 - GÀ HẤP MẮM NHỈ (HALF),388000.0
+569,154,CK2 - GÀ HẤP MẮM NHỈ,549000.0
+1153,154,SK1 - GINGER MIMOSA,62640.0
+583,154,SK2 - SPARKLING CITRUS,62640.0
+138,154,SK3 - MADE WITH PASSION,62640.0
+1318,154,Canh chua cá dứa,138240.0
+303,154,Rau thập cẩm luộc kho quẹt,95040.0
+536,154,Canh tôm bầu dì Mai,116640.0
+325,142,COMBO C (2 bánh Tam Giác),60000.0
+634,142,Bánh TAM GIÁC KEBAB,30000.0
+383,142,Bánh CUỘN KEBAB,35000.0
+981,520,Supesharau  Salada /Xà lách trộn kiểu Nhật,32000.0
+1402,520,Umibudo Salada/ Xà lách rong nho Sốt Mè,42000.0
+59,520,Kim chi,15000.0
+12,520,Chukawame Salada /xà LáchTảo biển ngâm chua,42000.0
+1320,520,Potato Imo Chíp/ Khoai Tây Chíp Giòn Rụm,25000.0
+1366,520,Gỏi cá trích,49000.0
+296,520,Gỏi thịt bò,59000.0
+933,520,Gỏi sò điệp,89000.0
+462,520,Sake Salada /Xà lách cá hồi Sống,99000.0
+946,520,Mr.Tôm salada / xà lách chay,69000.0
+1673,159,CK1 - GÀ NƯỚNG ỐNG TRE,592920.0
+97,159,CK2 - GÀ HẤP MẮM NHỈ (HALF),419040.0
+366,159,CK1 - GÀ NƯỚNG ỐNG TRE (HALF),419040.0
+569,159,CK2 - GÀ HẤP MẮM NHỈ,592920.0
+536,159,Canh tôm bầu dì Mai,116640.0
+369,159,Rau muống xào tỏi,73440.0
+1318,159,Canh chua cá dứa,138240.0
+303,159,Rau thập cẩm luộc kho quẹt,95040.0
+722,159,Đậu rồng xào tỏi,73440.0
+1763,159,Cơm trắng,19440.0
+569,1176,CK2 - GÀ HẤP MẮM NHỈ,635040.0
+97,1176,CK2 - GÀ HẤP MẮM NHỈ (HALF),429840.0
+1673,1176,CK1 - GÀ NƯỚNG ỐNG TRE,635040.0
+366,1176,CK1 - GÀ NƯỚNG ỐNG TRE (HALF),429840.0
+362,1176,ND8 - PHỞ BÒ ÁP CHẢO,159840.0
+891,1176,ND1 - BÚN BÒ HUẾ,105840.0
+1653,1176,ND7 - MÌ XÀO HẢI SẢN,159840.0
+433,1176,HJ3 - NƯỚC CAM,73440.0
+797,1176,HJ4 - HÈ NHIỆT ĐỚI - MR. SUMMER,81000.0
+1153,1176,SK1 - GINGER MIMOSA,62640.0
+1519,914,Cacao + sữa,20000.0
+402,914,Siêu phẩm (phô mai trứng chuối),35000.0
+1033,914,Phô mai chuối,31000.0
+1013,914,Phô mai Mozzarella,28000.0
+559,914,Trứng chuối,27000.0
+1075,914,Chuối,24000.0
+1837,914,Combo 3: Siêu phẩm + Cacao sữa,52000.0
+1399,914,Dừa non + sữa,26000.0
+1422,914,Phô mai bắp,31000.0
+143,914,Combo 1: Siêu phẩm + Phô mai chuối + Trứng chuối,88000.0
+1318,98,Canh chua cá dứa,116640.0
+536,98,Canh tôm bầu dì Mai,102600.0
+303,98,Rau thập cẩm luộc kho quẹt,84240.0
+722,98,Đậu rồng xào tỏi,62640.0
+369,98,Rau muống xào tỏi,62640.0
+364,98,Bún thịt nướng Dì Mai,105840.0
+203,98,Cơm chiên cua sa tế,116640.0
+1763,98,Cơm trắng,16200.0
+1483,98,Phở bò áp chảo,84240.0
+393,98,"Cơm rang bò, cải chua",84240.0
+1519,560,Cacao + sữa,20000.0
+1033,560,Phô mai chuối,31000.0
+402,560,Siêu phẩm (phô mai trứng chuối),35000.0
+1013,560,Phô mai Mozzarella,28000.0
+1075,560,Chuối,24000.0
+1837,560,Combo 3: Siêu phẩm + Cacao sữa,52000.0
+559,560,Trứng chuối,27000.0
+1422,560,Phô mai bắp,31000.0
+1399,560,Dừa non + sữa,26000.0
+143,560,Combo 1: Siêu phẩm + Phô mai chuối + Trứng chuối,88000.0
+1149,537,Bánh canh thịt bắp,66960.0
+589,537,Bánh canh giò gân,77760.0
+323,537,Bánh canh thịt nạc,66960.0
+889,537,Bánh canh giò nạc,85320.0
+988,537,Bánh canh đặc biệt,88560.0
+774,537,Bánh canh chả cá,72960.0
+985,537,Bánh canh sườn,85320.0
+1568,537,Bánh Canh Bắp Bò,75600.0
+806,537,Bánh canh nấm hải sản,120960.0
+1900,537,Bánh canh thịt vịt,81000.0
+1149,1192,Bánh canh thịt bắp,66960.0
+589,1192,Bánh canh giò gân,77760.0
+988,1192,Bánh canh đặc biệt,88560.0
+889,1192,Bánh canh giò nạc,85320.0
+323,1192,Bánh canh thịt nạc,66960.0
+985,1192,Bánh canh sườn,85320.0
+1568,1192,Bánh Canh Bắp Bò,75600.0
+774,1192,Bánh canh chả cá,72360.0
+1682,1192,Bánh canh tôm + chả cá,85320.0
+806,1192,Bánh canh nấm hải sản,120960.0
+1519,601,Cacao + sữa,20000.0
+402,601,Siêu phẩm (phô mai trứng chuối),35000.0
+1033,601,Phô mai chuối,31000.0
+1013,601,Phô mai Mozzarella,28000.0
+1075,601,Chuối,24000.0
+1837,601,Combo 3: Siêu phẩm + Cacao sữa,52000.0
+559,601,Trứng chuối,27000.0
+1422,601,Phô mai bắp,31000.0
+143,601,Combo 1: Siêu phẩm + Phô mai chuối + Trứng chuối,88000.0
+1400,601,Phô mai trứng,32000.0
+1519,1190,Cacao + sữa,20000.0
+402,1190,Siêu phẩm (phô mai trứng chuối),35000.0
+1075,1190,Chuối,24000.0
+1033,1190,Phô mai chuối,31000.0
+1013,1190,Phô mai Mozzarella,28000.0
+559,1190,Trứng chuối,27000.0
+1837,1190,Combo 3: Siêu phẩm + Cacao sữa,52000.0
+1203,1190,Trứng bắp,25000.0
+1422,1190,Phô mai bắp,31000.0
+1400,1190,Phô mai trứng,32000.0
+1149,439,Bánh canh thịt bắp,66960.0
+589,439,Bánh canh giò gân,77760.0
+889,439,Bánh canh giò nạc,85320.0
+323,439,Bánh canh thịt nạc,66960.0
+988,439,Bánh canh đặc biệt,88560.0
+774,439,Bánh canh chả cá,72360.0
+985,439,Bánh canh sườn,85320.0
+806,439,Bánh canh nấm hải sản,120960.0
+647,439,Bánh canh tôm,85320.0
+727,439,Bánh canh tôm - chả cá,85320.0
+1519,42,Cacao + sữa,20000.0
+1033,42,Phô mai chuối,31000.0
+1013,42,Phô mai Mozzarella,28000.0
+402,42,Siêu phẩm (phô mai trứng chuối),35000.0
+1075,42,Chuối,24000.0
+1837,42,Combo 3: Siêu phẩm + Cacao sữa,52000.0
+1203,42,Trứng bắp,27000.0
+559,42,Trứng chuối,27000.0
+1400,42,Phô mai trứng,32000.0
+1422,42,Phô mai bắp,31000.0
+1149,315,Bánh canh thịt bắp,66960.0
+589,315,Bánh canh giò gân,77760.0
+774,315,Bánh canh chả cá,72360.0
+988,315,Bánh canh đặc biệt,88560.0
+985,315,Bánh canh sườn,85320.0
+323,315,Bánh canh thịt nạc,66960.0
+806,315,Bánh canh nấm hải sản,120960.0
+889,315,Bánh canh giò nạc,85320.0
+1593,315,Bánh canh vịt bột gạo,81000.0
+1568,315,Bánh Canh Bắp Bò,75600.0
+1728,793,Bắp heo luộc cuốn,164160.0
+1785,793,Bò tơ luộc cuốn,193320.0
+218,793,Thịt nạc luộc cuốn,164160.0
+1701,793,Tai và bắp heo luộc cuốn,272160.0
+145,793,Tai heo luộc cuốn,164160.0
+875,793,Heo mọi luộc cuốn,174960.0
+142,793,Bắp heo luộc cuốn lớn,272160.0
+1246,793,Bò tơ luộc cuốn lớn,293760.0
+752,793,Tai heo luộc cuốn lớn,272160.0
+87,793,Thịt nạc luộc cuốn lớn,272160.0
+1166,541,Combo 1 BÁNH TẰM BÌ + 1 BÁNH THẬP CẨM + 1 Thập cẩm Sương sa…,120000.0
+923,541,Thập cẩm Sương sa hạt lựu (LẠNH),25000.0
+1325,541,Chè Dừa Non Hoa Đậu Biếc (LẠNH),25000.0
+1705,541,Chè Cô 7 Đặc Biệt (LẠNH),35000.0
+1116,541,Chè Bưởi (LẠNH),25000.0
+408,541,Chè 3 màu (LẠNH),25000.0
+803,541,Sâm Bổ Lượng (LẠNH),25000.0
+867,541,Sương Sa Hột Lựu (LẠNH),25000.0
+328,541,Chè bánh lọt hột lựu (LẠNH),25000.0
+1830,541,Chè Đậu Đỏ (LẠNH),25000.0
+1819,920,CHÈ DỪA NON KHOAI DẺO ( Món Mới ),28000.0
+1666,920,CHÈ DỪA NON THỐT NỐT ( Món Mới ),28000.0
+1805,920,CHÈ SƯƠNG SA HẠT LỰU KIỂU THÁI ( Món Mới ),28000.0
+126,920,Che Khoai Deo,28000.0
+1408,920,Bánh Thập Cẩm,28000.0
+1720,920,DỪA NON BÁNH FLAN ( Món Mới ),30000.0
+665,920,KHOAI MÌ CUỘN - NƯỚC CỐT DỪA ( Món Mới ),28000.0
+661,763,Takoyaki 3v nhân p.mai + 3v nhân b.tuộc,34000.0
+378,763,Takoyaki 6v: 3 P.Mai 1 Xich 1 Cua 1 So,32000.0
+1651,763,Takoyaki 8 Viên Nhân Thập Cẩm,48000.0
+44,763,Takoyaki 3 P.Mai + 2B.Tuộc + 1Xích 1Cua 1Sò,46000.0
+373,763,Bạch Tuộc Mix Phô Mai,40000.0
+239,763,Bạch Tuộc Mix Thanh Cua,42000.0
+1769,763,Thanh Cua Mix Phô Mai,40000.0
+836,763,Bạch Tuộc Mix Xúc Xích,40000.0
+618,763,Thanh Cua Mix Xúc Xích,38000.0
+566,763,Xúc Xích Mix Phô Mai,38000.0
+1368,434,Combo KFC Foodball 1,89000.0
+1406,434,Combo KFC Foodball 2,159000.0
+74,434,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+48,434,Combo Trưa Burger Tôm,42000.0
+831,434,Combo Cơm Trưa Gà Rán,42000.0
+231,434,Combo Cơm Gà Xốt Teriyaki,42000.0
+818,434,Combo Trưa Mì Ý Gà Viên,42000.0
+921,434,Combo Cơm Trưa Gà Xiên Que,42000.0
+1759,434,Combo Cơm Trưa Gà Bít-Tết,42000.0
+661,611,Takoyaki 3v nhân p.mai + 3v nhân b.tuộc,34000.0
+378,611,Takoyaki 6v: 3 P.Mai 1 Xich 1 Cua 1 So,32000.0
+1651,611,Takoyaki 8 Viên Nhân Thập Cẩm,48000.0
+44,611,Takoyaki 3 P.Mai + 2B.Tuộc + 1Xích 1Cua 1Sò,46000.0
+373,611,Bạch Tuộc Mix Phô Mai,38000.0
+239,611,Bạch Tuộc Mix Thanh Cua,40000.0
+1769,611,Thanh Cua Mix Phô Mai,38000.0
+836,611,Bạch Tuộc Mix Xúc Xích,38000.0
+618,611,Thanh Cua Mix Xúc Xích,36000.0
+566,611,Xúc Xích Mix Phô Mai,36000.0
+1368,1099,Combo KFC Foodball 1,89000.0
+1406,1099,Combo KFC Foodball 2,159000.0
+74,1099,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,1099,Combo Cơm Trưa Gà Rán,42000.0
+48,1099,Combo Trưa Burger Tôm,42000.0
+231,1099,Combo Cơm Gà Xốt Teriyaki,42000.0
+818,1099,Combo Trưa Mì Ý Gà Viên,42000.0
+1759,1099,Combo Cơm Trưa Gà Bít-Tết,42000.0
+921,1099,Combo Cơm Trưa Gà Xiên Que,42000.0
+541,129,Súp cua bắc thảo óc heo,45000.0
+967,129,Súp cua,27000.0
+1764,129,Súp cua bắc thảo (nửa trứng),31000.0
+699,129,Súp cua óc heo,39000.0
+1472,129,Súp cua óc heo nửa bộ,45000.0
+1467,129,Súp cua bắc thảo (1 trứng),38000.0
+1041,129,Súp cua óc heo nguyên bộ,62000.0
+1506,129,Súp cua trứng gà,31000.0
+599,129,Súp thêm,15000.0
+260,129,Súp Cua Sò Điệp,39000.0
+1368,1157,Combo KFC Foodball 1,89000.0
+1406,1157,Combo KFC Foodball 2,159000.0
+74,1157,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,1157,Combo Cơm Trưa Gà Rán,42000.0
+231,1157,Combo Cơm Gà Xốt Teriyaki,42000.0
+1759,1157,Combo Cơm Trưa Gà Bít-Tết,42000.0
+48,1157,Combo Trưa Burger Tôm,42000.0
+921,1157,Combo Cơm Trưa Gà Xiên Que,42000.0
+818,1157,Combo Trưa Mì Ý Gà Viên,42000.0
+1841,339,Tàu Hủ Singapore,20000.0
+967,339,Súp cua,27000.0
+1764,339,Súp cua bắc thảo (nửa trứng),34000.0
+541,339,Súp cua bắc thảo óc heo,47000.0
+1472,339,Súp cua óc heo nửa bộ,47000.0
+699,339,Súp cua óc heo,40000.0
+1467,339,Súp cua bắc thảo (1 trứng),40000.0
+1041,339,Súp cua óc heo nguyên bộ,65000.0
+599,339,Súp thêm,17000.0
+1506,339,Súp cua trứng gà,31000.0
+1368,547,Combo KFC Foodball 1,89000.0
+1406,547,Combo KFC Foodball 2,159000.0
+74,547,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,547,Combo Cơm Trưa Gà Rán,42000.0
+48,547,Combo Trưa Burger Tôm,42000.0
+231,547,Combo Cơm Gà Xốt Teriyaki,42000.0
+921,547,Combo Cơm Trưa Gà Xiên Que,42000.0
+818,547,Combo Trưa Mì Ý Gà Viên,42000.0
+1759,547,Combo Cơm Trưa Gà Bít-Tết,42000.0
+967,1054,Súp cua,27000.0
+1764,1054,Súp cua bắc thảo (nửa trứng),31000.0
+541,1054,Súp cua bắc thảo óc heo,45000.0
+699,1054,Súp cua óc heo,39000.0
+1472,1054,Súp cua óc heo nửa bộ,45000.0
+1467,1054,Súp cua bắc thảo (1 trứng),38000.0
+1506,1054,Súp cua trứng gà,31000.0
+599,1054,Súp thêm,15000.0
+1041,1054,Súp cua óc heo nguyên bộ,62000.0
+1057,1054,Súp Óc Heo Nguyên Bộ Trứng Bắc Thảo 1 Trứng,69000.0
+1368,788,Combo KFC Foodball 1,89000.0
+1406,788,Combo KFC Foodball 2,159000.0
+74,788,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,788,Combo Cơm Trưa Gà Rán,42000.0
+48,788,Combo Trưa Burger Tôm,42000.0
+231,788,Combo Cơm Gà Xốt Teriyaki,42000.0
+818,788,Combo Trưa Mì Ý Gà Viên,42000.0
+921,788,Combo Cơm Trưa Gà Xiên Que,42000.0
+1759,788,Combo Cơm Trưa Gà Bít-Tết,42000.0
+691,140,Bánh Đúc Nóng Đặc Biệt,33000.0
+1658,140,Bánh Đúc Nóng Nhân Thịt & Nấm,27000.0
+913,140,Bánh Đúc Nóng Nhân Gà Đặc Biệt,33000.0
+1906,140,Bánh Đúc Nóng Nhân Gà Xé & Nấm,27000.0
+773,140,Bánh Đúc Hành Phi,20000.0
+1069,140,Combo: Bánh Đúc Đặc Biệt + Trà Tắc,45000.0
+1446,140,Combo Bánh Đúc Nóng Gà Đặc Biệt + Trà Tắc,45000.0
+1794,140,Combo Bánh Đúc Nhân Thịt Nấm + Trà Tắc,39000.0
+1139,140,Bánh Đúc Nhân Hành Phi,20000.0
+1154,140,Combo Bánh Đúc Nóng Nhân Gà Nấm & Trà Tắc,39000.0
+1368,837,Combo KFC Foodball 1,89000.0
+74,837,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,837,Combo Cơm Trưa Gà Rán,42000.0
+48,837,Combo Trưa Burger Tôm,42000.0
+231,837,Combo Cơm Gà Xốt Teriyaki,42000.0
+818,837,Combo Trưa Mì Ý Gà Viên,42000.0
+921,837,Combo Cơm Trưa Gà Xiên Que,42000.0
+1759,837,Combo Cơm Trưa Gà Bít-Tết,42000.0
+745,837,Gà rán (3 miếng),101000.0
+691,578,Bánh Đúc Nóng Đặc Biệt,33000.0
+1658,578,Bánh Đúc Nóng Nhân Thịt & Nấm,27000.0
+1906,578,Bánh Đúc Nóng Nhân Gà Xé & Nấm,27000.0
+913,578,Bánh Đúc Nóng Nhân Gà Đặc Biệt,33000.0
+1375,578,Combo Bánh Đúc Đặc Biệt + Trà Tắc,45000.0
+1139,578,Bánh Đúc Nhân Hành Phi,20000.0
+1794,578,Combo Bánh Đúc Nhân Thịt Nấm + Trà Tắc,39000.0
+1446,578,Combo Bánh Đúc Nóng Gà Đặc Biệt + Trà Tắc,45000.0
+1154,578,Combo Bánh Đúc Nóng Nhân Gà Nấm & Trà Tắc,39000.0
+1339,578,Combo: 3 Bánh Đúc Đặc Biệt + 3 Trà Tắc,140000.0
+1368,227,Combo KFC Foodball 1,89000.0
+1406,227,Combo KFC Foodball 2,159000.0
+74,227,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,227,Combo Cơm Trưa Gà Rán,42000.0
+48,227,Combo Trưa Burger Tôm,42000.0
+818,227,Combo Trưa Mì Ý Gà Viên,42000.0
+921,227,Combo Cơm Trưa Gà Xiên Que,42000.0
+745,227,Gà rán (3 miếng),101000.0
+754,420,Bánh Trứng Gà Non Nhân Phô Mai Chà Bông,45000.0
+1420,420,Bánh Trứng Gà Non Full Phô Mai,45000.0
+136,420,Bánh Kẹp Hong Kong Vị Truyền Thống,35000.0
+798,420,Bánh Trứng Gà Non Thập Cẩm,50000.0
+1823,420,Bánh Trứng Gà Non Vị Truyền Thống,35000.0
+1030,420,Bánh Trứng Gà Non Nhân Phô Mai,40000.0
+753,420,Bánh Trứng Gà Non Vị Trà Xanh,40000.0
+1397,420,Bánh Trứng Gà Non Vị Socola,40000.0
+1688,420,Bánh Kẹp Xịt Socola,40000.0
+1419,420,Bánh Trứng Gà Non Nhân Xúc Xích,40000.0
+1368,68,Combo KFC Foodball 1,89000.0
+1406,68,Combo KFC Foodball 2,159000.0
+74,68,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,68,Combo Cơm Trưa Gà Rán,42000.0
+48,68,Combo Trưa Burger Tôm,42000.0
+231,68,Combo Cơm Gà Xốt Teriyaki,42000.0
+818,68,Combo Trưa Mì Ý Gà Viên,42000.0
+1759,68,Combo Cơm Trưa Gà Bít-Tết,42000.0
+921,68,Combo Cơm Trưa Gà Xiên Que,42000.0
+754,337,Bánh Trứng Gà Non Nhân Phô Mai Chà Bông,45000.0
+1030,337,Bánh Trứng Gà Non Nhân Phô Mai,40000.0
+1823,337,Bánh Trứng Gà Non Vị Truyền Thống,35000.0
+753,337,Bánh Trứng Gà Non Vị Trà Xanh,40000.0
+1591,337,Bánh Kẹp Vị Truyền Thống,35000.0
+1420,337,Bánh Trứng Gà Non Full Phô Mai,45000.0
+798,337,Bánh Trứng Gà Non Thập Cẩm,50000.0
+1397,337,Bánh Trứng Gà Non Vị Socola,40000.0
+1419,337,Bánh Trứng Gà Non Nhân Xúc Xích,40000.0
+472,337,Bánh Trứng Gà Non Vị Đậu Phộng,40000.0
+1368,998,Combo KFC Foodball 1,89000.0
+1406,998,Combo KFC Foodball 2,159000.0
+74,998,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,998,Combo Cơm Trưa Gà Rán,42000.0
+231,998,Combo Cơm Gà Xốt Teriyaki,42000.0
+48,998,Combo Trưa Burger Tôm,42000.0
+818,998,Combo Trưa Mì Ý Gà Viên,42000.0
+1759,998,Combo Cơm Trưa Gà Bít-Tết,42000.0
+921,998,Combo Cơm Trưa Gà Xiên Que,42000.0
+754,0,Bánh Trứng Gà Non Nhân Phô Mai Chà Bông,45000.0
+1823,0,Bánh Trứng Gà Non Vị Truyền Thống,35000.0
+1420,0,Bánh Trứng Gà Non Full Phô Mai,45000.0
+753,0,Bánh Trứng Gà Non Vị Trà Xanh,40000.0
+1591,0,Bánh Kẹp Vị Truyền Thống,35000.0
+798,0,Bánh Trứng Gà Non Thập Cẩm,50000.0
+1397,0,Bánh Trứng Gà Non Vị Socola,40000.0
+1030,0,Bánh Trứng Gà Non Nhân Phô Mai,40000.0
+1688,0,Bánh Kẹp Xịt Socola,40000.0
+208,0,Bánh Trứng Gà Non Full Xúc Xích,45000.0
+1823,1177,Bánh Trứng Gà Non Vị Truyền Thống,35000.0
+754,1177,Bánh Trứng Gà Non Nhân Phô Mai Chà Bông,45000.0
+1420,1177,Bánh Trứng Gà Non Full Phô Mai,45000.0
+798,1177,Bánh Trứng Gà Non Thập Cẩm,50000.0
+1591,1177,Bánh Kẹp Vị Truyền Thống,35000.0
+1030,1177,Bánh Trứng Gà Non Nhân Phô Mai,40000.0
+753,1177,Bánh Trứng Gà Non Vị Trà Xanh,40000.0
+1397,1177,Bánh Trứng Gà Non Vị Socola,40000.0
+208,1177,Bánh Trứng Gà Non Full Xúc Xích,45000.0
+1688,1177,Bánh Kẹp Xịt Socola,40000.0
+1406,330,Combo KFC Foodball 2,159000.0
+1368,330,Combo KFC Foodball 1,89000.0
+74,330,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+48,330,Combo Trưa Burger Tôm,42000.0
+831,330,Combo Cơm Trưa Gà Rán,42000.0
+231,330,Combo Cơm Gà Xốt Teriyaki,42000.0
+1759,330,Combo Cơm Trưa Gà Bít-Tết,42000.0
+818,330,Combo Trưa Mì Ý Gà Viên,42000.0
+921,330,Combo Cơm Trưa Gà Xiên Que,42000.0
+352,905,Bánh mì nướng muối ớt,20000.0
+1894,905,Bánh mì nướng muối ớt đầy đủ,25000.0
+1628,905,Bánh Mì Nướng Muối Ớt Đặc Biệt Nhiều Bánh Và Topping + Pepsi,48000.0
+1870,905,Pepsi lẻ,15000.0
+1649,905,Bánh mì nướng muối ớt + Bánh mì nướng muối ớt đầy đủ + Pepsi,57000.0
+789,905,Bánh mì nướng muối ớt + Bánh mì nướng muối ớt Xúc Xích + Pepsi,55000.0
+1263,905,Bánh Mì Nướng Muối Ớt Đặc Biệt Nhiều Bánh Và Topping,36000.0
+294,905,Bánh mì nướng muối ớt Xúc Xích,23000.0
+1540,905,Bánh Mì Nướng Muối Ớt Nhân Phomai,23000.0
+1406,513,Combo KFC Foodball 2,159000.0
+1368,513,Combo KFC Foodball 1,89000.0
+74,513,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+831,513,Combo Cơm Trưa Gà Rán,42000.0
+48,513,Combo Trưa Burger Tôm,42000.0
+231,513,Combo Cơm Gà Xốt Teriyaki,42000.0
+1759,513,Combo Cơm Trưa Gà Bít-Tết,42000.0
+818,513,Combo Trưa Mì Ý Gà Viên,42000.0
+921,513,Combo Cơm Trưa Gà Xiên Que,42000.0
+352,693,Bánh mì nướng muối ớt,20000.0
+352,693,Bánh mì nướng muối ớt,18000.0
+1894,693,Bánh mì nướng muối ớt đầy đủ,23000.0
+1263,693,Bánh Mì Nướng Muối Ớt Đặc Biệt Nhiều Bánh Và Topping,35000.0
+1540,693,Bánh Mì Nướng Muối Ớt Nhân Phomai,20000.0
+294,693,Bánh mì nướng muối ớt Xúc Xích,20000.0
+1628,693,Bánh Mì Nướng Muối Ớt Đặc Biệt Nhiều Bánh Và Topping + Pepsi,48000.0
+789,693,Bánh mì nướng muối ớt + Bánh mì nướng muối ớt Xúc Xích + Pepsi,55000.0
+1649,693,Bánh mì nướng muối ớt + Bánh mì nướng muối ớt đầy đủ + Pepsi,57000.0
+1368,402,Combo KFC Foodball 1,89000.0
+1406,402,Combo KFC Foodball 2,159000.0
+74,402,Combo Cơm Trưa Phi-lê Gà Quay,42000.0
+48,402,Combo Trưa Burger Tôm,42000.0
+831,402,Combo Cơm Trưa Gà Rán,42000.0
+231,402,Combo Cơm Gà Xốt Teriyaki,42000.0
+1759,402,Combo Cơm Trưa Gà Bít-Tết,42000.0
+818,402,Combo Trưa Mì Ý Gà Viên,42000.0
+921,402,Combo Cơm Trưa Gà Xiên Que,42000.0
+745,402,Gà rán (3 miếng),101000.0
+1254,137,Cháo sườn,22000.0
+172,137,Cháo thịt bằm,20000.0
+1553,137,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+1209,137,Cháo bò viên,35000.0
+387,137,Cháo Sườn thịt bằm lớn,30000.0
+1120,137,Cháo sườn + trứng bách thảo,30000.0
+114,137,Cháo thịt bằm + Trứng gà (S),30000.0
+1329,137,COMBO 2 CHÁO THỊT BẰM,50000.0
+1567,137,Hột vịt bắc thảo,10000.0
+321,137,Trứng,6000.0
+1298,799,Biriyani with Basmati Rice Chicken (Sunday Only),160000.0
+970,799,Biriyani with Basmati Rice Mutton (Sunday Only),180000.0
+1208,799,Chicken Tikka Roll,120000.0
+1134,799,Vegetarian Roll,80000.0
+1619,799,Gobi 65 Roll,95000.0
+473,799,Palak Fish,140000.0
+562,799,Paneer Roll,95000.0
+189,799,Paneer Burji,70000.0
+935,799,Pineapple juice,55000.0
+264,799,Mango juice,55000.0
+172,259,Cháo thịt bằm,20000.0
+355,259,Cháo trứng gà đánh,20000.0
+1553,259,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+1254,259,Cháo sườn,22000.0
+1190,259,COMBO 2 CHÁO SƯỜN,50000.0
+537,259,Cháo Sườn Thập Cẩm,55000.0
+387,259,Cháo Sườn thịt bằm lớn,30000.0
+486,259,Cháo Sườn Lớn Bách Thảo,38000.0
+1731,259,Cháo Sườn Bò Viên,36000.0
+379,259,Cháo Thịt Bằm Lớn,29000.0
+1317,409,Sapporo,40000.0
+1326,409,Tiger,40000.0
+1602,409,Saigon,30000.0
+1053,409,Heineken,40000.0
+1623,409,Sapporo Draft,40000.0
+1298,409,Biriyani with Basmati Rice Chicken (Sunday Only),160000.0
+970,409,Biriyani with Basmati Rice Mutton (Sunday Only),180000.0
+428,409,Crab Curry (Thursday Only),125000.0
+598,409,Mutton-with-bone Curry (Friday Only),150000.0
+1799,409,Egg Curry (Wednesday Only),99000.0
+1156,400,"Cháo Sườn Lớn, Quẩy",32000.0
+179,400,"Cháo Sườn Lớn, Hột Vịt Bắc Thảo",38000.0
+10,400,Cháo Sườn Thịt Bằm Nhỏ,20000.0
+537,400,Cháo Sườn Thập Cẩm,55000.0
+1590,400,Cháo sườn + trứng bắc thảo,30000.0
+379,400,Cháo Thịt Bằm Lớn,29000.0
+1070,400,"Cháo Sườn Lớn, Trứng Gà",32000.0
+638,400,Cháo Bò Viên,35000.0
+353,400,Thịt Bằm Lớn Trứng Gà,35000.0
+1878,400,Thịt Bằm Nhỏ Trứng Gà,25000.0
+1220,199,Bánh mì bơ tỏi,45000.0
+1136,199,BBQ. wing (Regular),145000.0
+1810,199,Salad B,165000.0
+1897,199,BBQ. wing (Large),205000.0
+1809,199,Salad A,165000.0
+1716,199,Pizza hải sản,225000.0
+207,199,Pizza thập cẩm,195000.0
+571,199,Pizza bò bít tết,225000.0
+1386,199,Pizza xúc xích,195000.0
+1174,199,Pizza cá ngừ,190000.0
+1254,361,Cháo sườn,22000.0
+1190,361,COMBO 2 CHÁO SƯỜN,50000.0
+172,361,Cháo thịt bằm,20000.0
+355,361,Cháo trứng gà đánh,20000.0
+1553,361,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+387,361,Cháo Sườn thịt bằm lớn,30000.0
+379,361,Cháo Thịt Bằm Lớn,29000.0
+486,361,Cháo Sườn Lớn Bách Thảo,38000.0
+537,361,Cháo Sườn Thập Cẩm,55000.0
+1731,361,Cháo Sườn Bò Viên,36000.0
+1220,471,Bánh mì bơ tỏi,45000.0
+1136,471,BBQ. wing (Regular),145000.0
+1810,471,Salad B,165000.0
+1897,471,BBQ. wing (Large),205000.0
+925,471,Khoai Tây Chiên,40000.0
+1809,471,Salad A,195000.0
+1102,471,Tôm chiên lớn,110000.0
+1654,471,HQ Chicken (Regular),55000.0
+167,471,Tom chien,67000.0
+644,471,Fried Octopus,150000.0
+1254,411,Cháo sườn,22000.0
+1190,411,COMBO 2 CHÁO SƯỜN,50000.0
+172,411,Cháo thịt bằm,20000.0
+355,411,Cháo trứng gà đánh,20000.0
+1553,411,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+1474,411,Cháo Sườn Thịt Bằm lớn,29000.0
+1416,411,Cháo Sườn Lớn- Bách Thảo,38000.0
+1727,411,Cháo Thập Cẩm,55000.0
+1120,411,Cháo sườn + trứng bách thảo,30000.0
+387,411,Cháo Sườn thịt bằm lớn,30000.0
+1220,347,Bánh mì bơ tỏi,45000.0
+1136,347,BBQ. wing (Regular),145000.0
+1810,347,Salad B,165000.0
+1897,347,BBQ. wing (Large),205000.0
+1809,347,Salad A,165000.0
+1716,347,Pizza hải sản,225000.0
+207,347,Pizza thập cẩm,195000.0
+571,347,Pizza bò bít tết,225000.0
+1386,347,Pizza xúc xích,195000.0
+579,347,Pizza phô mai,195000.0
+172,631,Cháo thịt bằm,20000.0
+355,631,Cháo trứng gà đánh,20000.0
+1553,631,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+172,631,Cháo thịt bằm,22000.0
+1254,631,Cháo sườn,22000.0
+1190,631,COMBO 2 CHÁO SƯỜN,50000.0
+387,631,Cháo Sườn thịt bằm lớn,30000.0
+1120,631,Cháo sườn + trứng bách thảo,30000.0
+1867,631,Cháo Sườn Lớn,29000.0
+114,631,Cháo thịt bằm + Trứng gà (S),30000.0
+1220,378,Bánh mì bơ tỏi,45000.0
+1136,378,BBQ. wing (Regular),145000.0
+1897,378,BBQ. wing (Large),205000.0
+925,378,Khoai Tây Chiên,45000.0
+1810,378,Salad B,165000.0
+1809,378,Salad A,195000.0
+1703,378,HQ Chicken,55000.0
+1322,378,Tom Chien,67000.0
+1703,378,HQ Chicken,159000.0
+1322,378,Tom Chien,110000.0
+1254,1162,Cháo sườn,22000.0
+172,1162,Cháo thịt bằm,20000.0
+1553,1162,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+387,1162,Cháo Sườn thịt bằm lớn,30000.0
+114,1162,Cháo thịt bằm + Trứng gà (S),30000.0
+1120,1162,Cháo sườn + trứng bách thảo,30000.0
+1329,1162,COMBO 2 CHÁO THỊT BẰM,50000.0
+82,1162,BIG COMBO 10 CHÁO SƯỜN,250000.0
+242,1162,Quẩy thêm,6000.0
+1567,1162,Hột vịt bắc thảo,10000.0
+1220,542,Bánh mì bơ tỏi,45000.0
+1136,542,BBQ. wing (Regular),145000.0
+1810,542,Salad B,165000.0
+1897,542,BBQ. wing (Large),205000.0
+1809,542,Salad A,165000.0
+1716,542,Pizza hải sản,225000.0
+207,542,Pizza thập cẩm,195000.0
+571,542,Pizza bò bít tết,225000.0
+1386,542,Pizza xúc xích,195000.0
+579,542,Pizza phô mai,195000.0
+1190,654,COMBO 2 CHÁO SƯỜN,50000.0
+172,654,Cháo thịt bằm,20000.0
+355,654,Cháo trứng gà đánh,20000.0
+1553,654,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+1254,654,Cháo sườn,22000.0
+387,654,Cháo Sườn thịt bằm lớn,30000.0
+1120,654,Cháo sườn + trứng bách thảo,30000.0
+114,654,Cháo thịt bằm + Trứng gà (S),30000.0
+0,654,Cháo thịt bằm lớn trứng gà,35000.0
+1237,654,Cháo sườn thập cẩm,55000.0
+1136,558,BBQ. wing (Regular),145000.0
+1220,558,Bánh mì bơ tỏi,45000.0
+1897,558,BBQ. wing (Large),205000.0
+1716,558,Pizza hải sản,225000.0
+207,558,Pizza thập cẩm,195000.0
+1386,558,Pizza xúc xích,195000.0
+571,558,Pizza bò bít tết,225000.0
+579,558,Pizza phô mai,195000.0
+1563,558,Pizza dứa,190000.0
+1174,558,Pizza cá ngừ,190000.0
+1165,773,Coca-Cola không đường 1Đ,1000.0
+1614,773,COMBO 2 CHÁO SƯỜN (Size M),50000.0
+1571,773,CHÁO THỊT BĂM (Size M) + TRỨNG GÀ,30000.0
+1119,773,CHÁO + TRỨNG GÀ,20000.0
+311,773,CHÁO SƯỜN + THỊT BẰM (Size L),30000.0
+768,773,CHÁO SƯỜN + TRỨNG BÁCH THẢO,35000.0
+1476,773,CHÁO SƯỜN THẬP CẨM,55000.0
+155,773,CHÁO THỊT BĂM (Size L) + TRỨNG GÀ,35000.0
+1877,773,CHÁO SƯỜN (Size L),30000.0
+1254,136,Cháo sườn,22000.0
+172,136,Cháo thịt bằm,20000.0
+1553,136,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+387,136,Cháo Sườn thịt bằm lớn,30000.0
+1120,136,Cháo sườn + trứng bách thảo,30000.0
+1209,136,Cháo bò viên,35000.0
+114,136,Cháo thịt bằm + Trứng gà (S),30000.0
+1329,136,COMBO 2 CHÁO THỊT BẰM,50000.0
+321,136,Trứng,6000.0
+1254,153,Cháo sườn,22000.0
+172,153,Cháo thịt bằm,20000.0
+1553,153,Cháo Thịt Bằm nhỏ + Trứng Gà,25000.0
+387,153,Cháo Sườn thịt bằm lớn,30000.0
+1120,153,Cháo sườn + trứng bách thảo,30000.0
+1209,153,Cháo bò viên,35000.0
+114,153,Cháo thịt bằm + Trứng gà (S),30000.0
+1329,153,COMBO 2 CHÁO THỊT BẰM,50000.0
+321,153,Trứng,6000.0
+750,11,Gỏi mít,60500.0
+881,11,Gỏi chay thập cẩm,60500.0
+1088,11,Gỏi măng,60500.0
+1286,11,Gỏi đu đủ,60500.0
+890,11,"Salad dầu giấm, nấm & cà chua",55000.0
+469,11,Rau muống trộn,55000.0
+227,11,Nham bắp chuối,60500.0
+1025,11,Cuốn diếp (1 cuốn),27500.0
+1691,11,Cuốn rối (1 cuốn),27500.0
+843,11,Gỏi cuốn (1 cuốn),22000.0
+500,381,(hộp nhỏ) Đặc Biệt,35000.0
+1310,381,(hộp nhỏ) Bạch Tuộc,30000.0
+83,381,(hộp nhỏ) Phô Mai,30000.0
+1698,381,(hộp lớn) Đặc Biệt,65000.0
+375,381,(hộp lớn) Bạch Tuộc,55000.0
+338,381,(hộp lớn) Phô Mai,55000.0
+414,386,Đặc biệt (4 viên),35000.0
+940,386,Bạch tuộc (4 viên),30000.0
+1168,386,Phô mai (4 viên),30000.0
+800,386,Bạch tuộc (8 viên),60000.0
+47,386,Phô Mai (8 Viên),60000.0
+447,421,Build your Own Poke | Bạn chọn (2 Cúp),180000.0
+171,421,Build your own vegetarian bowl,140000.0
+581,421,The Californian,180000.0
+1412,421,The Charles,180000.0
+91,421,The Savory,180000.0
+131,421,The vegetarian,140000.0
+965,421,The Hawaiian,180000.0
+1131,421,The Saigonese,180000.0
+1558,421,Chocolate mousse,65000.0
+680,421,Yogurt parfait,80000.0
+1310,394,(hộp nhỏ) Bạch Tuộc,30000.0
+83,394,(hộp nhỏ) Phô Mai,30000.0
+500,394,(hộp nhỏ) Đặc Biệt,30000.0
+1698,394,(hộp lớn) Đặc Biệt,65000.0
+375,394,(hộp lớn) Bạch Tuộc,55000.0
+338,394,(hộp lớn) Phô Mai,55000.0
+447,452,Build your Own Poke | Bạn chọn (2 Cúp),180000.0
+171,452,Build your own vegetarian bowl,140000.0
+1412,452,The Charles,180000.0
+581,452,The Californian,180000.0
+91,452,The Savory,180000.0
+131,452,The vegetarian,140000.0
+965,452,The Hawaiian,180000.0
+1131,452,The Saigonese,180000.0
+680,452,Yogurt parfait,80000.0
+1558,452,Chocolate mousse,65000.0
+663,166,1 Bạch Tuộc Lớn + 1 Phô Mai Nhỏ,85000.0
+1585,166,Takoyaki Bạch Tuộc ( Lớn) Takoyaki Bạch Tuộc (Nhỏ),85000.0
+500,166,(hộp nhỏ) Đặc Biệt,35000.0
+1310,166,(hộp nhỏ) Bạch Tuộc,30000.0
+83,166,(hộp nhỏ) Phô Mai,30000.0
+375,166,(hộp lớn) Bạch Tuộc,60000.0
+518,166,(hợp lớn) Đặc Biệt,70000.0
+338,166,(hộp lớn) Phô Mai,60000.0
+1231,374,Tàu hũ thập cẩm bánh Flan,26000.0
+1791,374,"Tàu hủ thập cẩm đặc biệt Flan ,Rau câu",36000.0
+271,374,Tàu hủ thập cẩm đặc biệt 2 Flan,36000.0
+529,374,Tàu hủ thập cẩm Rau Câu dừa non,26000.0
+1637,374,Tàu hũ thập cẩm,22000.0
+1569,374,Tàu Hủ Sương Sáo Nước Dừa,22000.0
+1477,374,Sương Sa Hạt Lựu  Rau Câu Dừa Non,36000.0
+202,374,"Tàu Hủ Thập Cẩm Flan ,dừa non rim",31000.0
+1285,374,Tàu Hủ Thạch Lá Dứa Cốt Dừa,22000.0
+1451,374,Tàu Hủ Bánh Lọt Sương Sáo Nước Dừa,22000.0
+1738,465,Tàu hũ thập cẩm bánh flan,26000.0
+64,465,Tàu hủ thập cẩm đặc biệt Flan Rau câu,36000.0
+1833,465,Tàu hủ thập cẩm rau câu dừa non,26000.0
+271,465,Tàu hủ thập cẩm đặc biệt 2 Flan,36000.0
+1721,465,Tàu hũ thập cẩm không flan (Size L),22000.0
+1680,465,Tàu Hủ Sương Sáo Nước Dừa (Size L),22000.0
+1090,465,Sương Sa Hạt Lựu Cốt Dừa Rau Câu Dừa Non,36000.0
+15,465,Tàu Hủ Thạch Lá Dứa Cốt Dừa (Size L),22000.0
+1232,465,Combo 3: Tàu Hủ Sương Sáo Nước Dừa + Tàu hủ Bánh lọt cốt dừa(…,43000.0
+1451,465,Tàu Hủ Bánh Lọt Sương Sáo Nước Dừa,22000.0
+1127,230,Bánh tráng muối nhuyễn sate,10000.0
+1128,230,Bánh tráng tỏi tắc,10000.0
+1193,230,Bánh tráng sate tắc,10000.0
+770,230,Bánh tráng muối nhuyễn hành phi,10000.0
+1405,230,Bánh tráng chấm me,10000.0
+590,230,Bánh tráng ớt tắc,10000.0
+1344,230,Bánh tráng bơ tôm,18000.0
+1554,230,Bánh tráng tỏi phơi sương,10000.0
+592,230,Bánh Tráng Dẻo Tôm Siêu Cay,10000.0
+1612,230,Bánh tráng dẻo chấm ớt,10000.0
+148,298,Bánh tráng phơi sương tỏi ớt muối nhuyễn (xé sẵn),13000.0
+365,298,Bánh tráng muối nhuyễn hành phi sate,13000.0
+1193,298,Bánh tráng sate tắc,13000.0
+1360,298,Bánh tráng chấm 4 vị (Tỏi + Ớt + Muối +Tắc),13000.0
+1405,298,Bánh tráng chấm me,13000.0
+590,298,Bánh tráng ớt tắc,13000.0
+1066,298,Bánh tráng dẻo hành siêu cay,13000.0
+1323,298,Bánh tráng trộn muối tỏi,13000.0
+1344,298,Bánh tráng bơ tôm,22000.0
+1509,298,Bánh tráng tép hành phi muối nhuyễn,13000.0
+905,625,Nui bò lúc lắc,96000.0
+495,625,Nui bò trứng,108000.0
+1871,625,Nui tôm,96000.0
+1903,625,Mì vàng xào gan cật,93000.0
+1306,625,Nui xào gan cật,96000.0
+1347,625,Mì vàng xào gan cật trứng,108000.0
+1226,625,Mì vàng xào tôm,96000.0
+1384,625,Nui cật,96000.0
+708,625,Mì vàng xào bò,95000.0
+1185,625,Mì vàng xào heo trứng,108000.0
+427,1155,Há cảo tôm,68000.0
+1152,1155,Chân gà hấp tàu xì,68000.0
+1364,1155,Xíu mại đông cô,68000.0
+200,1155,Há cảo sò điệp,84000.0
+73,1155,Bánh bao kim sa,68000.0
+326,1155,Bánh bao xá xíu,68000.0
+1022,1155,Xôi gà hấp lá sen,68000.0
+1086,1155,Sườn non hấp tàu xì,68000.0
+686,1155,Dầu hào đậu hũ ky cuốn,68000.0
+431,1155,Xíu mại nước,68000.0
+1816,441,Mì xào ốc giác,50000.0
+1001,441,Mì xào ốc móng tay,50000.0
+627,441,Mì xào hải sản,50000.0
+1533,441,Mì xào ốc tỏi,50000.0
+1808,441,Mì xào sò lông,50000.0
+616,441,Mì xào sò điệp,50000.0
+1722,441,Mì xào bò,45000.0
+695,441,Mì xào ốc khế,45000.0
+1461,441,Mì xào tôm,50000.0
+692,441,Bạch tuộc nướng muối ớt,70000.0
+495,868,Nui bò trứng,114000.0
+1312,868,Nui bò,95000.0
+1143,868,Nui xào tôm,95000.0
+901,868,Nui tôm trứng,114000.0
+654,868,Sandwich trứng,82000.0
+1222,868,Sandwich sữa,82000.0
+243,868,Sandwich HongKong,82000.0
+1129,868,Sandwich mứt trái cây,82000.0
+1820,868,Sandwich ốp la,82000.0
+1409,868,Cháo bách thảo thịt bằm,82000.0
+997,732,Dừa tắc,25000.0
+65,732,Dừa Tắc Thơm,25000.0
+844,732,Dừa Thơm,24000.0
+702,732,Dừa Tắc Topping Dừa Nước,27000.0
+401,732,Dừa Truyền Thống,24000.0
+1632,732,Dừa Chanh Dây,24000.0
+827,732,Dừa Tắc Thập Cẩm,29000.0
+1526,732,Dừa Tắc Trân Châu Đen &Trân Châu Dừa,27000.0
+834,732,Dừa Mít,25000.0
+1766,732,Bánh Phồng Tôm,10000.0
+20,186,Set Sườn Non Xông Khói/ Baby Ribs Set,130900.0
+971,186,Set Đùi Gà Góc Tư Xông Khói/ Chicken Leg Quarter S,64900.00000000001
+1499,186,Set Thịt Heo Xông Khói/ Pulled Pork Set,75900.0
+1873,186,Set Xúc Xích Anh Xông Khói/ Sausage England Set,75900.0
+504,186,Shaking Steak/ Bò Khối Đảo Lửa 1,77000.0
+1297,186,Set Gầu Bò Xông Khói/ Beef Brisket Set,97900.0
+961,186,Sline Steak/ Bò Lát Đảo Lửa 2,71500.0
+244,186,Shaking Steak/ Bò Khối Đảo Lửa 2,71500.0
+1235,186,Sline Steak/ Bò Lát Đảo Lửa 1,71500.0
+300,186,M Seafood Platter,539000.0
+997,836,Dừa tắc,25000.0
+65,836,Dừa Tắc Thơm,25000.0
+702,836,Dừa Tắc Topping Dừa Nước,27000.0
+844,836,Dừa Thơm,24000.0
+401,836,Dừa Truyền Thống,24000.0
+1632,836,Dừa Chanh Dây,24000.0
+827,836,Dừa Tắc Thập Cẩm,29000.0
+834,836,Dừa Mít,25000.0
+1766,836,Bánh Phồng Tôm,10000.0
+1526,836,Dừa Tắc Trân Châu Đen &Trân Châu Dừa,27000.0
+1062,1055,Chân Gà Ngâm Xả Tắc,55000.0
+1507,1055,Chân Gà Ngâm Cóc Non,55000.0
+790,1055,Chân Gà Ngâm Xả Cóc Non,55000.0
+604,1055,Bún Thái Thập Cẩm,35000.0
+215,1055,Bún Thái Nấm,35000.0
+1094,1055,Bún Thái Bò,35000.0
+997,1055,Dừa tắc,25000.0
+65,1055,Dừa Tắc Thơm,25000.0
+702,1055,Dừa Tắc Topping Dừa Nước,27000.0
+401,1055,Dừa Truyền Thống,24000.0
+657,649,Belgian Frites Truffle,118800.0
+163,649,Belgian Frites - Classic,81000.0
+1850,649,Flemish Poutine,135000.0
+1140,649,Daltons Buffalo Wings,167400.0
+1021,649,Belgo Beer Butter Clams,248400.0
+1099,649,Belgian Pate,194400.0
+1392,649,Trappist Apero Platter,383400.0
+1160,649,Garlic Bread,75600.0
+1656,649,Chef's Chicken Wings,167400.0
+496,649,Flammekueche Belgo,199800.0
+1195,466,Cơm cháy chiên nước mắm,8000.0
+652,466,Xoi chien nóng giòn,7000.0
+1644,466,Xôi Chiên Không Nhân,5000.0
+716,466,Combo 10xoi+ 2 hu sốt độc quyền,70000.0
+964,466,Sữa Chua Nhà Làm,8000.0
+802,466,Combo 5xoi Tặng 1 Hu Sot,35000.0
+333,466,Sốt Tương Ớt,6000.0
+8,466,Nước Sâm Đường Phèn,10000.0
+656,466,Bánh tráng muối nhuyễn hành Phi,8000.0
+657,40,Belgian Frites Truffle,118800.0
+163,40,Belgian Frites - Classic,81000.0
+1850,40,Flemish Poutine,135000.0
+1099,40,Belgian Pate,194400.0
+1160,40,Garlic Bread,75600.0
+1140,40,Daltons Buffalo Wings,167400.0
+1021,40,Belgo Beer Butter Clams,248400.0
+1656,40,Chef's Chicken Wings,167400.0
+1392,40,Trappist Apero Platter,383400.0
+496,40,Flammekueche Belgo,199800.0
+766,16,Cơm Cháy Chiên Nước Mắm,9000.0
+144,16,Xôi chiên,7000.0
+360,16,COMBO 10cai Tăng 2husot,70000.0
+1644,16,Xôi Chiên Không Nhân,5000.0
+1177,16,Combo 5 Xôi Tặng 1 Hu Sốt,35000.0
+162,16,XÔI KHÔNG CHIÊN,3000.0
+1175,16,Bánh Tráng Muối Nhuyễn Tỏi Phi,10000.0
+1784,16,DA HEO CHÁY TỎI 100G,45000.0
+1126,16,Top Mỡ Nhà Làm,140000.0
+489,731,bánh tráng tỏi Phi,8000.0
+470,731,cơm cháy mắn hành 1 Bịch,10000.0
+1789,731,bánh tráng hành Phi Bich,10000.0
+153,731,Kim Chi hàng quốc 500gr,80000.0
+1151,731,xôi chiên,7000.0
+1350,731,xôi chiên combo 5 Cai tặng 1 Hủ sốt,35000.0
+360,731,COMBO 10cai Tăng 2husot,70000.0
+1644,731,Xôi Chiên Không Nhân,5000.0
+1423,731,xôi chiên 6 Cai tặng 1 Hủ sốt,42000.0
+490,734,Combo bò heo gói báo 600g,430920.0
+1861,734,Combo bò gói báo 400g,355320.0
+1838,734,Combo rẻ sườn bò Mỹ và lưỡi bò Mỹ 600g,603720.0
+1034,734,Combo má heo và rẻ sườn heo Iberico 300g,322920.0
+237,734,Combo heo gói báo 400g,214920.0
+1012,734,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+585,734,Combo rẻ sườn bò Mỹ và cổ heo Iberico 300g,355320.0
+903,734,Combo lưỡi bò và rẻ sườn heo Iberico 600g,603720.0
+192,734,Combo thịt hải sản và lẩu bò Kpub,538920.0
+1389,734,Combo heo gói báo 600g,301320.0
+882,451,Bánh tráng trộn tỏi ớt (bịch lớn 4 trứng cút),25000.0
+1648,451,"Bánh tráng trộn tỏi ớt (bịch vừa 3 trứng cút, nhiều bánh)",20000.0
+405,451,BÁNH TRÁNG TRỘN TỎI ỚT( BỊCH 2 TRỨNG CÚT),15000.0
+1064,451,Bánh tráng bơ,22000.0
+184,451,Bánh Tráng Tỏi Ớt Không Trứng,12000.0
+1487,451,2 phần Bánh tráng trộn tỏi ớt nhỏ (Không Trứng),24000.0
+1659,451,Gỏi Xoài Trứng Cút (chay và mặn dùng được),25000.0
+474,451,Xoài Lắc Siêu Cay,25000.0
+673,451,Cơm Cháy Chiên Giòn Mắm Ớt,12000.0
+809,451,Bánh Tráng Tỏi Ớt Trứng Gà,25000.0
+195,51,Lẩu bò Hàn Quốc,279720.0
+1842,51,Lẩu sườn bò,387720.0
+371,51,Lẩu kim chi,279720.0
+1389,51,Combo heo gói báo 600g,301320.0
+1838,51,Combo rẻ sườn bò Mỹ và lưỡi bò Mỹ 600g,603720.0
+1861,51,Combo bò gói báo 400g,355320.0
+585,51,Combo rẻ sườn bò Mỹ và cổ heo Iberico 300g,355320.0
+192,51,Combo thịt hải sản và lẩu bò Kpub,538920.0
+490,51,Combo bò heo gói báo 600g,430920.0
+1012,51,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+1648,764,"Bánh tráng trộn tỏi ớt (bịch vừa 3 trứng cút, nhiều bánh)",20000.0
+1487,764,2 phần Bánh tráng trộn tỏi ớt nhỏ (Không Trứng),25000.0
+814,764,Bánh tráng trộn tỏi ớt nhỏ (Không Trứng),12500.0
+27,764,Bánh tráng trộn tỏi ớt (2 trứng cút),15000.0
+678,764,Bánh Tráng Trộn Tỏi Ớt (không trứng),15000.0
+791,764,Bánh Tráng Bơ,22000.0
+1659,764,Gỏi Xoài Trứng Cút (chay và mặn dùng được),25000.0
+212,764,Bánh tráng trộn tỏi ớt (2 trứng),15000.0
+474,764,Xoài Lắc Siêu Cay,25000.0
+371,118,Lẩu kim chi,279720.0
+195,118,Lẩu bò Hàn Quốc,279720.0
+1842,118,Lẩu sườn bò,387720.0
+1012,118,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+237,118,Combo heo gói báo 400g,214920.0
+1034,118,Combo má heo và rẻ sườn heo Iberico 300g,322920.0
+1389,118,Combo heo gói báo 600g,301320.0
+490,118,Combo bò heo gói báo 600g,430920.0
+192,118,Combo thịt hải sản và lẩu bò Kpub,538920.0
+585,118,Combo rẻ sườn bò Mỹ và cổ heo Iberico 300g,355320.0
+587,1193,Chả Cá Vàng Thơm,250000.0
+1888,1193,Chả Cá Vàng Thơm Kèm Sốt (Sốt tiêu đen/Sốt cay),280000.0
+587,1193,Chả Cá Vàng Thơm,25000.0
+29,1193,Chả Cá Vàng Thơm Sốt Cay,28000.0
+1442,1193,Chả Cá Vàng Thơm Sốt Tiêu Đen,28000.0
+681,1193,Bánh Mì Chả Cá Vàng Thơm,35000.0
+194,1193,Bánh Mì Chả Cá Kim Chi Sốt Cay,35000.0
+453,1193,Xôi Chả Cá Sốt Tiêu Đen,35000.0
+712,1193,Xôi Chả Cá Sốt Cay,35000.0
+739,1193,Bánh Mì Chả Cá Sốt Tiêu Đen,35000.0
+490,120,Combo bò heo gói báo 600g,430920.0
+1861,120,Combo bò gói báo 400g,355320.0
+1034,120,Combo má heo và rẻ sườn heo Iberico 300g,322920.0
+237,120,Combo heo gói báo 400g,214920.0
+585,120,Combo rẻ sườn bò Mỹ và cổ heo Iberico 300g,355320.0
+1838,120,Combo rẻ sườn bò Mỹ và lưỡi bò Mỹ 600g,603720.0
+1012,120,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+756,120,Combo thịt heo nướng vân 400g,258120.0
+903,120,Combo lưỡi bò và rẻ sườn heo Iberico 600g,603720.0
+1389,120,Combo heo gói báo 600g,301320.0
+587,694,Chả Cá Vàng Thơm,250000.0
+1888,694,Chả Cá Vàng Thơm Kèm Sốt (Sốt tiêu đen/Sốt cay),280000.0
+587,694,Chả Cá Vàng Thơm,25000.0
+1442,694,Chả Cá Vàng Thơm Sốt Tiêu Đen,28000.0
+29,694,Chả Cá Vàng Thơm Sốt Cay,28000.0
+681,694,Bánh Mì Chả Cá Vàng Thơm,35000.0
+739,694,Bánh Mì Chả Cá Sốt Tiêu Đen,35000.0
+453,694,Xôi Chả Cá Sốt Tiêu Đen,35000.0
+712,694,Xôi Chả Cá Sốt Cay,35000.0
+194,694,Bánh Mì Chả Cá Kim Chi Sốt Cay,35000.0
+490,637,Combo bò heo gói báo 600g,430920.0
+1838,637,Combo rẻ sườn bò Mỹ và lưỡi bò Mỹ 600g,603720.0
+237,637,Combo heo gói báo 400g,214920.0
+1267,637,Combo má heo và rẻ sườn heo Iberico 600g,603720.0
+192,637,Combo thịt hải sản và lẩu bò Kpub,538920.0
+1012,637,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+756,637,Combo thịt heo nướng vân 400g,258120.0
+1389,637,Combo heo gói báo 600g,301320.0
+1034,637,Combo má heo và rẻ sườn heo Iberico 300g,322920.0
+1861,637,Combo bò gói báo 400g,355320.0
+587,695,Chả Cá Vàng Thơm,250000.0
+1888,695,Chả Cá Vàng Thơm Kèm Sốt (Sốt tiêu đen/Sốt cay),280000.0
+587,695,Chả Cá Vàng Thơm,25000.0
+681,695,Bánh Mì Chả Cá Vàng Thơm,35000.0
+1442,695,Chả Cá Vàng Thơm Sốt Tiêu Đen,28000.0
+29,695,Chả Cá Vàng Thơm Sốt Cay,28000.0
+739,695,Bánh Mì Chả Cá Sốt Tiêu Đen,35000.0
+194,695,Bánh Mì Chả Cá Kim Chi Sốt Cay,35000.0
+221,695,Bánh Bao Chiên Chả Cá Sốt Tiêu Đen,45000.0
+1662,695,Cơm Chả Cá Sốt Cay,45000.0
+1861,1180,Combo bò gói báo 400g,355320.0
+237,1180,Combo heo gói báo 400g,214920.0
+1267,1180,Combo má heo và rẻ sườn heo Iberico 600g,603720.0
+490,1180,Combo bò heo gói báo 600g,430920.0
+1034,1180,Combo má heo và rẻ sườn heo Iberico 300g,322920.0
+585,1180,Combo rẻ sườn bò Mỹ và cổ heo Iberico 300g,355320.0
+1012,1180,Combo rẻ sườn bò Mỹ và cổ heo Iberico 600g,690120.0
+903,1180,Combo lưỡi bò và rẻ sườn heo Iberico 600g,603720.0
+1389,1180,Combo heo gói báo 600g,301320.0
+756,1180,Combo thịt heo nướng vân 400g,258120.0
+1452,755,Sinh tố dừa - sầu riêng,25000.0
+538,755,Nước ép  Lựu  - size  L,30000.0
+30,755,Nước ép  dưa  lưới,25000.0
+993,755,Trái cây tô,32000.0
+1588,755,Trái cây dầm yaourt,28000.0
+156,755,CHÈ THÁI,25000.0
+226,755,Trái cây dầm yaourt tự chọn,32000.0
+1661,755,Trái cây dầm yaourt sầu riêng,32000.0
+391,755,Bơ dầm sầu riêng,45000.0
+1475,755,Bơ dầm,40000.0
+186,283,Bánh khọt tôm,132000.0
+1757,283,Bánh khọt thập cẩm,132000.0
+430,283,Bánh khọt thịt,120000.0
+899,283,Bánh khọt đậu xanh,88000.0
+1037,283,Rau thêm,19000.0
+1268,283,Bánh khọt chả cá,120000.0
+173,283,Bánh khọt đặc biệt,192000.0
+57,283,Bánh xèo tôm thịt giá,150000.0
+1155,283,Bánh xèo tôm thịt củ hủ dừa,150000.0
+1573,283,Bánh xèo tôm thịt nấm,150000.0
+650,23,Combo 5 Cá Viên,25000.0
+771,23,Combo 5 Bò Viên,30000.0
+1176,23,Combo 5 Hoành Thánh,30000.0
+614,23,Combo 5 Trứng Cút,30000.0
+1365,23,Combo 1,60000.0
+1142,23,Combo 5 Tôm Viên,30000.0
+1624,23,Combo 2,120000.0
+1613,23,Combo 5 Đầu Bắp,25000.0
+1669,23,Combo 5 Rau Củ,25000.0
+1251,23,Combo 5 Mực Viên,30000.0
+186,1057,Bánh khọt tôm,132000.0
+1757,1057,Bánh khọt thập cẩm,132000.0
+430,1057,Bánh khọt thịt,120000.0
+899,1057,Bánh khọt đậu xanh,88000.0
+1037,1057,Rau thêm,19000.0
+1268,1057,Bánh khọt chả cá,120000.0
+173,1057,Bánh khọt đặc biệt,192000.0
+57,1057,Bánh xèo tôm thịt giá,150000.0
+1573,1057,Bánh xèo tôm thịt nấm,150000.0
+1155,1057,Bánh xèo tôm thịt củ hủ dừa,150000.0
+1321,35,.. Combo1 ♥️ Tặng 1ly Ép Ổi,60000.0
+1460,35,..Combo2 ♥️ Tặng Ly Ép Ổi,120000.0
+1885,35,..Combo Thập Cẩm ♥️ Tặng Phần Khoai Tây + Ly Ép Ổi,230000.0
+37,35,Combo 5 cá viên,25000.0
+847,35,Combo 5 hoành thánh,30000.0
+515,35,Combo 5 bò viên,30000.0
+1693,35,Combo 5 trứng cút,30000.0
+106,35,Combo 5 tôm viên,30000.0
+2,35,Combo 5 đậu bắp,25000.0
+305,35,Combo 5 rau củ,25000.0
+432,738,Rau Luộc Thập Cẩm Chấm Kho Quẹt,93500.0
+950,738,Rau Muống Xào Tỏi,73440.0
+1797,738,Khổ Qua Xào Trứng,71500.0
+1627,738,Khổ Qua Chà Bông,71500.0
+1293,738,Đậu Hũ Lướt Ván,66000.0
+600,738,Nấm Xào Hải Sản,162800.0
+502,738,"Đậu Hũ Chiên Giòn, Chấm Mắm Tôm",71500.0
+1427,738,Cải Thìa Sốt Nấm Đùi Gà,118800.0
+247,738,Rau Cải Ngọt Xào Tỏi,71500.0
+746,738,Rau Xào Hải Sản,93500.0
+1130,753,Hotdog cheese (signature),59000.0
+1847,753,Hotdog special mix,69000.0
+1663,753,Hotdog barbecue,54000.0
+1817,753,Hotdog special original,62000.0
+763,753,Hotdog Pháp bơ tiêu,54000.0
+885,753,FRANK ARMADA ( SIÊU TOPPING ),99000.0
+580,753,Hotdog teriyaki,54000.0
+1200,753,Hotdog frank trứng cuộn mayo,58000.0
+1715,753,HOTDOG BABY CHEESE,40000.0
+150,753,Hotdog Frank Cheese,58000.0
+432,982,Rau Luộc Thập Cẩm Chấm Kho Quẹt,93500.0
+1627,982,Khổ Qua Chà Bông,74800.0
+1293,982,Đậu Hũ Lướt Ván,66000.0
+950,982,Rau Muống Xào Tỏi,73440.0
+746,982,Rau Xào Hải Sản,93500.0
+600,982,Nấm Xào Hải Sản,162800.0
+502,982,"Đậu Hũ Chiên Giòn, Chấm Mắm Tôm",71500.0
+1797,982,Khổ Qua Xào Trứng,71500.0
+1427,982,Cải Thìa Sốt Nấm Đùi Gà,118800.0
+247,982,Rau Cải Ngọt Xào Tỏi,71500.0
+1130,968,Hotdog cheese (signature),58000.0
+1663,968,Hotdog barbecue,54000.0
+1817,968,Hotdog special original,62000.0
+1715,968,HOTDOG BABY CHEESE,40000.0
+763,968,Hotdog Pháp bơ tiêu,54000.0
+1847,968,Hotdog special mix,68000.0
+580,968,Hotdog teriyaki,54000.0
+1200,968,Hotdog frank trứng cuộn mayo,58000.0
+413,968,Hotdog Frank Cheese (Món ngon nên thử),58000.0
+1641,968,Salad bắp cải trộn - teriyaki,48000.0
+432,433,Rau Luộc Thập Cẩm Chấm Kho Quẹt,82500.0
+1797,433,Khổ Qua Xào Trứng,71500.0
+1427,433,Cải Thìa Sốt Nấm Đùi Gà,118800.0
+950,433,Rau Muống Xào Tỏi,73440.0
+1293,433,Đậu Hũ Lướt Ván,66000.0
+502,433,"Đậu Hũ Chiên Giòn, Chấm Mắm Tôm",71500.0
+247,433,Rau Cải Ngọt Xào Tỏi,71500.0
+746,433,Rau Xào Hải Sản,93500.0
+1627,433,Khổ Qua Chà Bông,71500.0
+600,433,Nấm Xào Hải Sản,162800.0
+1130,959,Hotdog cheese (signature),58000.0
+1847,959,Hotdog special mix,68000.0
+1663,959,Hotdog barbecue,54000.0
+763,959,Hotdog Pháp bơ tiêu,54000.0
+580,959,Hotdog teriyaki,54000.0
+1817,959,Hotdog special original,62000.0
+1200,959,Hotdog frank trứng cuộn mayo,58000.0
+1715,959,HOTDOG BABY CHEESE,45000.0
+413,959,Hotdog Frank Cheese (Món ngon nên thử),58000.0
+1073,959,Salad bắp cải trộn - mayo cheese,50000.0
+432,1025,Rau Luộc Thập Cẩm Chấm Kho Quẹt,82500.0
+950,1025,Rau Muống Xào Tỏi,73440.0
+247,1025,Rau Cải Ngọt Xào Tỏi,71500.0
+1293,1025,Đậu Hũ Lướt Ván,66000.0
+1427,1025,Cải Thìa Sốt Nấm Đùi Gà,118800.0
+600,1025,Nấm Xào Hải Sản,162800.0
+1797,1025,Khổ Qua Xào Trứng,71500.0
+502,1025,"Đậu Hũ Chiên Giòn, Chấm Mắm Tôm",71500.0
+746,1025,Rau Xào Hải Sản,93500.0
+1627,1025,Khổ Qua Chà Bông,71500.0
+301,460,Xôi gà chiên giòn,52000.0
+187,460,Gà chiên giòn,35000.0
+54,460,Xôi Thập Cẩm,52000.0
+1079,460,Xôi gà quay,52000.0
+823,460,Xôi chà bông thêm,25000.0
+432,984,Rau Luộc Thập Cẩm Chấm Kho Quẹt,93500.0
+950,984,Rau Muống Xào Tỏi,73440.0
+1293,984,Đậu Hũ Lướt Ván,66000.0
+600,984,Nấm Xào Hải Sản,162800.0
+502,984,"Đậu Hũ Chiên Giòn, Chấm Mắm Tôm",71500.0
+247,984,Rau Cải Ngọt Xào Tỏi,71500.0
+1797,984,Khổ Qua Xào Trứng,60500.0
+746,984,Rau Xào Hải Sản,93500.0
+1627,984,Khổ Qua Chà Bông,71500.0
+1630,984,Khổ Qua Luộc,71500.0
+301,236,Xôi gà chiên giòn,45000.0
+345,236,Xôi Đặc Biệt Đầy Đủ,70000.0
+1751,236,Xôi Lòng Gà Trứng Non,45000.0
+187,236,Gà chiên giòn,25000.0
+1079,236,Xôi gà quay,45000.0
+1215,236,Lòng gà trứng non thêm,45000.0
+823,236,Xôi chà bông thêm,25000.0
+833,236,Xôi cút chiên,45000.0
+1647,236,Coca,20000.0
+1685,236,Trà Sữa,25000.0
+21,927,Trái Cây Hội Nghị,95200.0
+1544,927,Hộp Bưởi + Mận + Táo Xanh + Dưa Lưới + Mít Thái,111200.0
+443,927,Mận - 600g,80000.0
+1577,927,Hộp Ổi+ Táo xanh + Táo đỏ + Dưa lưới + Nho - 800g,111200.0
+507,927,Hộp Xoài + Ổi + Mận - 750g,87200.0
+509,927,Hộp Ổi +Mận + Dưa lưới + Mít + Nho - 800g,111200.0
+825,927,Hộp Ổi + Xoài + Táo xanh + Dưa lưới + Nho - 800g,103200.0
+1513,927,Táo Xanh (650g),67200.0
+1674,927,Hộp Bưởi + Ổi +Mận + Mít + Xoài - 800g,103200.0
+1749,927,Hộp Xoài + Ổi - 400g,32800.0
+1247,879,Yaourt Trái Cây,42000.0
+314,879,Yaourt Fruit Special,59000.0
+1485,879,Trái Cây Văn Phòng,75000.0
+21,879,Trái Cây Hội Nghị,119000.0
+1752,879,Trái Cây Liên Hoan,89000.0
+1112,879,Combo 2 Phần Trái Cây Hội Nghị,190000.0
+1525,879,Combo 2 Phần Trái Cây Văn Phòng + 1 Phần H2.Happy Lunch,190000.0
+1857,879,Xoài (320g),34000.0
+1824,879,Bưởi Da Xanh (320g),57000.0
+1081,879,Ổi (350g),35000.0
+1047,79,Cơm trộn,120000.0
+417,79,Kimpap,120000.0
+688,79,Cơm viên,120000.0
+435,79,Đônkasư,100000.0
+667,79,Mì jajang,120000.0
+519,79,Há cảo chiên,80000.0
+1403,79,Há cảo hấp,90000.0
+1124,79,Mì gói hải sản,80000.0
+1581,79,Miến Hàn Quốc trộn,80000.0
+1211,79,Mì lạnh khô,100000.0
+23,849,Cháo,51840.0
+257,849,Ếch Cay với Ớt Sấy Khô (2 con),257040.00000000003
+868,1168,Bánh đa trộn sốt me,25000.0
+1276,1168,Bánh đa cuốn,22000.0
+1772,1168,Bánh Đa Trộn Thập Cẩm,29000.0
+68,1168,Bánh đa trộn,25000.0
+1051,1168,Bánh Tráng Trộn Trứng Muối,26000.0
+786,1168,Bánh tráng tỏi,12000.0
+910,1168,Bánh tráng trộn sốt me,25000.0
+1780,1168,Bánh Tráng Trộn Thập Cẩm,29000.0
+1821,1168,Bánh Tráng Sa Tế,16000.0
+293,1168,Bánh Tráng Trứng Muối Rong Biển Gà Xé,27000.0
+868,210,Bánh đa trộn sốt me,25000.0
+68,210,Bánh đa trộn,25000.0
+1276,210,Bánh đa cuốn,22000.0
+910,210,Bánh tráng trộn sốt me,25000.0
+786,210,Bánh tráng tỏi,12000.0
+1314,210,Bánh tráng tỏi rong biển gà xé,20000.0
+51,210,Sữa chua dẻo cacao,29000.0
+26,210,Sữa chua dẻo dâu,27000.0
+760,210,Sữa chua dẻo chanh dây,27000.0
+283,210,Sữa chua dẻo việt quất,27000.0
+1125,641,Hotdog Egg Roll Double Cheese,33000.0
+1482,641,Hotdog Hamada Cheese,35000.0
+1806,641,Hotdog Berlin + Phô Mai Trứng Cuộn,45000.0
+735,641,Hotdog Xông Khói + Phô Mai Trứng Cuộn,40000.0
+995,641,Hotdog Berlin Trứng Cuộn,40000.0
+1497,641,Cheese Stuffed Hot Dog Roll,35000.0
+1478,641,Triple Cheesehotdog,45000.0
+1288,641,Jumbo Frankfurt Hotdog,43000.0
+548,641,Bacon Wrapped Cheese Dog,45000.0
+102,641,Hotdog Mozzarella Cheese,35000.0
+1125,182,Hotdog Egg Roll Double Cheese,33000.0
+1482,182,Hotdog Hamada Cheese,35000.0
+1806,182,Hotdog Berlin + Phô Mai Trứng Cuộn,45000.0
+735,182,Hotdog Xông Khói + Phô Mai Trứng Cuộn,40000.0
+1340,182,Triplecheese Hotdog,45000.0
+1497,182,Cheese Stuffed Hot Dog Roll,35000.0
+995,182,Hotdog Berlin Trứng Cuộn,40000.0
+1288,182,Jumbo Frankfurt Hotdog,43000.0
+548,182,Bacon Wrapped Cheese Dog,45000.0
+102,182,Hotdog Mozzarella Cheese,35000.0
+372,94,Bánh Tráng Tỏi Ớt (Lớn),20000.0
+440,94,Bánh tráng tỏi ớt (vừa),15000.0
+1695,94,Bánh tráng tỏi ớt ( nhỏ ),10000.0
+1170,94,Da heo cháy tỏi,40000.0
+181,94,Da heo lắc,30000.0
+336,94,BÁNH TRÁNG TỎI ỚT,15000.0
+1725,94,BÁNH TRÁNG DẺO MUỐI NHUYỄN,10000.0
+336,94,BÁNH TRÁNG TỎI ỚT,20000.0
+999,94,BÁNH TRÁNG BƠ,20000.0
+1853,94,BÁNH TRÁNG MUỐI TÚI ZIP,12000.0
+1426,1068,Bánh tráng tỏi ớt (Lớn),20000.0
+440,1068,Bánh tráng tỏi ớt (vừa),15000.0
+1695,1068,Bánh tráng tỏi ớt ( nhỏ ),10000.0
+1592,1068,Bánh tráng tỏi ớt ( Đặc Biệt ),50000.0
+1170,1068,Da heo cháy tỏi,40000.0
+1566,1068,Bánh tráng DẺO MUỐI NHUYỄN,10000.0
+1044,1068,Bánh tráng trộn bơ,20000.0
+1071,1068,Bánh tráng tỏi ớt,15000.0
+1071,1068,Bánh tráng tỏi ớt,20000.0
+1517,1068,Bánh tráng tỏi ớt ( ko trộn ),15000.0
+117,4,Bánh Tráng Tỏi Ớt ( Lớn ),20000.0
+1038,4,Bánh Tráng Tỏi Ớt ( Vừa ),15000.0
+118,4,Bánh Tráng Dẻo MUỐI NHUYỄN,10000.0
+1695,4,Bánh tráng tỏi ớt ( nhỏ ),10000.0
+1541,4,Bánh Tráng Trộn Bơ,20000.0
+550,4,Bánh Tráng Dẻo MUỐI TÔM,12000.0
+499,4,Bánh Tráng Tỏi ( Không Trộn ),15000.0
+1227,4,Da Heo Cháy Tỏi,40000.0
+1713,4,Bánh Tráng Muối Cay ( Túi Zip ),12000.0
+1765,4,Bánh tráng tỏi cam ( xike ),10000.0
+783,1049,bánh tráng tỏi ớt (Lớn),20000.0
+896,1049,bánh tráng tỏi ớt ( VỪA ),15000.0
+399,1049,bánh tráng tỏi ớt ( Nhỏ ),10000.0
+1872,1049,da heo cháy tỏi,40000.0
+181,1049,Da heo lắc,30000.0
+1214,1049,bánh tráng DẺO muối nhuyễn,10000.0
+274,1049,bánh tráng trộn bơ,20000.0
+307,1049,bánh tráng PHƠI SƯƠNG muối nhuyễn,20000.0
+659,1049,bánh tráng chấm,17000.0
+1523,1049,bánh tráng cuốn bơ ( TỰ CUỐN ),20000.0
+783,67,bánh tráng tỏi ớt (Lớn),20000.0
+896,67,bánh tráng tỏi ớt ( VỪA ),15000.0
+399,67,bánh tráng tỏi ớt ( Nhỏ ),10000.0
+1872,67,da heo cháy tỏi,40000.0
+181,67,Da heo lắc,30000.0
+1214,67,bánh tráng DẺO muối nhuyễn,10000.0
+274,67,bánh tráng trộn bơ,20000.0
+252,67,bánh tráng DẺO MUỐI TÔM ( nhỏ ),12000.0
+307,67,bánh tráng PHƠI SƯƠNG muối nhuyễn,20000.0
+1523,67,bánh tráng cuốn bơ ( TỰ CUỐN ),20000.0
+1357,147,Trà dâu,25000.0
+334,147,Trà Thơm,25000.0
+1812,147,Đá me,25000.0
+238,147,Yaourt Dâu Đá,27000.0
+524,147,Trà đào ly,25000.0
+93,147,Trà Vải ly,25000.0
+1815,147,Trân châu trắng,5000.0
+1851,147,Yaourt Đào Đá,25000.0
+1825,147,Hồng Trà Kiwi Trân châu trắng,25000.0
+1141,147,Tắc xí muội,20000.0
+98,664,Cơm cháy chà bông,18000.0
+804,664,Cơm Cháy Sẵn Gia Vị,18000.0
+1359,664,Khô gà lá chanh,30000.0
+1766,664,Bánh Phồng Tôm,10000.0
+865,664,Khô Gà Lá Chanh,145000.0
+1093,640,Cơm cháy chà bông mỡ hành - hộp,18000.0
+804,640,Cơm Cháy Sẵn Gia Vị,18000.0
+377,640,Khô gà lá chanh - 100g,30000.0
+1694,640,Bánh Phồng,10000.0
+709,640,Khô Gà Lá Chanh - 500g,145000.0
+98,500,Cơm cháy chà bông,18000.0
+804,500,Cơm Cháy Sẵn Gia Vị,18000.0
+1766,500,Bánh Phồng Tôm,10000.0
+1359,500,Khô gà lá chanh,30000.0
+865,500,Khô Gà Lá Chanh,145000.0
+942,507,Trà Lựu Đỏ,31000.0
+1531,507,Trà ổi hồng,31000.0
+696,507,Trà kiwi dưa lưới,31000.0
+1710,507,Trà Izbon trái cây,37000.0
+697,507,Trà Đào Cam Sả,37000.0
+1332,507,Lục trà xoài nhãn,35000.0
+1689,507,Trà chanh mật ong,27000.0
+5,507,Trà vải chanh lài,35000.0
+395,507,Hồng trà dâu,32000.0
+423,507,Trà Ổi Thảo Mộc Lucky Tea,37000.0
+1742,616,Trà ổi hồng muối tôm,31000.0
+942,616,Trà Lựu Đỏ,31000.0
+696,616,Trà kiwi dưa lưới,31000.0
+1710,616,Trà Izbon trái cây,37000.0
+5,616,Trà vải chanh lài,35000.0
+1531,616,Trà ổi hồng,31000.0
+697,616,Trà Đào Cam Sả,37000.0
+1332,616,Lục trà xoài nhãn,35000.0
+395,616,Hồng trà dâu,32000.0
+1689,616,Trà chanh mật ong,27000.0
+724,1145,(Dây Trắng) Bánh Giò Heo Băm Nấm Truyền Thống + Kim Chi thêm,40000.0
+1107,1145,(Dây Đỏ) Bánh Giò Tôm Thịt 3 Trứng Cút + Kim Chi Thêm,40000.0
+1311,1145,(Dây Vàng) Bánh Giò Thập Cẩm Trứng Muối,35000.0
+199,1145,(Dây Trắng) Bánh Giò Heo Băm Nấm Truyền Thống,30000.0
+69,1145,(Dây Xanh Dương) Bánh Giò Xá Xíu Lạp Xưởng Trứng Muối,35000.0
+6,1145,(Dây Đỏ) Bánh Giò Tôm Thịt 3 Trứng Cút,30000.0
+1245,1145,(Dây Xanh Lá) Bánh Giò Gà Xé Nấm,30000.0
+1449,1145,(Dây Tím) Bánh Giò Heo Băm Nấm Trứng Muối,35000.0
+586,1145,Kim chi thêm,10000.0
+826,1145,Sương Sáo Cốt Dừa Cafe,25000.0
+724,918,(Dây Trắng) Bánh Giò Heo Băm Nấm Truyền Thống + Kim Chi thêm,40000.0
+1107,918,(Dây Đỏ) Bánh Giò Tôm Thịt 3 Trứng Cút + Kim Chi Thêm,40000.0
+1311,918,(Dây Vàng) Bánh Giò Thập Cẩm Trứng Muối,35000.0
+199,918,(Dây Trắng) Bánh Giò Heo Băm Nấm Truyền Thống,30000.0
+1245,918,(Dây Xanh Lá) Bánh Giò Gà Xé Nấm,30000.0
+6,918,(Dây Đỏ) Bánh Giò Tôm Thịt 3 Trứng Cút,30000.0
+69,918,(Dây Xanh Dương) Bánh Giò Xá Xíu Lạp Xưởng Trứng Muối,35000.0
+1324,918,(Dây Tím) Bánh Giò Heo Băm Nấm Trứng Muốii,35000.0
+1194,918,Bắp xào trứng muối,35000.0
+906,918,Bắp xào tôm khô hành lá,30000.0
+749,373,Cơm Phá Lấu Heo,37000.0
+471,373,Cơm Heo Quay Xào Cải Chua,39000.0
+512,373,Cơm Bò Xào,37000.0
+1425,373,Cơm Gà Mắm Tỏi,39000.0
+1132,373,Cơm Chiên Trứng,19000.0
+1582,373,Gà Ủ Muối Hoa Tiêu- Nửa Con,99000.0
+1671,373,Bột Chiên Phá Lấu,27000.0
+573,373,Bánh mì Bì,20000.0
+1233,373,Bánh mì Bì Heo Quay,25000.0
+358,373,Mì Xào Phá Lấu,36000.0
+1014,341,Bánh Mì Phá Lấu,25000.0
+1233,341,Bánh mì Bì Heo Quay,25000.0
+573,341,Bánh mì Bì,20000.0
+1723,341,Phá lấu thêm,7000.0
+425,341,Phá Lấu Phần,55000.0
+140,341,Bánh mì không,4000.0
+370,341,Heo quay thêm,7000.0
+1500,341,Bánh Mì Thập Cẩm,25000.0
+1800,341,Bánh Mì Heo Quay,25000.0
+749,617,Cơm Phá Lấu Heo,36000.0
+358,617,Mì Xào Phá Lấu,36000.0
+1115,617,Mì Cay Phá Lấu,38000.0
+717,617,Trà Tắc Thái,17000.0
+994,617,Trà Sữa Trân Châu Hoàng Gia,22000.0
+1218,617,Anh Da Nâu,16000.0
+1756,617,Trà Vãi,22000.0
+444,617,Anh Da Đen,13000.0
+295,617,Trà Olong,13000.0
+1271,617,Nước Suối,10000.0
+749,1149,Cơm Phá Lấu Heo,36000.0
+512,1149,Cơm Bò Xào,36000.0
+1425,1149,Cơm Gà Mắm Tỏi,34000.0
+570,1149,Cơm Chiên HEO QUAY,36000.0
+1671,1149,Bột Chiên Phá Lấu,32000.0
+1159,1149,Mì Xào Bò,40000.0
+1115,1149,Mì Cay Phá Lấu,38000.0
+1618,1149,Mì Xào Heo Quay,36000.0
+1201,1149,Mì Cay Bò,40000.0
+1387,1149,Phở Khô GIA lai,50000.0
+25,921,Pizza phô mai sợi cá Má Hải Mini,41000.0
+1354,921,Pizza phô mai Thập cẩm Má Hải mini,45000.0
+1043,921,Pizza phô mai Hải sản Má Hải mini,41000.0
+611,921,Combo Pizza phô mai Thập cẩm Má Hải size mini,49000.0
+1895,921,Combo Pizza phô mai Sợi cá Má Hải size Mini,46000.0
+480,921,Pizza phô mai Hải sản Má Hải - Size S,79000.0
+1739,921,Combo Pizza phô mai Sợi cá Má Hải Size S,76000.0
+1096,921,Pizza phô mai Thập cẩm Má Hải - Size M,109000.0
+90,921,Pizza phô mai Sợi cá Má Hải - Size S,79000.0
+1108,921,Combo Pizza phô mai Hải sản Má Hải size M,96000.0
+424,1158,Bánh mì chả cá - đặc biệt,35000.0
+1832,1158,Bánh mì chả cá,22000.0
+1444,1158,Bánh mì thập cẩm - đặc biệt,35000.0
+1410,1158,Bánh mì thập cẩm,25000.0
+1800,1158,Bánh Mì Heo Quay,25000.0
+540,1158,Bánh mì xíu mại - đặc biệt,35000.0
+679,1158,Bánh mì xíu mại,25000.0
+299,1158,Bm ốp la 2 trứng,22000.0
+1299,1158,Bánh Mì Heo Quay - Đặt Biệt,35000.0
+1876,1158,Bánh mì chả lụa trứng,22000.0
+1059,840,Bánh mì Chả cá,22000.0
+662,840,Bánh mì Chả cá + ỐpLa,24000.0
+422,840,Bánh Mì Ốpla 1Trứng,20000.0
+632,840,Chả Cá Ốpla Đặc Biệt,28000.0
+1542,840,Bánh Mì Chả Cá Đặc Biệt,26000.0
+764,840,Bánh Mì Ốpla 2Trứng,22000.0
+1184,840,Bánh Mì Chả Cá Ốpla + Pepsi,35000.0
+1551,840,Bánh Mì Chả Cá Nóng + Pepsi,33000.0
+1621,840,Bánh mì Chả Trứng Lớn + Cà Phê Sữa,49000.0
+1277,840,Bánh mì Chả Trứng Lớn + Cà Phê Đá,49000.0
+1734,334,Pizza phô mai Hải sản Má Hải - Size Mini,41000.0
+1714,334,Pizza phô mai Thập cẩm Má Hải - Size Mini,45000.0
+1493,334,Pizza phô mai Hải sản Má Hải - Size M,99000.0
+1096,334,Pizza phô mai Thập cẩm Má Hải - Size M,109000.0
+565,334,Pizza phô mai Sợi cá Má Hải - Size Mini,41000.0
+480,334,Pizza phô mai Hải sản Má Hải - Size S,79000.0
+1863,334,Pizza phô mai rau củ Má Hải - Size M,99000.0
+90,334,Pizza phô mai Sợi cá Má Hải - Size S,79000.0
+1667,334,Pizza phô mai Sợi cá Má Hải - Size M,99000.0
+723,334,Pizza phô mai Thập cẩm Má Hải - Size S,89000.0
+1258,636,Pizza Phô Mai Sợi Cá Má Hải,41000.0
+39,636,Pizza phô mai Hải sản Má Hải,41000.0
+1546,636,Pizza phô mai Thập cẩm Má Hải,45000.0
+1096,636,Pizza phô mai Thập cẩm Má Hải - Size M,109000.0
+480,636,Pizza phô mai Hải sản Má Hải - Size S,79000.0
+1493,636,Pizza phô mai Hải sản Má Hải - Size M,99000.0
+1539,636,Pizza phô mai rau củ Má Hải - Size S,79000.0
+1863,636,Pizza phô mai rau củ Má Hải - Size M,99000.0
+1575,636,Pizza Phô Mai Rau Củ Má Má Hải,41000.0
+319,1164,Bắp Xào Trứng Muối - Hộp Nhỏ,40000.0
+66,1164,Bắp Xào Trứng Muối - Hộp Lớn,60000.0
+1831,1164,Bắp Xào Trứng Gà - Hộp Nhỏ,40000.0
+123,1164,Bắp Xào Trứng Gà - Hộp Lớn,60000.0
+319,17,Bắp Xào Trứng Muối - Hộp Nhỏ,40000.0
+1210,17,Bắp xào trứng gà,40000.0
+66,17,Bắp Xào Trứng Muối - Hộp Lớn,60000.0
+1831,17,Bắp Xào Trứng Gà - Hộp Nhỏ,40000.0
+123,17,Bắp Xào Trứng Gà - Hộp Lớn,60000.0
+870,19,Set Combo 2,189000.0
+613,19,Set Combo 3,245000.0
+168,19,Set Combo S1,185000.0
+610,19,Combo gà rán truyền thống,50000.0
+1362,19,Combo gà sốt,54000.0
+1104,19,Combo gà viên lắc phô mai,52000.0
+1702,19,Combo đùi gà không xương sốt,54000.0
+1696,19,Combo đùi gà không xương,50000.0
+508,19,Combo 2 gà rán,79000.0
+420,19,Combo 2 gà sốt,87000.0
+610,76,Combo gà rán truyền thống,50000.0
+1104,76,Combo gà viên lắc phô mai,52000.0
+1362,76,Combo gà sốt,54000.0
+1308,76,Gà viên lắc phô mai,32000.0
+141,76,Gà rán truyền thống,30000.0
+829,76,Gà sốt,34000.0
+79,76,Khoai Tây Lắc,25000.0
+689,76,Khoai lang lắc,25000.0
+1056,76,Pizza Hải Sản,64000.0
+1204,76,Pizza Xúc Xích,59000.0
+870,77,Set Combo 2,189000.0
+610,77,Combo gà rán truyền thống,50000.0
+1104,77,Combo gà viên lắc phô mai,52000.0
+141,77,Gà rán truyền thống,30000.0
+1308,77,Gà viên lắc phô mai,32000.0
+79,77,Khoai Tây Lắc,25000.0
+213,77,Coca M,13000.0
+593,77,Xúc xích,15000.0
+1464,77,Hotdog phô mai xúc xích,25000.0
+623,77,Chả cá trứng cút,17000.0
+870,712,Set Combo 2,189000.0
+168,712,Set Combo S1,185000.0
+613,712,Set Combo 3,245000.0
+610,712,Combo gà rán truyền thống,50000.0
+1362,712,Combo gà sốt,54000.0
+1104,712,Combo gà viên lắc phô mai,52000.0
+1696,712,Combo đùi gà không xương,50000.0
+1702,712,Combo đùi gà không xương sốt,54000.0
+141,712,Gà rán truyền thống,30000.0
+1308,712,Gà viên lắc phô mai,32000.0
+168,939,Set Combo S1,185000.0
+870,939,Set Combo 2,189000.0
+613,939,Set Combo 3,245000.0
+610,939,Combo gà rán truyền thống,50000.0
+1104,939,Combo gà viên lắc phô mai,52000.0
+1696,939,Combo đùi gà không xương,50000.0
+1362,939,Combo gà sốt,54000.0
+1702,939,Combo đùi gà không xương sốt,54000.0
+456,939,Friend 2,183000.0
+1456,939,Friend 1,139000.0
+918,485,Set 1,89000.0
+715,485,Set 2,151000.0
+168,485,Set Combo S1,185000.0
+1106,485,Set 3,209000.0
+870,485,Set Combo 2,189000.0
+613,485,Set Combo 3,245000.0
+1696,485,Combo đùi gà không xương,50000.0
+610,485,Combo gà rán truyền thống,50000.0
+1362,485,Combo gà sốt,54000.0
+1104,485,Combo gà viên lắc phô mai,52000.0
+870,12,Set Combo 2,189000.0
+613,12,Set Combo 3,245000.0
+168,12,Set Combo S1,185000.0
+1104,12,Combo gà viên lắc phô mai,52000.0
+610,12,Combo gà rán truyền thống,50000.0
+1702,12,Combo đùi gà không xương sốt,54000.0
+1696,12,Combo đùi gà không xương,50000.0
+1362,12,Combo gà sốt,54000.0
+1308,12,Gà viên lắc phô mai,32000.0
+141,12,Gà rán truyền thống,30000.0
+277,574,"Set 1 (2 gà rán, 1 khoai lắc, 1 nước ngọt)",86000.0
+605,574,"Set 2 (4 gà rán, 1 khoai lắc, 2 nước ngọt)",147000.0
+170,574,"Set 5 (6 gà rán, 2 khoai lắc, 2 nước ngọt)",226000.0
+1594,574,Set 4 (5 combo gà rán + khoai + nước ngọt (tặng 2 xúc xích)),225000.0
+1026,574,Set 7 (10 combo gà rán + khoai + nước ngọt (tặng 5 xúc xích)),450000.0
+164,574,"Set 3 (2 Gà Rán, 1 Khoai Lắc, 2 Xúc Xích, 2 Cá Viên, 2 Bò Viên, 2 Nước…",169000.0
+1421,574,Set 6 (8 combo gà rán + khoai + nước ngọt (tặng 1 khoai lắc)),360000.0
+1352,574,Combo Gà Sốt Chua Ngọt,49000.0
+137,574,Combo Gà Rán Truyền Thống,45000.0
+1363,574,Combo Gà Sốt Phô Mai,49000.0
+870,899,Set Combo 2,189000.0
+613,899,Set Combo 3,245000.0
+168,899,Set Combo S1,185000.0
+1104,899,Combo gà viên lắc phô mai,52000.0
+1362,899,Combo gà sốt,54000.0
+1696,899,Combo đùi gà không xương,50000.0
+610,899,Combo gà rán truyền thống,50000.0
+1702,899,Combo đùi gà không xương sốt,54000.0
+456,899,Friend 2,183000.0
+1456,899,Friend 1,139000.0
+168,78,Set Combo S1,185000.0
+870,78,Set Combo 2,189000.0
+613,78,Set Combo 3,245000.0
+610,78,Combo gà rán truyền thống,50000.0
+1104,78,Combo gà viên lắc phô mai,52000.0
+1362,78,Combo gà sốt,54000.0
+1308,78,Gà viên lắc phô mai,32000.0
+141,78,Gà rán truyền thống,30000.0
+829,78,Gà sốt,34000.0
+79,78,Khoai Tây Lắc,25000.0
+1172,1050,Set Tiết Kiệm 2,145000.0
+870,1050,Set Combo 2,189000.0
+613,1050,Set Combo 3,245000.0
+103,1050,Set Tiết Kiệm 1,79000.0
+1466,1050,Set Tiết Kiệm 3,199000.0
+646,1050,Set Tiết Kiệm 4,125000.0
+168,1050,Set Combo S1,185000.0
+1104,1050,Combo gà viên lắc phô mai,52000.0
+1702,1050,Combo đùi gà không xương sốt,54000.0
+873,1050,Set Tiết Kiệm No Nê,159000.0
+1162,216,Cá viên,12000.0
+1105,216,Trứng cút,12000.0
+704,216,Đậu bắp chiên,12000.0
+895,216,Cá sốt mayonnaise,12000.0
+845,216,Bò Viên,12000.0
+1858,216,Sò điệp chiên,12000.0
+1490,216,Hoành thánh,12000.0
+1373,216,Thanh cua,12000.0
+593,216,Xúc xích,12000.0
+1003,216,Tôm viên,12000.0
+955,331,Phô mai que,15000.0
+1583,331,Đậu Hủ Ki Giòn,15000.0
+572,331,Mực cuộn,15000.0
+318,331,Đậu Hủ Ki Tôm,15000.0
+1854,331,Dĩa chiên thập cẩm,60000.0
+176,331,Hồ lô,15000.0
+953,331,Bò viên,15000.0
+120,331,Tàu hủ phô mai,15000.0
+1144,331,Xúc xích phô mai,15000.0
+1105,331,Trứng cút,15000.0
+593,933,Xúc xích,15000.0
+1440,933,Da Gà Zòn,30000.0
+49,933,Bánh Gà Viên,13000.0
+76,933,Combo Sắc Màu - Trà,70000.0
+1606,933,Combo SIÊU RẺEEEEE,69000.0
+24,933,Khoai Lang Viên Phô Mai,8000.0
+817,933,Combo Tẩm Bột Sốt Mayonnaise,37000.0
+1403,933,Há cảo hấp,23000.0
+519,933,Há cảo chiên,23000.0
+1787,933,Đậu Bắp Chiên Healthy,6000.0
+1110,554,Khuyến mại rẻ nhứt nha mí bà 💥,55000.0
+441,554,Hoành thánh chiên nè,4000.0
+183,554,Trứng cút chiên,10000.0
+1521,554,Đậu hũ chiên,8000.0
+1035,554,Hoành thánh nhân trứng cút,15000.0
+1498,554,Khoai Lang Nhân Mozzarella,8000.0
+298,554,Bánh gà viên,13000.0
+1403,554,Há cảo hấp,23000.0
+519,554,Há cảo chiên,23000.0
+593,554,Xúc xích,15000.0
+281,705,Xôi lá cẩm( nhỏ),18000.0
+653,705,Xôi nếp than (nhỏ),18000.0
+1109,705,Xôi ca dé ( nhỏ),18000.0
+70,705,Xôi nếp than( lớn),23000.0
+685,705,Xôi lá cẩm (lớn),23000.0
+1015,705,Xôi ca dé( lớn),23000.0
+601,705,Xôi mặn (nhỏ),23000.0
+1862,705,Xôi mặn (vừa),30000.0
+1887,705,Xôi mặn ( lớn),35000.0
+1776,705,Xôi chà bông lạp xưởng,23000.0
+1212,313,Xôi nếp than nhỏ,18000.0
+1418,313,Xôi ca dé nhỏ,18000.0
+954,313,Xôi lá cẩm lớn,23000.0
+384,313,Xôi nếp than lớn,23000.0
+848,313,Xôi ca dé lớn,23000.0
+635,313,Xôi mặn gói vừa,30000.0
+75,313,Xôi mặn gói nhỏ,23000.0
+1748,313,Xôi mặn gói lớn,35000.0
+1786,313,"Xôi chà bông , lạp xưởng",25000.0
+1000,313,Xôi lá cẩm không,35000.0
+1111,607,Nữa ký Chả lụa,72000.0
+313,607,chà bông gà (100g),35000.0
+837,607,1 ký chả lụa,140000.0
+43,607,nữa ký Ca dé,70000.0
+1579,607,Xôi mặn (size lớn),30000.0
+877,607,Xôi mặn (size nhỏ),23000.0
+452,607,Xôi lạp xưởng chà bông,23000.0
+968,607,Chả lụa thêm,6000.0
+977,607,Lạp xưởng,6000.0
+99,607,Gà xé thêm,12000.0
+281,263,Xôi lá cẩm( nhỏ),18000.0
+1862,263,Xôi mặn (vừa),30000.0
+601,263,Xôi mặn (nhỏ),23000.0
+1504,263,Xôi mặn lớn,35000.0
+594,263,"Xôi chà bông, lạp xưởng",23000.0
+1908,263,Xôi nếp than ( nhỏ),18000.0
+1109,263,Xôi ca dé ( nhỏ),18000.0
+175,263,Xôi nếp than ( lớn),23000.0
+1828,263,Xôi lá cẩm ( lớn),23000.0
+874,263,Xôi cade ( lớn),23000.0
+262,1181,Xôi lá cẩm (size nhỏ),18000.0
+1579,1181,Xôi mặn (size lớn),30000.0
+877,1181,Xôi mặn (size nhỏ),23000.0
+452,1181,Xôi lạp xưởng chà bông,23000.0
+1395,1181,Xôi nếp than (size nhỏ),18000.0
+549,1181,Xôi ca dé (size nhỏ),18000.0
+1465,1181,xôi nếp than (size lớn),23000.0
+838,1181,xôi cadé (size lớn),23000.0
+861,1181,Xôi lá cẩm (size lớn),23000.0
+859,1181,Xôi gà (size nhỏ),23000.0
+1579,1170,Xôi mặn (size lớn),30000.0
+877,1170,Xôi mặn (size nhỏ),23000.0
+594,1170,"Xôi chà bông, lạp xưởng",23000.0
+1395,1170,Xôi nếp than (size nhỏ),18000.0
+246,1170,Xôi cadé (size nhỏ),18000.0
+511,1170,Xôi nếp than (size lớn),23000.0
+861,1170,Xôi lá cẩm (size lớn),23000.0
+1435,1170,Xôi cadé (size lớn),23000.0
+859,1170,Xôi gà (size nhỏ),23000.0
+1884,1170,Xôi gà (size lớn),30000.0
+1733,95,Sữa chua Chocomint,35000.0
+36,95,Sữa chua Summer,35000.0
+528,95,Sữa chua Mintblue Sea,35000.0
+934,95,Sữa chua Sunrise,35000.0
+591,95,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1147,95,Sữa chua sấy lạnh vị việt quất,25000.0
+234,95,Sữa chua sấy lạnh vị xoài,25000.0
+852,95,Sữa chua sấy lạnh vị dâu,25000.0
+1315,95,Smoothie Việt Quất,35000.0
+1356,95,Smoothie Chanh Leo,35000.0
+1315,63,Smoothie Việt Quất,35000.0
+50,63,Smoothie Dâu,35000.0
+1733,63,Sữa chua Chocomint,35000.0
+36,63,Sữa chua Summer,35000.0
+528,63,Sữa chua Mintblue Sea,35000.0
+934,63,Sữa chua Sunrise,35000.0
+1147,63,Sữa chua sấy lạnh vị việt quất,25000.0
+852,63,Sữa chua sấy lạnh vị dâu,25000.0
+234,63,Sữa chua sấy lạnh vị xoài,25000.0
+1457,63,Sữa chua trân châu,25000.0
+852,517,Sữa chua sấy lạnh vị dâu,25000.0
+234,517,Sữa chua sấy lạnh vị xoài,25000.0
+1733,517,Sữa chua Chocomint,35000.0
+36,517,Sữa chua Summer,35000.0
+528,517,Sữa chua Mintblue Sea,35000.0
+1457,517,Sữa chua trân châu,25000.0
+1243,517,Sữa chua trắng,20000.0
+1512,517,Sữa chua thạch matcha,25000.0
+542,517,Sữa chua đậu đỏ,25000.0
+1679,517,Sữa chua nếp cẩm,25000.0
+1733,349,Sữa chua Chocomint,35000.0
+36,349,Sữa chua Summer,35000.0
+934,349,Sữa chua Sunrise,35000.0
+852,349,Sữa chua sấy lạnh vị dâu,25000.0
+1147,349,Sữa chua sấy lạnh vị việt quất,25000.0
+234,349,Sữa chua sấy lạnh vị xoài,25000.0
+591,349,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1457,349,Sữa chua trân châu,25000.0
+1243,349,Sữa chua trắng,20000.0
+542,349,Sữa chua đậu đỏ,25000.0
+36,343,Sữa chua Summer,35000.0
+934,343,Sữa chua Sunrise,35000.0
+1733,343,Sữa chua Chocomint,35000.0
+528,343,Sữa chua Mintblue Sea,35000.0
+50,343,Smoothie Dâu,35000.0
+1315,343,Smoothie Việt Quất,35000.0
+852,343,Sữa chua sấy lạnh vị dâu,25000.0
+234,343,Sữa chua sấy lạnh vị xoài,25000.0
+1147,343,Sữa chua sấy lạnh vị việt quất,25000.0
+591,343,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1733,873,Sữa chua Chocomint,35000.0
+528,873,Sữa chua Mintblue Sea,35000.0
+36,873,Sữa chua Summer,35000.0
+934,873,Sữa chua Sunrise,35000.0
+591,873,Sữa chua sấy lạnh vị tự nhiên,25000.0
+852,873,Sữa chua sấy lạnh vị dâu,25000.0
+1147,873,Sữa chua sấy lạnh vị việt quất,25000.0
+234,873,Sữa chua sấy lạnh vị xoài,25000.0
+1457,873,Sữa chua trân châu,25000.0
+1243,873,Sữa chua trắng,20000.0
+852,1106,Sữa chua sấy lạnh vị dâu,25000.0
+1147,1106,Sữa chua sấy lạnh vị việt quất,25000.0
+591,1106,Sữa chua sấy lạnh vị tự nhiên,25000.0
+234,1106,Sữa chua sấy lạnh vị xoài,25000.0
+36,1106,Sữa chua Summer,35000.0
+528,1106,Sữa chua Mintblue Sea,35000.0
+1457,1106,Sữa chua trân châu,25000.0
+1243,1106,Sữa chua trắng,20000.0
+542,1106,Sữa chua đậu đỏ,25000.0
+1092,1106,Sữa chua nha đam,30000.0
+1315,766,Smoothie Việt Quất,35000.0
+50,766,Smoothie Dâu,35000.0
+1356,766,Smoothie Chanh Leo,35000.0
+1733,766,Sữa chua Chocomint,35000.0
+36,766,Sữa chua Summer,35000.0
+528,766,Sữa chua Mintblue Sea,35000.0
+934,766,Sữa chua Sunrise,35000.0
+591,766,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1147,766,Sữa chua sấy lạnh vị việt quất,25000.0
+852,766,Sữa chua sấy lạnh vị dâu,25000.0
+1315,660,Smoothie Việt Quất,35000.0
+50,660,Smoothie Dâu,35000.0
+1733,660,Sữa chua Chocomint,35000.0
+36,660,Sữa chua Summer,35000.0
+528,660,Sữa chua Mintblue Sea,35000.0
+591,660,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1147,660,Sữa chua sấy lạnh vị việt quất,25000.0
+852,660,Sữa chua sấy lạnh vị dâu,25000.0
+234,660,Sữa chua sấy lạnh vị xoài,25000.0
+1380,660,Trà Dâu Xoài Nhiệt Đới,30000.0
+1733,765,Sữa chua Chocomint,35000.0
+36,765,Sữa chua Summer,35000.0
+528,765,Sữa chua Mintblue Sea,35000.0
+934,765,Sữa chua Sunrise,35000.0
+1315,765,Smoothie Việt Quất,35000.0
+50,765,Smoothie Dâu,35000.0
+1356,765,Smoothie Chanh Leo,35000.0
+852,765,Sữa chua sấy lạnh vị dâu,25000.0
+1147,765,Sữa chua sấy lạnh vị việt quất,25000.0
+591,765,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1733,584,Sữa chua Chocomint,35000.0
+1457,584,Sữa chua trân châu,25000.0
+1679,584,Sữa chua nếp cẩm,25000.0
+1243,584,Sữa chua trắng,20000.0
+483,584,Sữa chua việt quất,35000.0
+272,584,Sữa chua xoài,35000.0
+376,584,Sữa chua dâu,35000.0
+1762,584,Sữa chua matcha,25000.0
+767,584,Sữa chua đào,35000.0
+1092,584,Sữa chua nha đam,30000.0
+1315,595,Smoothie Việt Quất,35000.0
+50,595,Smoothie Dâu,35000.0
+1356,595,Smoothie Chanh Leo,35000.0
+591,595,Sữa chua sấy lạnh vị tự nhiên,25000.0
+1147,595,Sữa chua sấy lạnh vị việt quất,25000.0
+852,595,Sữa chua sấy lạnh vị dâu,25000.0
+234,595,Sữa chua sấy lạnh vị xoài,25000.0
+1733,595,Sữa chua Chocomint,35000.0
+36,595,Sữa chua Summer,35000.0
+958,595,Sinh Tố Bơ,35000.0
+429,1105,Bắp Xào trứng muối tóp mỡ,40000.0
+1296,1105,Bắp Xào trứng gà tóp mỡ,30000.0
+738,1105,Bắp xào trứng muối 2 trứng,45000.0
+1814,1105,Bắp Xào Trứng Gà Trứng Muối Xúc Xích,45000.0
+520,1105,Bắp Xào Bình Thường,25000.0
+560,1105,Bắp xào trứng gà 2 trứng,35000.0
+1767,1105,Bắp Xào Tóp mỡ,30000.0
+1886,1105,Bắp Xào Trứng Muối,35000.0
+258,1105,Bắp Xào Trứng Muối Xúc Xích,40000.0
+1706,1105,Bắp Xào Tóp Mỡ Xúc Xích,35000.0
+1210,3,Bắp xào trứng gà,30000.0
+819,3,Bắp xào tóp mỡ,30000.0
+1194,3,Bắp xào trứng muối,35000.0
+894,3,Bắp Xào Trứng Gà Xúc Xích,35000.0
+465,3,Bắp xào bình thường,25000.0
+429,3,Bắp Xào trứng muối tóp mỡ,40000.0
+1296,3,Bắp Xào trứng gà tóp mỡ,35000.0
+520,3,Bắp Xào Bình Thường,25000.0
+916,3,Bắp Xào trứng muối 2 trứng,45000.0
+1148,3,Bắp Xào Xúc Xích,30000.0
+869,477,Bánh Plan Truyền Thống,8000.0
+146,477,Bánh Flan trà xanh,8000.0
+793,477,Yaourt - bịch,7000.0
+551,477,Bánh Flan Phô Mai,9000.0
+1042,477,Rau câu dừa,8000.0
+335,477,Yaourt - hủ,9000.0
+1197,477,Cao quy linh,8000.0
+1775,477,Hột vịt lộn luộc,10000.0
+1492,477,Cút lộn xào me,20000.0
+488,477,Hột vịt lộn xào me,13000.0
+1603,679,Lốc 10 Bánh flan Trứng,80000.0
+1091,679,Lốc 10 Bánh Flan Phô Mai,100000.0
+1302,679,Lốc 10 Bánh flan trà xanh,80000.0
+363,679,Lốc 10 Rau câu dừa,80000.0
+1290,679,Lốc 10 Sữa Chua Hủ,150000.0
+1516,679,Lốc 10 Bánh Flan Vị Trà Xanh Phô Mai,100000.0
+418,679,Lốc 10 Quy linh cao,80000.0
+1880,679,Lốc 5 Flan Trứng,40000.0
+1600,679,Lốc 5 Flan Phô Mai,50000.0
+900,679,Lốc 5 Hủ Rau Câu Dừa,40000.0
+812,346,Bánh tráng trộn không ớt,25000.0
+222,346,Trà tắc siêu ngon,17000.0
+1358,346,Bánh tráng trộn lớn không ớt,32000.0
+917,346,Bánh tráng trộn không đậu phộng,25000.0
+160,346,Nước Ép Thơm,27000.0
+595,346,Nước Ép Cóc,27000.0
+534,346,Sinh Tố Mãng Cầu,27000.0
+1,346,Nước Ép Cam Cà Rốt,27000.0
+1045,346,Sinh Tố Dừa,27000.0
+382,346,Nước Ép Ổi,27000.0
+812,706,Bánh tráng trộn không ớt,25000.0
+1358,706,Bánh tráng trộn lớn không ớt,32000.0
+1161,706,Bánh tráng trộn có ớt,25000.0
+1122,706,Bánh tráng trộn lớn có ớt,32000.0
+1327,706,Bánh tráng cuốn,30000.0
+266,706,Bánh tráng muối tắc,30000.0
+939,706,Bánh tráng bơ tỏi,17000.0
+1054,706,Bánh Tráng Xìke,15000.0
+397,706,Bánh Tráng Chấm muối sate tắc,15000.0
+1677,706,Bánh Chấm Me,25000.0
+1670,418,Bánh tráng trộn không ớt (tự trộn).,25000.0
+263,418,Bánh tráng trộn lớn không ớt(tự trộn).,32000.0
+917,418,Bánh tráng trộn không đậu phộng,25000.0
+782,418,Banh Tráng Trộn Vừa Không Ớt(tự trộn),30000.0
+956,418,Bánh tráng trộn có ớt(tự trộn).,25000.0
+1133,418,Bánh tráng trộn lớn có ớt(tự trộn).,32000.0
+555,418,Bánh Tráng Trộn Vừa Có Ớt(tự trôn).,30000.0
+251,418,Bánh xé phô mai,15000.0
+639,418,Bánh Tráng Cháy Rong biển,15000.0
+732,418,Bánh Tráng Trôn Không Đậu Phộng(tự trộn,30000.0
+603,924,Hotdog thập cẩm,10000.0
+1061,924,Hotdog phô mai,10000.0
+624,924,Thập cẩm đặc biệt ( full phô mai ),20000.0
+820,924,Hotdog chà bông,10000.0
+1040,924,Full phô mai,18000.0
+261,924,Hotdog xúc xích,10000.0
+315,924,Full phô mai chà bông,20000.0
+887,924,Thập cẩm trứng muối,20000.0
+794,924,Hotdog pate,10000.0
+1055,924,Hotdog trứng muối,10000.0
+415,141,Tré chả trộn thập cẩm,50000.0
+1198,141,Chả trộn trứng cút,40000.0
+415,141,Tré chả trộn thập cẩm,70000.0
+1198,141,Chả trộn trứng cút,50000.0
+415,141,Tré chả trộn thập cẩm,60000.0
+974,141,Nem Chả trộn,50000.0
+698,141,Chả heo,5000.0
+1187,141,Phồng Tôm,5000.0
+52,141,Tré nhỏ,10000.0
+449,141,Nem,5000.0
+84,790,Sữa chua nếp cẩm truyền thống,18000.0
+204,790,Sữa chua nếp cẩm thập cẩm,24000.0
+846,790,Sữa chua nếp cẩm dừa,18000.0
+1527,790,Sữa chua nếp cẩm mít,18000.0
+1746,790,Sữa chua nếp cẩm xoài,18000.0
+846,1189,Sữa chua nếp cẩm dừa,18000.0
+1527,1189,Sữa chua nếp cẩm mít,18000.0
+1746,1189,Sữa chua nếp cẩm xoài,18000.0
+204,1189,Sữa chua nếp cẩm thập cẩm,24000.0
+951,862,ComBo 3,55000.0
+1068,862,Combo4,107000.0
+1281,862,ComBo 1,80000.0
+1473,862,ComBo 2,70000.0
+531,862,Đậu hủ thúi truyền thống,28000.0
+522,862,Đậu hủ thúi lắc muối,28000.0
+1083,862,Chân Gà Xông Khói Đài Loan,28000.0
+1328,862,Đậu Hủ Xông Khói,28000.0
+1818,862,Mì Bò Cay,75000.0
+270,862,Trà tắc,18000.0
+1281,416,ComBo 1,80000.0
+951,416,ComBo 3,55000.0
+531,416,Đậu hủ thúi truyền thống,28000.0
+522,416,Đậu hủ thúi lắc muối,28000.0
+1328,416,Đậu Hủ Xông Khói,28000.0
+177,942,Thạch Nước - vị Dâu,27000.0
+996,942,Thạch Nước - vị Đào,27000.0
+1382,942,Thạch Nước - vị Xoài,27000.0
+174,942,Thạch Nước - vị Mãng Cầu,27000.0
+1294,942,Thạch Nước - vị Kiwi,27000.0
+535,942,Trà sữa thập cẩm,34000.0
+421,942,Trà Sữa Phô Mai Tươi + Bánh Flan,31000.0
+658,942,Trà Sữa Phô Mai Tươi,31000.0
+640,942,Hồng trà thập cẩm,25000.0
+1348,942,Trà Ổi Hồng + Trân châu Hoàn Kim + 3Q Trắng,33000.0
+878,883,Trà Sữa Size Khủng,50000.0
+1777,883,Trà Đào Size Khủng,44000.0
+1535,883,Hồng Trà Size Khủng,45000.0
+177,883,Thạch Nước - vị Dâu,27000.0
+996,883,Thạch Nước - vị Đào,27000.0
+174,883,Thạch Nước - vị Mãng Cầu,27000.0
+1382,883,Thạch Nước - vị Xoài,27000.0
+339,883,Trà sữa Phô mai tươi,29000.0
+1275,883,Trà sữa Sóng Sánh,39000.0
+233,883,Trà sữa trân châu đen - size M,22000.0
+996,974,Thạch Nước - vị Đào,27000.0
+1382,974,Thạch Nước - vị Xoài,27000.0
+177,974,Thạch Nước - vị Dâu,27000.0
+174,974,Thạch Nước - vị Mãng Cầu,27000.0
+1615,974,Trà sữa truyền thống,22000.0
+1740,974,Trà sữa Thái xanh,25000.0
+1547,974,Trà sữa Socola,25000.0
+284,974,Trà sữa Bạc Hà,25000.0
+55,974,Trà sữa Olong,25000.0
+1683,974,Trà sữa Matcha,25000.0
+563,220,Sữa chua lắc Dâu,24000.0
+1543,220,Sữa chua lắc Xoài,24000.0
+777,220,Sữa chua lắc Đào,24000.0
+714,220,Sữa Chua Lắc Ổi Hồng,24000.0
