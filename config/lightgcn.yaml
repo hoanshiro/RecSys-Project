@@ -19,4 +19,4 @@ info:
     save_model : False # whether to save model
     save_epoch : 100 # if save_model is set to True, save the model every save_epoch
     metrics : ["recall", "ndcg", "precision", "map"] # metrics for evaluation
-    MODEL_DIR : ./tests/resources/deeprec/lightgcn/model/lightgcn_model/ # directory of saved models
+    MODEL_DIR : "data/lightgcn/model/lightgcn_model/" # directory of saved models
